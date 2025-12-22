@@ -48,7 +48,7 @@ StackOverflow-Clustering/
 │   └── final_outputs/              # 最终产出数据
 │       └── 1180_final_cluster_labels.csv # ★ 核心聚类标签文件
 ├── docs/                         # 文档与报告
-│   ├── 项目技术总结报告.md           # 完整的项目技术总结报告
+│   ├── 总结报告.md           # 完整的项目技术总结报告
 │   └── 评估与定性分析/
 │       └── q_308_定性分析报告.md     # Cluster 816 (QID 308) 详细定性分析报告
 ├── results/                      # 实验结果输出文件
