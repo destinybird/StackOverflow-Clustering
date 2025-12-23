@@ -81,7 +81,8 @@ StackOverflow-Clustering/
 
 3.  **聚类 (03_clustering):** 运行 `clustering_main.py` 得到 `1180_final_cluster_labels.csv`。
 
-4.  **评估 (04_evaluation):** \* 运行 `baseline_generate.py` 生成对照基线。
+4.  **评估 (04_evaluation):**
+    - 运行 `baseline_generate.py` 生成对照基线。
 
     - 运行 `metrics_extended.py` 计算并输出评估报告 (`cluster_metrics_extended_with_baselines.csv`)。
 
