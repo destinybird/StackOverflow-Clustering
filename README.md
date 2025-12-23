@@ -41,6 +41,7 @@ StackOverflow-Clustering/
 │   │   └── clustering_main.py      # 包含 DBSCAN 尝试和 K-Means 优化 (K=1180)
 │   └── 04_evaluation/            # 评估与定性分析模块
 │       ├── baseline_generate.py    # 生成六类对照基线数据
+|       ├── export_question_clusters.py # 生成对应 question id 的各 baseline 与 ours 的数据
 │       ├── metrics_extended.py     # 计算九大聚类指标
 │       └── question_cluster_inspect/topic_tree_generation.py# 簇内部子主题分解分析 (定性)
 ├── data/                         # 数据文件 (大型文件需通过链接下载)
