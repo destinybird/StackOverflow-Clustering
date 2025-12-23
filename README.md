@@ -42,6 +42,7 @@ StackOverflow-Clustering/
 │   └── 04_evaluation/            # 评估与定性分析模块
 │       ├── baseline_generate.py    # 生成六类对照基线数据
 |       ├── export_question_clusters.py # 生成对应 question id 的各 baseline 与 ours 的数据
+|       ├── export_clusters.py # 找到小簇，并生成对应的 csv ，以便我们分析
 │       ├── metrics_extended.py     # 计算九大聚类指标
 │       └── question_cluster_inspect/topic_tree_generation.py# 簇内部子主题分解分析 (定性)
 ├── data/                         # 数据文件 (大型文件需通过链接下载)
