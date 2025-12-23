@@ -10,9 +10,9 @@
 
 - **最终模型：** MiniBatchKMeans ($K=1180$)
 
-- **输入数据：** PCA 降维至 256 维的 SBERT 语义向量 (保留 97.7% 信息)。
+- **输入数据：** PCA 降维至 256 维的 SBERT 语义向量。
 
-- **去重效果：** 通过定性分析（如 Cluster 816 案例），证明聚类能高效识别“本质相同但表达不同”的重复问题。
+- **去重效果：** 通过定性分析，证明聚类能高效识别“本质相同但表达不同”的重复问题。
 
 ---
 
@@ -68,13 +68,11 @@ StackOverflow-Clustering/
 
 请从以下链接下载核心数据文件，并将其放入 `data/intermediate/` 文件夹中：
 
-- **原始 SBERT 向量 (384D):** \[链接待补充] `oracle_full_content_embeddings.npy`
-
-- **聚类输入 (256D):** \[链接待补充] `pca_256.npy`
+- **原始 SBERT 向量 (384D):** \[https://pan.baidu.com/s/1qOxf2zcBrfVJ9aOQue1PPQ?pwd=x8bw] `oracle_full_content_embeddings.npy`
 
 ### 2. 运行顺序 (Run Sequence)
 
-建议严格按照以下顺序运行代码：
+按以下顺序运行代码：
 
 1.  **向量化 (01_vectorization):** 运行相应的向量化脚本（如果要重新生成 `embeddings.npy`）。
 
