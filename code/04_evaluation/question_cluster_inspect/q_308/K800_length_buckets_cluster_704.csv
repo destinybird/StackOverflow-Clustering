@@ -1,0 +1,191 @@
+question_id,title,answer_count,text_length,cluster_id
+308,Is there a version control system for database structure changes?,21,3930,704
+55899,How to see the actual Oracle SQL statement that is being executed,5,3930,704
+221822,Sybase Developer Asks: How To Create a Temporary Table in Oracle?,6,3930,704
+414072,Performance of Dynamic SQL with Bind vs Normal SQL within Package,4,3930,704
+1062569,Batch multiple select statements when calling Oracle from ADO.NET,4,3930,704
+1327503,"How to insert an ""Optimizer hint"" to Hibernate criteria api query",6,3930,704
+1378133,Why are Oracle table/column/index names limited to 30 characters?,8,3930,704
+1647581,Automatically selecting dates from databases as Zend_Date objects,2,3930,704
+2186155,Problem retrieving time from date field in oracle stored procedure,3,3929,704
+2236475,Finding and removing Non-ASCII characters from an Oracle Varchar2,17,3930,704
+2251426,TextMessage received from Oracle AQ using JMS contains just '???',1,3930,704
+2285527,ORA-12154: TNS:could not resolve the connect identifier specified,8,3930,704
+2315295,"Why is selecting specified columns, and all, wrong in Oracle SQL?",7,3930,704
+2364818,When should database synonyms be used?,6,3930,704
+2656481,Multi-Schema Privileges for a Table Trigger in an Oracle Database,3,3930,704
+2668657,How to optimize an SQL query with many thousands of WHERE clauses,4,3930,704
+2701985,"Oracle command hangs when using view for ""WHERE x IN..."" subquery",2,3930,704
+2877113,Oracle SELECT query: collapsing null values when pairing up dates,2,3930,704
+3092041,Understanding the differences between Table and Transaction API's,1,3930,704
+3406535,How to optimize the response time for following Oracle 10g query?,3,3930,704
+3554521,Differences between two dates in Oracle which were in same column,2,3930,704
+3564283,How to declare variable and use it in the same Oracle SQL script?,10,3930,704
+4040192,How do I insert data into object tables that have refs to others?,1,3930,704
+4109435,How to check for null/empty/whitespace values with a single test?,14,3930,704
+4254123,Error 500: could not initialize a collection in hibernate mapping,0,3930,704
+4599797,Trying to not need two separate solutions for x86 and x64 program,5,3930,704
+4614107,Oracle Sql Query taking a day long to return results using dblink,2,3930,704
+5090916,Securing Oracle distributed transactions against network failures,2,3930,704
+5385223,How does one resequence table rows in physical order on the disk?,2,3930,704
+5420126,Is there an efficient way to avoid UNIONs of fixed values in SQL?,4,3930,704
+5549781,Generate Upper and Lowercase Alphanumeric Random String in Oracle,6,3930,704
+5565899,python validate Oracle username/passwords without using cx_Oracle,3,3930,704
+5751739,How do I complete the input of a CREATE TYPE in sqlplus (Oracle)?,3,3930,704
+6410522,Discover PL/SQL package-level types using Oracle dictionary views,6,3930,704
+6424361,Copy the values of a sequence from one Oracle database to another,4,3930,704
+6630887,Using IS NULL or IS NOT NULL on join conditions - Theory question,5,3930,704
+6734061,Executing PL/SQL Begin/End procedure from Oracle JDBC thin driver,1,3930,704
+6880215,Not able to access field through hibernate on oracle database on different userspace with only select privileges,1,3930,704
+7093845,Oracle SQL*Plus error with blanklines and multiple lines comments,1,3930,704
+7274448,SQL for grouping/compressing by time span for a report dynamically,4,3929,704
+7669001,How do I get information about an index and table owner in Oracle?,4,3929,704
+8535383,SQL: Efficiently Applying Credits (payments) across Debits (bills),1,3929,704
+8967652,How do you specify IN clause in a dynamic query using a variable?,4,3930,704
+9022228,SQL or Oracle PL-SQL Query to mimic nested FOR LOOP functionality,4,3930,704
+9861529,Selecting employees with birthdays in given range using Oracle SQL,7,3929,704
+9887092,How to reduce the execution time of the following query in Oracle?,2,3929,704
+13480021,Using existing C# model classes to build an entity diagram (.EDMX),2,3929,704
+14335474,Eclipselink only gives syntaxError on PARTITION when running tests,1,3929,704
+15306486,Need help getting my Oracle Database working. Using SQL Developer,1,3930,704
+15509697,Hotel - Single booking with multiple dependents in multiple rooms,2,3930,704
+15543916,PL/SQL Programming: Using block labels to differentiate variables,3,3930,704
+16044651,Trigger to check for duplicates and update a value of an attribute,2,3929,704
+16068362,SQL: minimum date/time value within 24 hours of another date/time,3,3930,704
+16106672,bat file to run sqlplus and then execute command based on result?,2,3930,704
+18595060,Is it possible to continue running code from the point of failure?,3,3929,704
+19223416,java.lang.UnsatisfiedLinkError: no ocijdbc11 in java. library.path,5,3929,704
+21159428,Custom sequence generation in multithreaded & cluster environment,2,3930,704
+21462856,oracle query to obtain all major version segmented message values,2,3930,704
+21921658,Oracle Regular Expression (REGEXP_LIKE) Too Long Error - ORA-12733,2,3929,704
+22018804,Oracle SQL Developer 4.0 - How to remove double quotes in scripts,1,3930,704
+27536290,How to fix ORA-01427 Single-Row Subquery Returns More Than One Row,2,3929,704
+27560969,Oracle JDBC / PL SQL / TYPE / Package Level / Invalid Name Pattern,2,3929,704
+28706077,Why do I get PLS-00302: component must be declared when it exists?,2,3929,704
+28822030,SQL query that selects values from different rows that has same id,2,3929,704
+29724009,Trouble installing SQL Developer OE (Order Entry) sample database,2,3930,704
+32022907,Oracle Forms 10g users disconnecting randomly with error FRM-92102,1,3929,704
+33880392,Excel XML import creates extra column called NULL for null values,1,3930,704
+33941151,Oracle PL/SQL: how to delete a row and then output it using pipe?,1,3930,704
+34002347,"Oracle SSIS Simple Query - ""Literal does not match format string""",2,3930,704
+34103927,c3p0 is always calling commit even if data is coming from Ehcache,2,3930,704
+34534653,How do I call PL/SQL variables from within a Javascript function?,2,3930,704
+34578868,Displaying first three hundred (300) words of a string in Oracle?,3,3930,704
+34874749,How can I select unique values from several columns in Oracle SQL?,4,3929,704
+34983023,Oracle SQL - How to do massive updates more efficient and faster?,2,3930,704
+35081899,ORA-01733 (Virtual column not allowed here) after database update,1,3930,704
+35084974,Insert my data from Relational Tables to Object-Relational Tables,1,3930,704
+35143419,"ORA-02396: exceeded maximum idle time, please connect again error",3,3930,704
+35215131,Datatable's structure optimization: 'null' or equal to some value,1,3930,704
+35367665,Converting crystal report code to Oracle SQL query for date range,1,3930,704
+35469431,Python cx_oracle multithreading not working for cursor per thread,2,3930,704
+35574066,Geeting error ORA-01036 while executing Oracle Procedure using C#,0,3930,704
+35641953,Stored procedure to add a row to top of list,2,3930,704
+35674484,Oracle - Iterate over XMLTYPE And Return Nodes As Individual Rows,2,3930,704
+35774006,Calling Oracle procedure with PL/SQL record Type from Spring JDBC,2,3930,704
+35842619,PL/SQL: ORA-00932: inconsistent datatypes: expected UDT got NUMBER,4,3929,704
+37116307,Classic ASP calling Oracle stored procedure with OraOleadb Driver,1,3930,704
+37187733,Pass a ColdFusion Array to an Oracle Collection as a bind variable,2,3929,704
+37211280,Rebuilding data from two tables and renaming rows from table data,1,3930,704
+38361136,Remove Nulls from multiple rows; create [Start] and [End] columns,3,3930,704
+42155491,Spring Boot externalised configuration for DataSource not working,3,3930,704
+42297053,"Remove rows with weight above a limit, until there is no such row",2,3930,704
+43611392,Oracle: Fastest way to compare tables containing CLOB and get diff,3,3929,704
+43661542,ORA-00936 with a substitution variable - error does not make sense,1,3929,704
+44792879,how to write sql query to select rows with max value in one column,5,3929,704
+45220807,"H2 with MODE=Oracle causes 'Schema ""information_schema"" not found'",2,3929,704
+51703217,how to discard image while uploading Apache log file to oracle database,1,3929,704
+51741612,Order By clause returning different result when querying each time,2,3929,704
+52634542,PreparedStatement: Missing expression on single quote (ORA-00936),3,3930,704
+52751546,Poor performance Insert statement when select view contain dblink,1,3930,704
+52755921,Checking if the values found by the cursor meet the new condition,1,3930,704
+52944459,Oracle SQL - How to Cut out characters from a string with SUBSTR?,4,3930,704
+53151161,Oracle SQL - How can I call the ODCI pipelined function using JSP,1,3930,704
+53256160,Oracle Packages and using a select statement in a public variable,1,3930,704
+53280097,How to run hibernate+spring mvc on both oracle and mysql database,0,3930,704
+53322132,How to retrieve the corresponding values from XML file in vb.net?,2,3930,704
+53488987,How to display the results of a procedure outside of it in Oracle,1,3930,704
+53499868,Finding last number generated by a sequence before it got deleted,1,3930,704
+53551658,Altering table property to default when NULL only for new inserts,3,3930,704
+53957223,Error: NJS-045: cannot load the oracledb add-on binary for Node.js,0,3929,704
+54097267,How to create two Grand Total rows using SQL - Totals and Averages,2,3929,704
+54164999,ORA-01652:unable to extend temp segment by 128 in table space TEMP,1,3929,704
+56342495,Oracle SQL - VIEW PUSHED PREDICATE not happening when using dblink,0,3929,704
+56604286,Oracle error: expression '' cannot be used as an assignment target,2,3929,704
+57039817,How to compare two row in same table and provide the mismatch data,4,3929,704
+57052885,"How can I create pipelined function with cursor, and return table?",2,3929,704
+57296213,"SQL Select Error: ""ORA-01722: invalid number"" only when number is queried",4,3929,704
+58594006,BST to GMT Oracle Error (ORA-08186) whilst using a Flashback Query,1,3929,704
+59343774,SQL Query with multiple Inner Joins returns wrong Count of Values,2,3930,704
+59364136,Many to many relationships in SQL. Can t get more than one result,1,3930,704
+59616253,ORA-00918: Column ambiguously defined when inserting multiple rows,1,3929,704
+59789490,Can there be a 1 to 1 relationship for keys with multiple fields?,1,3930,704
+60201446,How to display Area wise Data for the following Problem statement?,2,3929,704
+60813903,"Hierarchical query with reference to previous row, not parent row",1,3930,704
+64279509,Oracle RegExp - Dealing with double quotes within the string field,1,3929,704
+66237883,Create new Event_ID based on ID with sliding window on date column,2,3929,704
+66299965,Escaping characters in select statement withing a cursor in Oracle,2,3929,704
+67129144,Unable to pull the results by passing input as xml path in oracle,1,3930,704
+67292511,ASP.NET Core 3.1 MVC : Integer conversion between .net and oracle,0,3930,704
+68680148,dbWriteTable function from DBI package changes character encoding,1,3930,704
+68920102,How can I find all necessary columns for creating a unique index?,2,3930,704
+68946166,"""ORA-01861: literal does not match format string"" Error in PL/SQL",2,3930,704
+69143802,error in hibernate java (StandardServiceRegistryBuilder.java:165),0,3930,704
+69314465,How to define a PL/SQL function and call it from another language,1,3930,704
+69362623,Save vividsolutions.jts.geom.Polygonal attribute with hibernate 5,1,3930,704
+69541759,ORA-01439: column to be modified must be empty to change datatype,1,3930,704
+69677819,"Group BY query utilizes indexes, but window function query doesn't",1,3929,704
+69923625,How / why does behavior of SQL*Plus BREAK depend on column order?,2,3930,704
+70250976,Oracle comparing clobs in same row,2,3930,704
+70446915,@NativeQuery ORA-00942: table or view does not exist - SpringBoot,0,3930,704
+70713075,Connect to Oracle database using python from a Linux server (lxv),2,3930,704
+71046419,Stored procedure Is throwing ORA-20000: ORA-00913: too many values,0,3929,704
+71229955,check for same quantity after applying GROUP BY (tricky scenario),2,3930,704
+71576943,Get String Before a Substring till nth Occurrences of a Character,2,3930,704
+72003974,Oracle function to return random date and timestamp between VALUES,2,3929,704
+72011055,Connect Oracle DB with Entity Framework with Code First in VS2022,0,3930,704
+72021350,DBMS_OUTPUT.PUT_LINE not printing when EXECUTE IMMEDIATE executed,1,3930,704
+72038672,using cursor inside cursor to loop through table values in oracle,1,3930,704
+72267574,Utilize a function-based index while selecting additional columns,1,3930,704
+72678604,How to make existing values to null from the existing plsql logic,2,3930,704
+72684305,Get point geometries as rows for each vertex in SDO_GEOMETRY line,3,3930,704
+72804060,ORACLE Query to check if one field has changed to another specific,1,3929,704
+73239081,Oracle SQL Script to extract emergency and family contact details,1,3930,704
+73821751,How can I SELECT uncommitted records within the same transaction?,2,3930,704
+73831278,Recurring Schedule in Oracle Fusion BI Publisher Reports via SOAP,1,3930,704
+73894601,"Single CTE with multiple SELECTs, CTE created twice in SQL Server",1,3930,704
+74161206,Converting date from DD-MON-YY to DD-MM-YYYY with NLS_DATE_FORMAT,3,3930,704
+74314332,PL-SQL Query : Difference in values based on date from same table,2,3930,704
+74429477,"I'm stuck with this PLSQL function question, can you help me out?",2,3930,704
+74437638,Analytic functions and means of window clause for calculating sum,1,3930,704
+74940833,Null Pointer Exception with JdbcIO read in Apache Beam [DataFlow],1,3930,704
+75160196,MAX function is causing performance issue in select clause oracle,1,3930,704
+75227280,Obtaining one description from multiple domain tables with Oracle,2,3930,704
+75282502,"Could not load file or assembly 'Interop.Office, Version=2.1.0.0,'",1,3929,704
+75295817,"Getting a ""InnerException: ORA-00923 FROM keyword not found where expected"" error in a CASE statement",2,3930,704
+75448961,How many characters can a SQL Query have? OracleDB and SQL Server,1,3930,704
+75463745,Weird results from oracle query with indexes and PreparedStatement,1,3929,704
+75539546,Oracle Two similar tables in database - Different execution plans,1,3930,704
+75578795,Convert SQL query that contains WITH clause and union in QueryDsl,1,3930,704
+75647181,How to show products in a new row if the products are more than 3,1,3930,704
+76045406,How to create a PL/SQL variable of %ROWTYPE for multiple db_links,0,3930,704
+76283874,Find the missed call and call back from the below table using SQL,2,3930,704
+76472776,How to check if number is correct after insert trigger oracle sql,2,3930,704
+76819652,ORA-25156: Old case outer join (+) cannot be used with ANSI joins,0,3930,704
+77103283,Java application connectivity issue for Oracle8 Release 8.0.5.0.0,2,3930,704
+77170455,oracle developer_ importing different forms of date in one column,3,3930,704
+77352628,Apache Spark set dataFrame from oracle database to elastic search,0,3930,704
+77493830,DELETING 100 mil rows from an ORACLE database. The best approach?,2,3930,704
+77502021,How to call HTTPS Api in pl/sql procedure using UTL_HTTP package?,2,3930,704
+77859104,Excessive Oracle Database Sessions Created by Spring's JdbcClient,1,3930,704
+77861682,Sqlalchemy - How to use joinedload while doing a groupby function,0,3930,704
+78064316,"Exit remaining condition check, if one condition met - SQL/Oracle",2,3930,704
+78181874,Oracle SQL check if a set of specific values exist in a partition,2,3930,704
+78563063,How drop unused column with dbms_redefinition in Oracle database?,1,3930,704
+78601060,How can I change the select to get all data in one block of rows?,2,3930,704
+78824858,Unable to connect to an Oracle database with the JDBC thin driver,1,3930,704
+78919938,Virtual column index not used in execution plan in Oracle database,3,3929,704
+78953183,Why is SELECT IN (strings...) faster than SELECT IN (numbers...)?,0,3930,704
+78965921,How to tell oracle SQL the backslash in regex is no escape symbol,2,3930,704
+79070345,Batch insertion into multiple tables based on a single result set,3,3930,704
+79085402,How to properly limit a String for VARCHAR2(4000 BYTE) in Oracle?,3,3930,704

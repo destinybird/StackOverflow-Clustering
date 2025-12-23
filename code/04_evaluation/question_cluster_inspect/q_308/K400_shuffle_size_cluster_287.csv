@@ -1,0 +1,462 @@
+question_id,title,answer_count,text_length,cluster_id
+308,Is there a version control system for database structure changes?,21,3930,287
+835769,Oracle DB on Amazon's EC2 + EBS,2,1084,287
+936381,Is there an Oracle wrapper for Python that supports xmltype columns?,2,821,287
+950134,how to change a column's attribute without affecting the values already present?,4,3915,287
+1107418,How do database naming conventions change for multitenant applications?,1,1002,287
+1126963,Query Hangs,0,1163,287
+1271672,"C#, insert multiple records at once to a database",0,652,287
+1359095,Optional Database Entities,6,3969,287
+1381256,Reverse in Oracle this path z/y/x to x/y/z,6,3743,287
+1545958,Oracle Migration Workbench,1,1166,287
+1566637,How to populate a single-dimension array with result of a query?,1,895,287
+2140009,Visual Studio 2008 and Oracle 10g,1,1011,287
+2650295,how to find missing rows in oracle,3,3498,287
+2779235,Restore Oracle XE data from *.DBF,1,1152,287
+2826544,Where's the OCI8 extension in PHP/5.3.2?,1,1677,287
+2918418,What is the best way to connect to an Oracle database to build my own IDE?,2,3921,287
+2957444,Can the arguments BUFFER and DIRECT be used with expdp,0,381,287
+3078409,Does Oracle Support Events?,0,286,287
+3103872,"What is a level pseudo column in Oracle, Can anyone explain me in this?",2,1680,287
+3115714,Can I set up materialised views on oracle for a SQL Server table over sqllink?,1,2066,287
+3608785,Track changes on materialized views in Oracle,2,1075,287
+3859495,Using AVG() function between two tables,1,1273,287
+3894896,Mysterious SQL blocking my stored procedure from executing on ORACLE,1,2489,287
+4224243,Sql query with where clause execution,6,3958,287
+4318900,Java: Oracle XMLType + JDBC,2,2546,287
+4343078,JDBC returning empty result set,16,3964,287
+4513988,When trying to connect to a remote Oracle database with Django I get an odd error,2,2768,287
+4547006,Hibernate Batch Cascade Delete a Collection,1,3443,287
+4847767,Online databases for trying out Oracle SQL queries?,9,3944,287
+5013411,Oracle ODP.NET BulkCopy number format issue,1,1311,287
+5022581,Dealing with recursion (oracle),3,3964,287
+5315516,How to do a SQL group with date gap,3,3370,287
+5371677,Oracle 11g - AWR report Analysis help,1,3608,287
+5410811,How do I design a table which will store very large data?,0,572,287
+5428448,"Removing few columns -- boosting SQL performance, but",1,2142,287
+5688059,PL/SQL trigger firing question,2,1701,287
+5832559,"Encoding the ""€"" character in an ISO-8859-1 Oracle database",1,2307,287
+6204766,Simulate Oracle SPOOL in Java,1,1544,287
+6675523,Strange file upload behvaiour between Sun java and Oracle's using SwingWorker and HttpClient-4.1.1,1,1709,287
+6843254,Oracle WITH DELETE by row number,1,963,287
+7573590,Can a foreign key be NULL and/or duplicate?,10,3952,287
+7671350,"Unable to load DLL ""OraOps10.dll""",1,1381,287
+8042674,calculate and sum time difference between multiple rows,2,2546,287
+8690693,Oracle SQL query using group by clause,2,2807,287
+8821590,Getting wrong values with OLEDB select statement,1,2510,287
+8909134,Oracle: Why are all rows in all my tables duplicated?,0,1129,287
+9100778,NHibernate tries to insert when I do a select,2,2113,287
+9102083,write PL/SQL blog statement,2,2469,287
+9110236,Oracle update identic rows in a table,1,695,287
+9780282,Creating a VIEW that RESTRICTS user access to certain hours,1,2259,287
+9804590,Oracle external table with dba's directory,1,3140,287
+10019651,What is the difference between type and a ref to a type in SQL3,0,415,287
+10503798,How to update/insert a table without creating a new table (temporary or otherwise),1,3158,287
+10737807,Inserting multiple records from a trigger in oracle,2,2637,287
+11118050,PHP Oracle 10g very slow fetch,1,2247,287
+11263226,is there a way to apply WHERE conditions to only one field in a select?,3,2363,287
+11512453,Setting Precision in SQL SUM Statement,2,1385,287
+11611046,multiple database support for same JPA classs,2,1157,287
+11636470,Why would ActiveRecord::Base.execute_query stop returning all the results after the 20th row?,1,2113,287
+12145675,Oracle: Poor performance for Order by Date and rownum=5000,3,1610,287
+12343501,maintaining a variable in c# through different ASP sessions,0,2376,287
+12400406,Oracle Type Initializer Exception on Windows XP,1,2122,287
+12501197,Create table with duplicate records?,2,874,287
+12670495,Oracle SQL : search column that starts with digits,3,1831,287
+12746094,connect by prior oracle,2,2435,287
+12758623,Oracle DB performance,1,1643,287
+13357634,PL/SQL Call webservice https ORA-03113 end-of-file on communication channel,1,3757,287
+13416039,OracleDataReader returns only one row,1,2518,287
+13854265,Handling nulls when using Oracle XMLType,2,2098,287
+14084613,It says oracle.jdbc does not exist and cannot be imported,0,610,287
+14158219,How to add Oracle constraint to below tables,2,2444,287
+14339464,What is wrong in the below query?,2,746,287
+14702116,Error creating a duplicate table in oracle,2,3134,287
+14746856,Select statement don't work with double quotation in Oracle,1,2169,287
+14937024,MySQL : Storing business logic in table,1,3956,287
+15467583,Sum and conditional in oracle sql,1,1220,287
+15786953,Cursor For Loop with dynamic SQL-Statement,1,2036,287
+16171638,How to print out non-prime numbers? PL/SQL,3,3481,287
+16336183,Oracle SQL get one of each data,1,801,287
+16474238,Oracle SQL difference between varchar2(n) and varchar2(n char),2,1799,287
+16843522,Oracle Total Recall and Views,1,2263,287
+17012785,How to print alphabets A to Z in oracle using ascii values?,1,1284,287
+17028269,Rails/Oracle: ActiveRecord find returning different results from console and app,1,3915,287
+17584994,Oracle case inside where clause,4,2143,287
+18405112,"Single change to query, vastly increased execution time",0,3940,287
+18606831,ORA-01002: fetch out of sequence while using @transactional,1,3726,287
+18751140,Configuring WebLogic Logging for Commons Logging,1,1003,287
+19092348,difference between varchar2 in oracle sql and pl/sql,0,188,287
+19287873,Fetch data for different time periods from the same table,1,3035,287
+19311078,Global Temporary table rollback source,1,1558,287
+19389594,PL/SQL: Calling a procedure recursively,0,584,287
+19714909,Setting FetchSize and InitialLOBFetchSize with Enterprise Library,1,2502,287
+19780825,EclipseLink Generates Duplicate Primary Keys,1,3951,287
+20213228,selecting repetitive data and displaying as a table,1,1824,287
+20264565,Renaming a table while leaving the existing triggers behind,2,3913,287
+20556430,SQL Query with MIN function is Returning Multiple Rows,3,1369,287
+20786851,Converting between clause to joins,2,3961,287
+20895577,ORACLE TRIGGER CREATION,2,2083,287
+21159263,OutOfMemoryError occurred in Oracle driver when setFetchSize in PreparedStatement,1,3041,287
+21788963,Oracle insert 1000 rows at a time,1,2016,287
+21839047,Preventing duplicate jobs in Oracle,1,3508,287
+21961419,Netty in Oracle database,1,1671,287
+22044016,The application requires assembly Oracle.DataAccess version 1.102.5.0 to be installed,1,951,287
+22204190,Oracle SQL - Alternative for dynamic query,1,2142,287
+22341767,Oracle UCM - What will UCM do when content expired?,2,1968,287
+22382222,Tuple constraint,1,851,287
+22790701,Using the Continuation character in a DEFINE statement in Oracle SQL Developer,2,3917,287
+23013865,Date with in multiple Date Ranges,1,1361,287
+23129222,Table joining order in oracle sql,1,1035,287
+23189104,How to pass parameter values from batch (.bat) file to sql file,1,923,287
+23237655,MIN and MAX Oracle 10g,0,385,287
+23286087,ORA-01873: the leading precision of the interval is too small,1,1177,287
+23504164,"Populating a table from a view in Oracle with ""locked"" truncate/populate",1,3368,287
+23631628,LAST_NUMBER on oracle sequence,3,3965,287
+24307385,Where is Oracle sqlplus located?,4,2098,287
+24424790,Generate spool in based on condition in Oracle sql,2,2087,287
+24810813,Best query to hit Oracle index with binds and null values,1,3938,287
+24869461,How to create Spool file in Oracle 10g Express Edition,0,1427,287
+25152618,PHP Mail() Function Sends an Email But Its not received in Inbox/Junk Folder,0,1049,287
+25191273,Why am I receiving end-of-file error?,1,1313,287
+25332984,Oracle SQL CASE statement checking multiple conditions,2,1571,287
+25485449,How to get IP address of the calling client to the web-service application built in Jdeveloper 11.1.1.7?,1,1098,287
+25508402,ODP.NET Connection exception,3,3967,287
+25602138,Find all objects inside a Package or Stored proc,1,1704,287
+25693113,Using SQL or PL/SQL to replace empty lines before start of content in CLOB,1,1054,287
+25853354,Oracle dynamic database link from variables,1,1823,287
+26123074,Which time zone is used by java.sql.Timestamp(long)?,0,327,287
+26262511,"Returning a Table from an Oracle function, defined within an anonymous block",1,2645,287
+26348655,Find number of male and female friends with SQL,0,559,287
+26368330,SQL object types and Oracle's XMLType,1,2155,287
+26607565,Release unused space of USERS tablespace in oracle,1,1232,287
+26645804,How to restrict OSB application to a single server when using clustered environment?,0,964,287
+26985077,Oracle Apex Canvas to blob in PNG format saved to item,1,3306,287
+26997327,How to combine in one condition HAVING and AND in Oracle,1,2415,287
+27230879,ORA-29913: error in executing ODCIEXTTABLEOPEN callout when inserting csv into oracle,2,2317,287
+27259105,What is the pros and cons to rebuild index regularly,1,2235,287
+27287523,Getting error invalid number in sql query,1,526,287
+27424132,ORA-00942: table or view does not exist ( on another schema on same DB ),2,1555,287
+27564030,Postgres/netezza multiple join from multiple tables,1,1916,287
+27674379,returning query in oracle function,1,1128,287
+27777323,ERROR IN ORACLE WHILE EXECUTING QUERY,1,704,287
+27907747,Extracting Data from Xml Using XMLTable Function,1,3522,287
+27917061,oracle bulk delete : delete from table where column in array,1,1773,287
+28077555,Group function is not allowed here,5,3205,287
+28140306,How Can I format a DATETIME in Oracle Database?,2,3111,287
+28178484,Oracle Recursive Query - Dates,1,2619,287
+28973486,How to know if DBMS_DDL.SET_TRIGGER_FIRING_PROPERTY was set to false for a Trigger?,1,856,287
+29064496,How to insert 1 million records into table database Oracle using cross join,2,2507,287
+29145898,Entity primary key and sequence,1,2624,287
+29273432,why RAW column can print only 255 characters in console?,0,2123,287
+29287555,Weblogic scripting tool beginRepositorySession() fails,1,2198,287
+29366360,How to print on physical printer from oracle forms 6i or 11g?,0,763,287
+29638597,Oracle query : Missing Keywords/parenthesis,1,2104,287
+29708480,Differentiate Oracle SQL resultset by which WHERE clause item was matched?,1,3921,287
+29774122,Are PL/SQL variables in cursors effectively the same as bind parameters?,2,3923,287
+29853945,Illegal use of LONG datatype Oracle,2,3960,287
+29925216,Oracle Hierarchical Query Get all Childrens All Level,1,1479,287
+30104898,Configure Oracle for Spring-xd,1,1483,287
+30225333,Is it possible to create a table that updates its contents from a view once a day?,1,1069,287
+30929690,Does Oracle ADF Mobile/MAF provide any free trial version?,1,1255,287
+31179411,How to efficiently transform narrow table into wide in Oracle?,1,3933,287
+31311028,I can only export part of my tables with exp command(Oracle11g),0,1127,287
+31412301,How to create a query to compare two exact results of two additional queries?,3,3918,287
+31631475,Unable to solve ORA-06550 error pl/sql code,1,1244,287
+31721145,Oracle temp tablespace alter statement,1,1214,287
+32117879,Why the last PL/SQL statement fails using dbms_assert.enquote_literal?,2,3925,287
+32327839,Oracle to SQL Server syntax change,1,3961,287
+32381980,Java compiler is failing to resolve for ojdb6-11.2.0.3 with mvn and pom.xml,0,1147,287
+32466880,Convert script to PL/SQL procedure for dbms_scheduler,1,2265,287
+32873676,join 2 tables using oracle,2,1466,287
+33146351,Create Dynamic Objects in PL/SQL,2,3963,287
+33301022,PL/SQL: numeric or value error only in the case of a DBMS_LOB.copy() inside a while loop,2,3907,287
+33665926,How to group multiple rows with different column values in one single row,1,1127,287
+33888573,What is the way to kill an executing procedure?,0,509,287
+33929944,null pointer exception hibernate on creating sessionfactory,2,3700,287
+33935347,How insert parameter from java code into SQL query with regex?,1,575,287
+33971580,How to replace all the dots before @ in an email with empty string in Oracle SQL?,3,1945,287
+34083803,query to find the value in all the tables of the database,1,1856,287
+34308209,Create trigger that delete data from table at specific time,0,699,287
+34495468,Can we map oracle table to collections in Mongo using Mongo?,0,808,287
+34963329,PL/SQL returning contents of a table,1,2603,287
+35089182,group two tables result without duplicate results,1,2142,287
+35344650,How to use Parameterized Queries in OracleDataReader with stringbuilder in VB.Net?,0,1282,287
+35346251,Difference between Oracle sequence last number and max id inserted,0,3953,287
+35398882,"ORA-20001, ORA-06512: at line 59 ORA-06512 exception error",1,2490,287
+36031789,Insert Statement Returns ORA-01427 Error While Trying To Insert From Multiple Tables,1,2467,287
+36420007,"Why is my PL/SQL trigger raising an ""Error(2,2): PL/SQL: Statement ignored"" and an ""Error(2,5): PLS-00204: function or pseudo-column 'EXISTS' "" error?",1,3240,287
+36567904,ORA-04079:invalid trigger specification,0,2154,287
+36583139,Read JAVA serialized object from database into PL/SQL object,0,1914,287
+36632766,join two oracle results into single output,1,2664,287
+36700155,Subquery returned more than 1 value in update set clause,1,1053,287
+37202421,Use of Single Quotes Before Column Name Oracle,0,1081,287
+37508375,Comma to be considered in regex expression,1,1557,287
+37573672,Calculations from table data,1,3967,287
+37750627,UPDATE/INSERT statement within an IF statement within a LOOP using sequence,1,3864,287
+38100813,Cannot create database connection,1,2467,287
+38281098,Connection reset: set up Oracle SSL in docker,2,3600,287
+38705749,Store big number in Oracle,1,810,287
+39017541,Wrong date value inserted into database,2,3956,287
+39188758,Oracle Forms Print Execute Query,1,412,287
+39234021,import csv file with conditions imposed,1,1880,287
+39526635,Retrieving Oracle Password_Verify_Function,1,982,287
+39535824,Spring Batch SQL Merge Takes Too Long,2,3077,287
+39553609,What's new for no more varchar(255),1,3960,287
+39744321,What is the Oracle NCLOB datatype max character length?,0,1677,287
+39794316,How to Convert SQL Server NVARCHAR(3000) to Oracle NCHAR,1,3103,287
+39826847,"Oracle, generate Where clause based on table names",2,2265,287
+39930056,very slow oracle select statement,1,3156,287
+39998125,Using the PL/SQL Packages,0,1497,287
+40129288,"Indexing effect on performance while insert , update in oracle database?",1,789,287
+40151717,How to find a missing value from another table,3,3949,287
+40159341,Why invalid number error when working with string functions and string data?,1,1990,287
+40525642,How to use IN clause with Mybatis Annotation inside SQL Provider,1,1767,287
+40651830,Relation between two tables with an optional third table in between,1,3928,287
+40760832,"Insert multiple rows with hardcoded data, and one column from a multi-result select",0,1286,287
+40791216,Error occurred during activation of changes after deployment in EM,0,3929,287
+41125267,"Oracle DB ""Other users"" within a schema connection",1,1334,287
+41488466,Oracle Application Express - Form Fields not Populated with Data,1,1296,287
+41598204,Adapter JCA Tuxedo not working,1,828,287
+41770431,create table to a role and role to user in oracle,2,1711,287
+42136126,What is the difference between Mysql temporary table and oracle temporary table,1,1145,287
+42139728,ECDHE cipher suitess fail handshake on loopback connection?,1,3621,287
+42163627,Oracle: determine maximum number of connections suppported,1,1930,287
+42215077,Save image hibernate using sql (don´t hql),0,1844,287
+42309043,How to fix duplicate column name on oracle?,0,2099,287
+42414186,I want to check if a table is populated or not then I ran the appropriate select statement.,1,2286,287
+42512974,TNS protocol adapter error on test environment,0,1239,287
+42536101,Not REGEXP_LIKE in Oracle,1,1081,287
+42671153,"Getting OCI-22303: type ""AQ_MANAGER"".""MCKB_CMD_T"" not found",0,635,287
+42735435,"PL/SQL: INSTR(), SUBSTR(), How to extract values from multi-select-list",1,2941,287
+42789989,Oracle - conditional on first row of each group,2,2421,287
+42798909,"SQL Help. 2 tables joined, need information from 2 columns from one table.",1,1941,287
+43099498,load data from text file to table by using sql loader and load the those record which column no 3 = Null,0,1068,287
+43117724,How to get parameters properties from a stored procedure in Oracle?,2,2012,287
+43118612,Oracle sql issue with returning rows that have null values on table joins,1,3537,287
+43346105,Trigger compiled but on firing gets ORA-01722 error,1,1519,287
+43733195,i need Database table creating,2,3607,287
+44006627,eliminate duplicate rows using distinct not working sql,1,1271,287
+44307454,Toad for Oracle- Reshape Wide to Long,1,920,287
+45341959,to display date in the format of ‘YYYY-MM-DD’ when the date is given in the form 1-JAN-2011?,3,1210,287
+45371232,SDO Geometry. Calculate shortest distance,1,1832,287
+45383084,integrity constraint check to make sure employee over age 18,2,959,287
+45732732,Committing every x rows in table insert,1,3057,287
+45889096,How to insert a Clob into a Oracle table with Slick 3 and Oracle 12?,2,3927,287
+46100089,PL/SQL Extracting difference between dates in different formats,1,1174,287
+46144795,Excessive physical memory used on our Oracle 11.2.0.4 database servers running on RedHat 6,0,3905,287
+46272108,Wrong implementation of Oracle Java ConcurrentHashMap?,1,3941,287
+46572369,How to get the failing column name for ora-01722: invalid number when inserting,0,3916,287
+46627592,Use netbeans to create oracle Jet application: Project folder is already NetBeans project (maybe only in memory),2,1042,287
+46669346,dbms_metadata.get_ddl ...the DDL produce throws a syntax error,0,1636,287
+46932621,"Encountered the symbol ""EXCEPTION"" error in stored procedure",2,3935,287
+47119686,Failed to loop for date in Oracle,2,2095,287
+47289718,A query that uses a view as a relation,0,2216,287
+47798159,Oracle pl/sql - Use associative array with user created record,1,2561,287
+48071973,Crud opeartion in oracle tables with temporal nature,0,1059,287
+48268488,does oracle capture ROWID of rows returned for SELECT statements being run on a table?,0,1361,287
+48308827,Oracle EBS collection plan element triggers and SQL validation parameters,0,1362,287
+48503049,Oracle SQL - Remove double records that differ to one column,1,2590,287
+48503859,Slow query - Union All,0,2218,287
+48909011,Unable to connect to Oracle with ROracle package,0,1071,287
+49068151,how to use nodejs to monitor oracle table data,0,3949,287
+49370264,Working out the Oracle Select Statement,1,3956,287
+49420214,Adding parameters to Rest calls,1,3414,287
+49492653,Load sql from file and create a view of it in oracle,1,1586,287
+49521991,Declaring variables inside an Oracle procedure,1,863,287
+49751530,How to see query with the same SQL_TEXT but different parameter in history in v$sql?,1,3007,287
+49771415,Oracle: split function result into multiple columns,1,2369,287
+49861836,SQL function PIVOT with 2 column,0,2090,287
+49985353,Oracle : Send latest insert/update to JMS,2,3954,287
+50031404,Undo tablespace is growing after oracle version updated from 11.2.0.1 to 11.2.0.4,1,2406,287
+50202449,pdo's error with oracle,1,1270,287
+50276970,Oracle mutating tables,1,2610,287
+50485294,pass integer array to oracle procedure by c#,2,3951,287
+50488812,How to not duplicate columns without childs when joining many-to-many in Oracle?,1,1229,287
+50669123,Print some character repeatedly,1,227,287
+50674396,Auto incremented sequence is not in order - newer values sometimes are smaller than prev one?,0,2187,287
+50725989,C# ExecuteNonQuery ORA-00984: column not allowed here,1,3942,287
+50800387,returning last 5 rounds and passing them into where in select,1,3223,287
+50871519,ForALL construct: Collection range can be initialized to a constant?,3,3927,287
+51038352,Automatic adjustment of a field in Oracle,1,1941,287
+51207741,sql command not ended properly -- java,1,1337,287
+51304571,In my Table Date Order is inserting in wrong way,1,1967,287
+51550653,Oracle session timezone: Can Oracle DB session convert java.sql.Date to correct timezone?,1,2715,287
+51599911,Update table using rownum,2,1388,287
+51743858,How can I declare just one db variable that will look either to the Entities1.edmx or to Entities2.edmx,1,2960,287
+51986153,Does PHP 5.4 supports oracle 12?,1,2773,287
+52061115,How to search if a row is a substring of another row of the same column in Oracle,3,3434,287
+52229215,Oracle SQL: How should I have to identify the length of string?,0,421,287
+52350890,SELECT query including a junction table,1,1259,287
+52464440,use connection with different forms c#,1,1704,287
+52533075,Oracle SQL: Compare Date Ranges and get the dates of the same day,2,1353,287
+52830970,trying to execute the query for different db links using for loop concatinating dblink.but its throwing db link expected error,0,1402,287
+52973841,Oracle Linked Server in SQL Server 2017,1,1488,287
+52976817,Oracle check column in row before for a match,1,2094,287
+53046194,We are using the Java Applet technology in our product. Is there an alternative to Oracle's Java Web Plugin provided by another vendor?,1,2276,287
+53097683,Rank every x rows per group,2,1821,287
+53252448,"Complex SQL request using join, distinct, count, and where",3,2635,287
+53417809,oracle forecast (holt method),0,1595,287
+53667587,When does data in Oracle materialized view actually change?,1,1370,287
+53721399,Oracle doesn't return all rows,0,3674,287
+53732398,Cannot use current user from custom authentication in a query (ORACLE APEX),0,1113,287
+54056205,Repeatable-read transaction,0,1137,287
+54069844,Oracle view query with one condition based on which data is retrieved but one row is not retrieved,2,3546,287
+54194836,my Oracle SQL want to improve a performance,0,1006,287
+54262349,EclipseLink JPA with subselect in the first part of the FROM clause,0,2231,287
+54294137,Estimate Oracle Database Size,1,1410,287
+54310892,PL/SQL looping through PDBs,0,1207,287
+54405332,Optimizing Nested Queries and Joins,1,3960,287
+54469822,SQL*Loader ORA-01821,0,1096,287
+54586807,How to convert '2016-07-01 01:12:22 PM' to '2016-07-01 13:12:22' hour format?,1,3380,287
+54596663,WildFly - WrappedResultSetJDK8 cannot be cast to OracleResultSet,0,1726,287
+54660365,Determine max # json array elements in Oracle table,0,560,287
+54771309,Oracle SQL insert if not exist,3,3808,287
+55108195,How to get the current year from first week that started previous year,0,588,287
+55223338,Oracle SQL CREATE TABLE takes too long time or not able to create (without CREATE TABLE works),2,3155,287
+55245202,PHP/Oracle - Insert in the pk column,0,1770,287
+55303314,SSIS failing to save packages and reboots Visual Studio,2,3940,287
+55542704,How do I do an Oracle SQL update from select in a specific order?,0,2787,287
+55595938,Explanation in REGEXP_REPLACE function output,1,2009,287
+55637803,how to get last date and the closest,2,3959,287
+55919690,How to transfer SQL Select Subquery to JPQL?,1,1880,287
+55953510,Oracle SQL insert into table a user ID and a value of a list of strings,1,3017,287
+56008939,"Connected to an Oracle Database from Oracle SQL Developer, but cannot connect from the command line",1,792,287
+56076429,Retrieve single row from a query,2,3936,287
+56112072,Format a JD Edwards number column as HH24:MI:SS,1,807,287
+56691239,to_char on a date field giving unexpected results,0,510,287
+56776891,Stored Procedure output result set,3,3629,287
+56811255,Error ORA-12162 when connecting Node.js to Oracle Database,1,1569,287
+57095603,Find out why scheduled oracle job stopped running,1,2134,287
+57195880,Installing ROracle,1,3363,287
+57261298,Create a subquery in a view SQL- ORACLE,2,2359,287
+57416251,How to tag several changeset in sqlfile mode,0,974,287
+58062372,Retrieve XML data from ASP.NET SOAP Service to ASP.NET aspx page,1,3931,287
+58111961,How to report a label with 0(zero) when not found in the result in a complex CASE statement,0,2162,287
+58216803,SQL query needed for stats based on 2 tables,2,3937,287
+58222459,Oracle-Making condition in effect according to subquery,1,1386,287
+58290505,Query the text of an oracle-view via C# / Oracle.ManagedDataAccess,1,1557,287
+58308602,UNION ALL not performing as expected - Oracle SQL,0,816,287
+58333163,insert special characters in oracle database,2,678,287
+58437115,Problems getting desired output from SQL JOIN Query,1,1729,287
+58477573,SQL to find start and end date for an ID,1,582,287
+58737431,oracle table insert transaction log,1,2901,287
+58810621,ORA-00920: invalid relational operator with embedded select statement,1,2673,287
+58855423,Oracle JDBC Optimization : Enable PreparedStatement caching in a Spring boot Application,3,3907,287
+58875891,Reading blob data from database by python and store it in .zip format,2,3490,287
+58914122,Can this materialized view be fast refreshable?,1,3948,287
+58972058,How to fetch latest two records based on timestamp in sql,0,467,287
+59033251,rewrite query without DENSE_RANK,3,3963,287
+59084992,How can I improve performance of a 'LIKE'-linked LEFT JOIN (Oracle SQL),1,2918,287
+59215095,How do i change the USERS tablespace name in a pluggable database during a silent install using dbca?,1,1544,287
+59218377,"SQL Error: ORA-00984: column not allowed here 00984. 00000 - ""column not allowed here""",1,3909,287
+59285603,Oracle: Need for exists in correlated update,1,1515,287
+59329738,"Oracle SQL Trigger: After Update, Insert Rows into Another Table",2,3761,287
+59413769,Oracle SQL finding matching records on multiple sub queires in multiple tables,1,2102,287
+59547964,Split comma separated column into rows - For Multiple rows,1,2279,287
+59750748,error SQL Error [923] [42000]: ORA-00923: FROM keyword not found where expected,1,2172,287
+59834279,Connecting Crystal Reports to Oracle OCI Autonomous Database,1,521,287
+59871685,ORA-01722- Invalid Number,3,2065,287
+60054529,How to reuse the part of SQL code in Oracle,3,3952,287
+60274604,Result of the V$tablespace is confusing-,1,2420,287
+60287312,need to group records based on matching reversals,1,2229,287
+60404224,PL/SQL Switch from case statements to calculate a date based on a custom calendar by joining two tables,0,929,287
+60477947,Update statement where condtion is neglected,3,1883,287
+60509878,Oracle SQL Spool Output Issues - Headers and Dashes,1,1537,287
+60802272,Exception PL/SQL,1,3979,287
+60933693,Oracle SQL to find population by percentage range,1,2087,287
+60987576,IMP-00058: ORACLE error 1017 met ORA-01017: invalid username/password,0,1526,287
+61381042,how to set schema in oracle sql developer for oracle e business suite tables,2,754,287
+61495595,Does Insert require a commit statement,3,1551,287
+61518152,SQL Obtain total amount of deleted lines in file with multiple DELETE queries,1,2832,287
+61736693,Multiple INSERT INTO statements not working in dbeaver,2,3599,287
+61807367,"PLS-00103 Encountered the symbol ""END""",2,3957,287
+62039927,How to set sliding windows frame to range BETWEEN 1 Following AND UNBOUNDED Following in snowflake,1,3591,287
+62087238,Stop Printing double values SQL,1,772,287
+62455790,DB Link throws ORA-28511: lost RPC connection to heterogeneous remote agent using SID,0,1209,287
+62619150,How to iterate through dict with multiple columns in PL/SQL to take values from it and inject them into where statement in query,0,1314,287
+62645586,Oracle - Insert into tables using dynamic queries,3,3946,287
+62958837,"Oracle APEX: Assign primary key as interactive grid ROWID, Use select Interactive Grid ROWID in SQL query",1,2986,287
+63118309,SQL sort records which have many to many relations in alphabetical order,1,1986,287
+63876267,Create all months list from a date column in ORACLE SQL,3,3940,287
+64546710,Oracle: Insert if not exist or Update not working,1,1703,287
+64574210,Oracle Variable Definition,0,620,287
+64749439,How to calculate total time from date column in Oracle,1,3475,287
+65129412,Identify all the Oracle Processes between two snap IDs,0,3227,287
+65222801,Oracle regular expression match string from last occurence,2,3937,287
+65277494,Oracle SQL checking for overlapped dates using a trigger,0,1601,287
+65346355,How to use a fetched value in INSTR in Oracle PLSQL,2,1822,287
+65359957,How to find the data that Have status 9 but still did not have status 10,1,1283,287
+65625965,Delete logic for duplicate data is throwing ORA-00913: too many values,0,620,287
+65888674,"delete from the request oracle all that is further words ""info""",2,1462,287
+66240028,Formatting timestamp in oracle,1,2057,287
+66364796,plsql printing a custom object,1,1626,287
+66426191,IO Error: The Network Adapter could not establish the connection on MacOS Big Sur,1,1863,287
+66467513,ORA-01858 FOR BEGINNER,1,2231,287
+66604773,SQL - Grabbing only a portion of the message in a each row,3,2004,287
+66860386,Oracle selecting all values from a CSV line into custom type,1,3935,287
+66880464,How to install and start Oracle Database Express Edition (XE) 18c on Fedora Linux with SQL-Developer IDE,2,3891,287
+66969217,How Split Json with oracle 19,1,3966,287
+66991069,nHibernate.IQueryOver removing sub class left join,1,3052,287
+67071717,"How do the words ""not a single-group group function"" express what they aim to express",2,3217,287
+67204896,Oracle NCLOB column update query taking long time,1,661,287
+67390373,Updating all the record for a column in a table with value from another table,2,2542,287
+67396072,I want to list data as shown in output table in SQL,3,3710,287
+67402973,Websphere create datasource for Postgresqs,1,3665,287
+67551869,Oracle PL/SQL No data found - non consecutive Id values,1,2999,287
+67731579,"Calculate time difference between two consecutive rows, show only results greater than",0,926,287
+67942676,Check for constraints before deletion,1,3302,287
+68069245,disable auto-commit in oracle APEX,2,894,287
+68090714,I am getting the error Subscript outside of limit. How do I fix it?,1,1481,287
+68096648,how to retrieve employee hierarchy without using connect by clause in oracle,1,3322,287
+68128331,Generate Alter statements of partition of all existing tables from Oracle views in 12c,0,2294,287
+68884606,Equivalent of Number(38) in Oracle DB SQL?,1,1986,287
+69042788,"I'm repeatedly getting this ""integrity constraint violated- parent key not found"" error",0,3862,287
+69801385,Application Express node under Oracle SQL Deverloper v21.1,1,1278,287
+70013813,"Getting data from another table, if exist will show as Yes else No",1,1042,287
+70218476,What does Varchar(2000 char) mean in Oracle DB?,1,979,287
+70581122,Gateway Timeout Error Occurrs at Exact Same Spot in Program,0,1029,287
+70915415,Vertx JDBCCLient insert BLOB into database,1,722,287
+70949613,Oracle -convert HEX datetime to readable,1,3060,287
+71110269,Oracle SQL - Round down dates to quarter,1,1955,287
+71234276,Is there any easy way to remove not null constraints of table based on a condition,0,327,287
+71368192,Why header is being duplicated when generating an Excel sheet using SQL query?,0,588,287
+71468558,Can not assign value to an IN OUT parameter,1,1675,287
+71492329,Import default PL/SQL format settings of SQL Navigator into SQL Developer,1,1109,287
+71864535,Caused by: java.sql.BatchUpdateException: ORA-00001: unique constraint violated,0,1968,287
+72049328,SQL. Locating gaps between a series of fromDates and toDates,1,3200,287
+72710573,I am encountering Error while trying to connect Oracle from Azure Databricks Notebook Using cx_Oracle,1,926,287
+72749084,Oracle finding duplicate rows that are consecutive for a given field,2,3927,287
+72776702,Oracle - Edit a pipeline before it returns from a function,0,2274,287
+73062609,How can I pass a reference to a lob variable as a parameter?,1,816,287
+73441495,Formatting a hierarchical query in a nested tree syntax (Oracle),1,3931,287
+73878905,Converting ODP.NET core reader's result to dataset or list,0,1979,287
+73912397,I need to subtract the current timestamp from the most recent timestamp that was used in a table using Oracle SQL Developer,1,1507,287
+74053703,Oracle.ManagedDataAccess incredibly slow performance on Parent-Children complex object,0,3909,287
+74104228,How to get 1st result of each result set that matches criteria,1,1853,287
+74122152,Conditional delete of rows by statement in oracle,3,2036,287
+74385315,PL/SQL - ORACLE APEX: Why does the INSTR function not return anything for the query when given a Page Item as input?,1,2558,287
+74547446,How to create a table with multiple indices with Oracle SQL?,1,1790,287
+74848491,How to update json property of TimeStamp in oracle,2,3355,287
+74865886,ORA-01799: a column may not be outer-joined to a subquery,3,2175,287
+75000237,How to export Oracle Apex Application dynamically?,0,1057,287
+75400030,Query does not return expected result based on parameterized WHERE,2,3424,287
+75577682,ORA-12609: tns: receive timeout occurred- Error Occurs When Running Query to Create Tablespace,1,1620,287
+75627292,Gather stats on Large table,2,3968,287
+75722624,How to substract 2 dates to get number of days,1,1852,287
+75735757,How to enforce security in Oracle dump ORA-39327,1,2094,287
+76437904,Oracle Database JDBC connection using datasource,1,1954,287
+76743652,I am unable to create a connection in Oracle Sql Developer in Macbook air m2,0,1050,287
+76825367,I would like to know default oracle view for country name/nationality?,2,817,287
+77081994,ORA-00060: deadlock detected while waiting for resource using DBA_PARALLEL_EXECUTE_CHUNKS,2,3906,287
+77145905,Optimizing recursive query in Oracle,1,2850,287
+77337958,Returning Large String from PL/SQL Function,2,3952,287
+77487139,"pyarrow.lib.ArrowTypeError: Expected bytes, got a 'LOB' object - How can I convert CLOBs to Strings at operator level?",1,1236,287
+77820028,Count And Group By Using,0,682,287
+77838483,what is this oracle query doing with the single quotes,0,767,287
+77883372,Updating a table which stores queries which requires user inputs,1,3520,287
+78265399,ORACLE Query Execution plan Understanding JOIN,1,1205,287
+78484049,Get aggregate value per group in addition to all detail rows,0,925,287
+79042636,Find first uncovered debt month in Oracle Sql,2,3950,287
+79181456,Pulling JSON in CLOB field,1,3168,287
+79298792,IGNORE_ROW_ON_DUPKEY_INDEX still causing ORA-00001 error,1,1698,287

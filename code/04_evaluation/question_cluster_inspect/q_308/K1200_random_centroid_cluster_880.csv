@@ -1,0 +1,161 @@
+question_id,title,answer_count,text_length,cluster_id
+308,Is there a version control system for database structure changes?,21,3930,880
+33204,When to commit changes?,6,3880,880
+81587,Migrating an Existing Application to accept Unicode,3,2036,880
+155367,Does Oracle have something like Change Data Capture in SQL Server 2008?,5,3924,880
+674137,JDBC Thin Driver: Invalid Packet Lenght [sic],1,3844,880
+697083,"Upgrading Informix - Switch to Oracle, Sybase or stay with Informix?",3,3927,880
+705823,Creating new database under Oracle XE on Ubuntu,0,631,880
+1094379,Limit Oracle / ASPX Query Time,2,1150,880
+1135370,"How to generate 2TB+ size of data for Oracle, Informix & Sybase",5,3932,880
+1150667,Track changes on a database,1,2340,880
+1241512,"""Cursor is closed"" error - when trying to execute an Oracle SP using JDBC",1,1186,880
+1388749,Oracle connection/query timeout,4,3964,880
+1420688,How do I synchronize two Oracle Databases?,3,3469,880
+2115420,"Cannot save clob data type in database (Struts, Spring, Hibernate)",3,3234,880
+2376615,How is Oracle's JDBC query timeout implemented?,3,1989,880
+2380835,Stored procedure performs terribly - increase timeout or fix the problem,5,3923,880
+2408947,How does oracle db writer decide whether or not to do multiblock / sequential writes,1,3458,880
+2476562,"Java framework ""suggestion"" for persisting the results from an Oracle 9i stored procedure using Apache Tomcat",3,2640,880
+2683710,Oracle XE as local recovery database and Oracle Standard as main db,3,3928,880
+2782412,al32utf8 in oracle and SQL Server and DB2 pulling data,1,1708,880
+2915386,Oracle Database Requires Manual Restart Occasionally,0,843,880
+3014223,PL/SQL pre-compile and Code Quality checks in an automated build environment?,3,3918,880
+3058235,Upgrade Oracle database from 9.2.0.7 to 9.2.0.8,3,3515,880
+3230597,How can I set a connection lifespan timeout for an OracleDataAdapter executing a stored procedure using the Fill Method?,2,2900,880
+3401936,Autoextend on chunks informix,4,2097,880
+3406149,ROWDEPENDENCIES Overhead in Oracle,1,1316,880
+4158129,Using Types.NVARCHAR with oracle JDBC driver to work with Cyrillic chars,2,3923,880
+4401043,Oracle Text will not work with NVARCHAR2. What else might be unavailable?,1,3922,880
+5040362,database restore to particular state for testing,4,2690,880
+5072862,SQL DB performance and repeated queries at short intervals,2,3937,880
+5412992,Out of heap space with tomcat 6 dbcp and oracle 11 thin driver,2,3933,880
+5770949,Techniques for Data Aging,2,1107,880
+6013508,Error 6 Initializing SQL*Plus,5,3679,880
+6019072,Oracle stored procedure hanging when called via jdbc,2,3943,880
+6703966,Oracle Database Migration Risks 10g -> 11g,1,1645,880
+7239646,PL/SQL data type support for size greater than NVarchar2,1,1498,880
+7406525,Possible complications for not closing database cursors?,1,1748,880
+7579734,"Oracle restore database to a ""newer"" version",2,3951,880
+7715093,Dropping a table partition avoiding the error ORA-00054,3,3940,880
+7993219,nvarchar & varchar with Oracle & SQLServer,0,582,880
+9183504,CLOB value too large to insert into DB2 table,1,1396,880
+10743269,oracle.ucp.jdbc.PoolDataSourceFactory and oracle.jdbc.ReadTimeout doesn't cancel the query,1,672,880
+11306896,DBCP Connection Pool loginTimeout,2,1777,880
+11456516,What is a best IDE for oracle?,2,2708,880
+11562819,Oracle JDBC charset and 4000 char limit,2,3956,880
+11762468,ORA-1000 Cursor count exceeded. Doesn't replicate on different servers,1,1003,880
+11908875,"""Faking"" an Oracle Database",3,3968,880
+12478519,Solution to do Database migrations on Oracle / SqlServer and SqlLite,0,2168,880
+12691505,integrate data between oracle and sql server,3,1455,880
+13564702,How to read clipboard text in a java class that is stored in an oracle database?,2,1681,880
+13940734,Would changing local OS time affect the database?,1,556,880
+13945710,Error : ORA-01704: string literal too long,8,3953,880
+14859758,Store a Blob from Java to BD: Data size bigger than max size for this type when is clearly not,2,3901,880
+16679108,java.sql.SQLException: Io exception: Socket read timed out vs Closed Connection,2,2312,880
+16868199,Move millions of records from sql server to oracle everyday,0,1352,880
+17519538,Oracle Net Configuration Assistant failed,1,1594,880
+18018702,CLOB storage Oracle 11g,1,3026,880
+18491892,ORA-1033: ORACLE initialization or shutdown in progress,3,2094,880
+18534476,"oracle statspack can’t install,what should I do",1,621,880
+19694171,Execute procedure each n minutes in Oracle and SQL Server,1,915,880
+19823423,Using ora_rowscn to know of each change,1,1489,880
+20519192,How to set timeout for anonoymous block or query in plsql?,4,2115,880
+20584261,"MVC - Multiple Databases(Oracle, SQL)",0,653,880
+21587710,Installation error for Oracle DBI module for perl?,2,1660,880
+21641687,Oracle 10.2.0.1.0 - Invalid Handle,0,741,880
+22035182,What do I need to use Oracle Database with my application?,1,2318,880
+22470321,ORA-01882: timezone region not found - Oracle ADF Web application,2,2098,880
+22643259,Troubleshooting Oracle+JDBC hang,2,3963,880
+22870845,Oracle: possible encoding problems when importing data,1,2853,880
+22964868,Terminate query execute in oracle database,1,1816,880
+24649387,Set query timeout value in Oracle database for a web application,1,2310,880
+26759965,How to sync oracle production database to development database,1,903,880
+26977741,How to create and drop temporary table on Oracle from SQL Server,0,873,880
+27347982,Selecting from DBA_TABLESPACE_USAGE_METRICS causes ora-1000,1,714,880
+27904301,c# Integration testing with Oracle,1,1284,880
+27940363,Updating row while iterating through ResultSet takes a lot of time,1,2025,880
+28278307,How to update an Oracle Table from SAS efficiently?,1,3944,880
+28398090,Keeping many databases in sync all the time,1,3952,880
+28768150,Oracle 11g - ORA-01565 and other errors. SPFILE,0,2946,880
+29869552,"""java.lang.Thread.sleep(long)"" is incomplete or malformed",1,1279,880
+29920257,Sync oracle database to a kind of local database,1,2262,880
+30047586,How do I distribute my software?,0,554,880
+30316367,InfoSphere 11.3.1 Repository,0,354,880
+30590765,install_driver(Oracle) failed: Can't load '/usr/local/lib/perl5/auto/DBD/Oracle/Oracle.so' for module DBD::Oracle: libocci.so.11.1,2,1486,880
+31433408,SQL Datetime: add time on Oracle and SQL Server,1,1353,880
+32115370,Timeout of OracleDataAdapter.Fill(),2,2100,880
+32225273,Oracle transfer all varchar to nvarchar,0,831,880
+33685902,Oracle stored procedure never returns to calling desktop app,0,2503,880
+33865505,Export Oracle dump to remote disk,1,2050,880
+36041341,Saving the state of an oracle database to revert back to?,1,1464,880
+36411432,"Oracle - one server with multiple databases, but separate hardware resources",1,919,880
+37412637,oracle sql developer crashes,1,3967,880
+37545237,How to populate an Oracle TIMESTAMP WITH ZONE field using Dbunit FlatXmlDataSet,1,3916,880
+37939731,Multiple databases with slightly changing models. How do I allow to work with different database structures at run-time?,1,3875,880
+39142910,SQLServer publication from Oracle,2,3962,880
+39675199,How to do Data independent unit testing using NUnit,1,1975,880
+40179271,oracle measure execution time,1,3791,880
+40712890,Oracle queries getting stuck intermittently,3,1752,880
+41692495,How to write update query for long string in Oracle using jdbc?,0,534,880
+41768744,How to sync Oracle database with SQL Server database other than linked server and SSIS..?,1,1655,880
+42159608,Does windows 10 installed in mac hardware using bootcamp causes error with using oracle database?,0,3136,880
+43264571,C# alternative of OracleDataAdapter to access database,0,2079,880
+43924205,JDBC Update millions of records on Oracle database,1,3992,880
+44584565,Copying Data from Oracle Server to SQL Server,1,3950,880
+44724944,Oracle session inactivity timeout,1,761,880
+44893284,Cannot Insert into Extended VARCHAR2 using JDBCTemplate,1,1731,880
+46271723,I need to test my application's behavior while the oracle database is frozen. Therefore I need to simulate oracle DB freeze,1,736,880
+46577299,"ORA-00054: resource busy and acquire with NOWAIT specified or timeout expired, exception is java.sql.SQLException",1,1583,880
+46880444,Updating thousands of rows in oracle using executeBatch with spring jdbc,0,999,880
+46952312,Python 3.6.3 installation issue on oracle linux,1,1368,880
+47732331,Spring JDBC Template batchUpdate to update thousands of records in a tbale,1,3921,880
+48911120,ORACLE update range of rows selecting them by rownum,2,3943,880
+49191130,Progress of data transfer from SQL Server to Oracle,0,1178,880
+49393200,How to replicate tables from Oracle to SQL Server,4,1330,880
+49490287,"Error while doing writing unit test case -Could not load file or assembly 'Oracle.DataAccess, Version=4.112.4.0",2,3110,880
+49872748,Spring boot project with Oracle DB sometime get IO Connection timeout,1,1922,880
+50117373,"RDS vs EC2 for a short time, testing oracle db?",1,1276,880
+50252865,why update query updated two records everytime?,1,2480,880
+51248024,oracle.jdbc.ReadTimeout working but weirdly behaving,1,1193,880
+52200261,Export SQL Database for local use Java,1,2593,880
+52643401,Oracle Database Error At Startup of Windows 10,0,904,880
+53311476,How to restart an oracle 11g database in windows 10 machine,1,585,880
+53780558,Remote test instance for Oracle 11g with JDBC access,2,2625,880
+54879134,How to test against a legacy Oracle database,0,2027,880
+56516373,The system hang while calling sqlSesssion.flushStatement(),1,2905,880
+56601858,Alternatives to ora_rowscn in oracle,1,3873,880
+56780944,"update code issue in oracle database its giving a error ""ora-00933 sql command not properly ended update""",0,561,880
+56972096,Oracle database configuration assistant hangs at cloning database (44%),2,3924,880
+57576748,Performance issues of a data transfer between Oracle and SQL Server using SSIS,2,3917,880
+58396930,Oracle - update record and return updated date in same query,2,3357,880
+58524735,Oracle Error while executing query -ORA-00933: SQL command not properly ended,0,882,880
+59685863,Timeout on long running query,1,3966,880
+59832056,SCN issue for older oracle servers,2,1284,880
+60352905,Spring Integration Testing Oracle Native SQL,2,2124,880
+60846851,DatabaseError: ORA-01555: snapshot too old,1,3956,880
+60960491,To learn and use Oracle as a student - is it better to download a local windows 10 copy or use the online free tier,1,2827,880
+61584814,Quickest way to copy over table data in oracle/postgresql,0,826,880
+61818838,Can I install Oracle XE or any free version on Ubuntu 18.04?,0,626,880
+62403766,Install Oracle-database-18c-xe on ubuntu error ORA-07445,1,3939,880
+63225333,Cannot start Oracle-XE 18c due to being full,1,3951,880
+63889012,Spring Boot Notified by database for any change in values,2,1981,880
+64787714,Cannot resolve symbol 'DatabaseChangeListener',0,818,880
+64938576,Oracle: Cannot copy data from a max_string_size=extended to a max_string_size=standard database,1,3658,880
+65814555,How to increase query timeout in oracle source in SSIS,0,777,880
+67896843,"OracleDataAdapter, no command timeout and fill method hang",0,2340,880
+69770486,Seeking alternatives for data replication,1,2817,880
+70005836,Mybatis + Spring Boot : @Update is not working,1,3949,880
+70922532,Database Configuration Assist stuck at 36% while creating database,1,1008,880
+72296481,"Spring boot Hibernate error ""Access to DialectResolutionInfo cannot be null when 'hibernate.dialect' not set"" when working with multiple data sources",1,3846,880
+72354331,Intellij Datagrip IDE Oracle Linux Not Storing Data Source,1,1669,880
+73791983,Error passing an Oracle cursor when trying to test print its contents,0,1901,880
+74045931,Create the database button is not active in Oracle SQL Developer,1,1098,880
+74849656,Oracle Stored Procedure call with cursor fails with Java Spring boot,1,3927,880
+75055531,Send large amount of data in Oracle in C#,1,3954,880
+75375078,How to rollback data.sql script in integration tests?,1,3446,880
+75755159,Oracle mergin huge amount data from multiple sources into one table,1,2735,880
+76724418,Unit testing Spring Boot Repositories without test database,0,863,880
+76996526,Oracle DB hangs on last request from Spark and Java,1,3523,880
+78443694,How to set a maximum time limit for executing Java SimpleJdbcCall query?,0,565,880
+78514557,Can't launch my Spring Boot App after adding some database options,1,3929,880

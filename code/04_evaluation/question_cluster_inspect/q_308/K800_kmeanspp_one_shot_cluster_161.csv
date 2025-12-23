@@ -1,0 +1,89 @@
+question_id,title,answer_count,text_length,cluster_id
+308,Is there a version control system for database structure changes?,21,3930,161
+29744,How do you manage schema upgrades to a production database?,7,3936,161
+499171,Migrating an Oracle database with a C# application attached to it: How to manage database migration?,3,3895,161
+613059,Oracle performance of schema changes as compared to MySQL ALTER TABLE?,2,2626,161
+715811,history rows management in database,9,3960,161
+724076,Which table structure is better,3,2239,161
+995223,Error handling and data integrity when changing table schema,4,3935,161
+1444401,Data migration process for an application whose architecture is changing?,1,3290,161
+1907783,Oracle 11g rename. Guaranteed to be atomic?,5,3952,161
+2029017,Pitfalls in prototype database design (for performance viability testing),2,3922,161
+2158574,SQL Server parallels to Oracle Alter Table Set Column Unused?,1,964,161
+2231448,Errors in database migration scripts,2,3972,161
+2720094,Oracle Schema Design: Seperate Schema with I/O Overhead?,5,3939,161
+3057990,"Should I denormalize Loans, Purchases and Sales tables into one table?",2,3925,161
+3521235,Does altering or drop-recreating a table in oracle affects the policies defined on it,1,3910,161
+3833995,Loose coupling among objects within oracle schema,2,3695,161
+3838414,Can we update primary key values of a table?,6,3951,161
+3860636,Strategy for updating data in databases (Oracle),1,2344,161
+4258196,Handling Revisions within Oracle,1,1578,161
+5170213,"where to put the Business Logic, AppLayer o DataLayer?",4,3941,161
+6058885,Renaming the 100GB Table,5,1925,161
+6446885,Oracle SQL - Could a DML statement ever cause an object to be invalid?,2,1943,161
+6529663,How to minimize the coupling/dependency between physical DDL changes and PL/SQL changes?,1,1862,161
+6611969,How to Deploy Database Changes to a Live Server?,2,2358,161
+6703966,Oracle Database Migration Risks 10g -> 11g,1,1645,161
+7244291,C# library for database diff(ing),1,2727,161
+7399265,Data integrity for a large database table,4,3954,161
+7938539,State of the art selfhealing and selfprotection in DBMS,1,474,161
+10618807,Oracle trigger efficiency vs scheduled jobs,2,3617,161
+10814243,Insert Data ignoring contraints on Database,0,1232,161
+11430018,Best Database Migration approach?,2,1826,161
+11446300,database for enterprise level using oracle - normalization and duplication,2,3921,161
+12142365,Can I drop/add attribute without consequences? Oracle Object Type,1,1476,161
+12529130,Generic SQL for update / insert,4,3116,161
+13402510,Oracle: Changing VARCHAR2 column to CLOB,2,1250,161
+14895850,Reconciliation of low quality data: view vs (table + scheduled procedures),1,2720,161
+14973349,Oracle Table structure,1,3973,161
+16687186,Creating Enumerator Field in Oracle using values from another table,1,3127,161
+20264565,Renaming a table while leaving the existing triggers behind,2,3913,161
+22053548,How to avoid manually writing/managing SQL,2,3094,161
+23756620,Can full information about an Oracle schema data-model be selected atomically?,1,1942,161
+24734777,DDL + DML in Flyway (recommended approach),1,944,161
+30614491,Is there a way to test if modifying table column will succeed in SQL?,2,3926,161
+30718518,Best Practice for adding columns to a Table in Oracle database,0,912,161
+30867136,Why use Oracle version control?,2,3964,161
+31758797,Oracle update to split a row into two in safest way with rollback,1,3103,161
+32819360,Best practice for tables with varying content,2,3995,161
+33110383,Oracle Database Security - Insert specific values only,1,1622,161
+37460375,"What are best practices for creating table for ""log of changes"" in Database Table?",2,2075,161
+38093595,Automatically create a table in oracle database if it doesn't exist,1,1389,161
+38677743,Vast data replacement between two tables in Oracle,2,3945,161
+39854089,"Deploy Sql Changes to Customer Databases (altered tables, functions,...)",1,3923,161
+40273958,How to handle data migration integrity issues?,1,1619,161
+40995178,Alter table modify does not work in Hsqldb with Oracle syntax,1,3188,161
+43458124,Oracle SOA 12c correcting and reprocessing data,1,2089,161
+44116810,rolling back ddl changes on oracle using flyway,1,2664,161
+44725450,Disable Trigger To Insert From Backup,1,1141,161
+45553742,"Does all SP, function must be recompiled, if new column added to the table",1,2627,161
+46031723,How to convert a CLOB type column to LONG type column in Oracle DB,1,1282,161
+49123272,Updating DDL in Live Oracle Database,1,2750,161
+49324114,TypeORM: Read Only Connection (Oracle),1,902,161
+52377588,PL/SQL Procedures and Toad execution?,1,1065,161
+52476711,Translation errors during database migration using SQL Developer,1,1268,161
+52764451,How can I modify object's attribute datatype,2,951,161
+53466567,Saving float changes to a float or to a varchar2 column?,1,1943,161
+54980618,PLSQL : Is it a good idea to deal with temp tables in plsql saved procedure?,2,2848,161
+56467267,Change the datatype of a column in a partitioned table with billion rows,1,2502,161
+56671621,"Apex Upgrade 5.1 - 19.1, what is likely to break?",1,1788,161
+57292036,Oracle stored procedure - tracking validation errors,1,2992,161
+57525848,Way to alter one table if another was altered,1,2098,161
+57707134,Spark JDBC Oracle write using Append mode also changing the table schema if Dataframe has different schema,1,1312,161
+57714302,Is it OK to update APEX metadata tables from SQL Developer? Or make changes to Application Export file?,3,2426,161
+58576449,when would I need to modify knowledge module in ODI?,1,1205,161
+59901208,Liquibase rollback altered column size to older version,1,1696,161
+60063619,Will deleting column data reduce database size?,1,1608,161
+60420811,Will deleting the DatabaseChangeLog table row revert my changes?,1,1652,161
+60903744,Append a column with LONG_RAW datatype - SQL,1,821,161
+61951077,"Any impact on existing SQL, PL/SQL scripts and data model due to Oracle DB upgrade from 12cto 19c?",2,2397,161
+62462514,What is Oracle Advanced Compression?,2,3797,161
+63115819,Oracle - validate table exists with same name with column with table name value,1,2506,161
+64214461,Comparing two different tables to check that a new process is inserting the same data as an older one,0,3894,161
+65250172,How to save the data in a different column instead of replacing the data in same column,2,1196,161
+69614788,How to keep uncomitted data in the application/database till it gets comitted,2,3309,161
+70249192,Adding new columns with non null constraints in new tables to an existing schema,0,1963,161
+71131800,How to avoid breaking queries in Temporal Tables after SCHEMA changes?,1,2549,161
+76151888,Migrate data from a table in an Oracle schema to another Oracle schema (with differences in columns etc),2,3891,161
+78811451,"In Oracle, how to anticipate the error ORA 4061 existing state of has been invalidated?",0,3908,161
+79546047,Oracle automatic precheck of stored object replacement,0,1418,161

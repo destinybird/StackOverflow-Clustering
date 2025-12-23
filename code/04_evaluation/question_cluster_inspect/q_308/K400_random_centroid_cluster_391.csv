@@ -1,0 +1,362 @@
+question_id,title,answer_count,text_length,cluster_id
+308,Is there a version control system for database structure changes?,21,3930,391
+38074,Best way to handle LOBs in Oracle distributed databases,4,1814,391
+196171,Oracle 10gr2: prevent any dates that fall on a Sunday?,0,178,391
+263836,Generating SQL Schema from XML,1,583,391
+269145,Oracle - side-by-side schema update technology...is there any?,3,3243,391
+285162,How do I query for the state of a session variable in PL/SQL?,0,381,391
+321455,Need ideas on outputting table data to a CSV using PL/SQL in a dynamic fashion,2,2350,391
+337179,How to set Cursor type in JDBC?,3,2517,391
+375458,PL-SQL: getting column data types out of query results,1,1048,391
+521278,Duplicate set of columns from one table to another table,2,3939,391
+541128,How to call a Biztalk net.TCP service from Raw TCP request?,1,1194,391
+583141,How to use Java timezone id in a Windows (non-Java) application?,1,3235,391
+613059,Oracle performance of schema changes as compared to MySQL ALTER TABLE?,2,2626,391
+684443,Read/Write data from/to a file in PL/SQL without using UTL_FILE,2,2628,391
+774326,What is the easiest way to clone a webservice?,0,656,391
+916216,Testing SQL query on Oracle which includes a remote database,4,3935,391
+955318,Suspend weblogic datasource on command line,2,1599,391
+983461,Exporting Excel Data into Oracle Table using VB.NET,3,1721,391
+1062950,Queue Oracle transactions using PHP oci_pconnect function in a webservice,2,1942,391
+1119306,execute immediate over database link,3,1993,391
+1289492,Hibernate Timestamp with Timezone,2,1634,391
+1482596,build oracle sql query dynamically from java application,2,3939,391
+1642451,How can I backup a remote database schema in this environment?,1,917,391
+1716889,Oracle: LONG RAW to?,2,1176,391
+1759645,connection time zone issue with jOra eclipse plugin,1,1152,391
+1821819,Generate XML document in PL/SQL from Oracle tables,4,3912,391
+1886531,Taking dump of tables in oracle 10g using PL/SQL procedure,4,3937,391
+2103879,Regenerate GRANTs for roles across schemas,3,3953,391
+2157595,Format Describe In SQL*Plus,2,1449,391
+2476562,"Java framework ""suggestion"" for persisting the results from an Oracle 9i stored procedure using Apache Tomcat",3,2640,391
+2526779,"1 oracle schema support large reques per day , is this safe?",1,3694,391
+2798955,Compare values for audit trail,1,1375,391
+2903297,"NHibernate, updating a db column to a function call when persisting a domain object",2,1112,391
+2971758,I want to generate DDL for entire schema in oracle 10 G?,2,592,391
+3363907,Setting Oracle 11g Session Timeout,6,3961,391
+3480561,Problems copying Oracle result set to MySQL,1,3952,391
+3634113,How many records can contain a GLOBAL TEMPORARY TABLE ON COMMIT PRESERVE ROWS?,1,1963,391
+3650877,How do you create a table with random number of fields in Oracle using PL/SQL?,2,3917,391
+3705816,dynamic object relation mapping,2,893,391
+3707940,Get Oracle PL/SQl variable property by name (reflection in PL/SQL),2,3929,391
+3802278,"How to SELECT whole table with OTL, and save it to file?",1,3665,391
+3871949,Can I have a materialized view refresh on commit only for two of three tables in its select statement?,0,1181,391
+3872161,Implementing hilo (or seqhilo) in NHibernate and Oracle,1,3940,391
+3876255,COMMIT WRITE BATCH NOWAIT in Hibernate,2,3957,391
+4025215,NHibernate Mapping Generator is redundantly defining columns from Oracle,1,1169,391
+4184785,How to export a ddl script from an Oracle 10 schema to create tables and constraints in H2-database?,4,3895,391
+4378706,TOAD Export Oracle Script To Save Data Programatically,2,1466,391
+4417942,how to load data from db table to browser and update the data back to db?,1,2051,391
+4545131,Oracle: how to run this query (generated column names),3,1767,391
+4611037,writing byte array to a raw column in oracle,1,595,391
+4762706,How to connect to RMAN in Java?,1,987,391
+5017641,Duration of data in a Global Temporary table?,2,764,391
+5471554,does oracle.sql.ARRAY save sequence of passed elements?,1,1658,391
+5482919,"Oracle, save/map csv string to a table using utl_file and external tables",3,2566,391
+5502036,Page break in PL/SQL,1,929,391
+5507231,Script Oracle tables (DDL) with data insert statements into single/multiple sql files,2,2432,391
+5720271,Syncing Data between MS SQL Server and Oracle Server,2,3438,391
+5901361,Migrate Vignette CM (Content Manager) content to Oracle UCM,1,1279,391
+5984317,Toad for Oracle 10.5.1.3 - How to find DataType info like in Schema Browser,2,1689,391
+6007851,Signaling BPM process from PL/SQL,2,1529,391
+6269665,Is there a way to find all distinct values for multiple columns in one query?,2,3918,391
+6604093,Resolving foreign key before inserting new rows,1,3272,391
+6745525,Oracle logging changes to XML,2,2402,391
+6828462,Full Oracle backup from PHP,2,2903,391
+6923466,Loop structure in select clause,1,923,391
+6987234,Lengthy SQL stored procedure with tables storing more and more columns,4,3925,391
+7009935,PUSH data from database to Java Servlet / PHP,0,192,391
+7050345,Save result of XSQL query to a file in Java,1,466,391
+7338311,Trying to run PL/SQL script using Java,0,1398,391
+7338757,Force encrypted network traffic with Oracle thin client and jdbc?,1,910,391
+7349635,Help me create a test stub for ABCS requester,1,2206,391
+7429747,NHibernate mapping for Oracle INTERVAL DAY TO SECOND datatype,1,3934,391
+7719395,How to create block frames in Oracle Forms 10g?,1,1272,391
+8024857,PL/SQL to insert history row with long raw column in Oracle,2,2166,391
+8103377,Where can I get free table values?,1,1038,391
+8675964,How get copy of objects from oracle database,2,3951,391
+8790148,Finding the datatype of a cursor or table column in a block,2,3936,391
+9227407,How to insert data into a PL/SQL table type rather than PL/SQL table?,2,2452,391
+9264160,Is there a tool that can check the availability of an Oracle 11g database on a remote machine?,0,634,391
+9382925,Loading data from a web-hosted CSV into Oracle?,3,1824,391
+9602801,can I maintain one Oracle session from two oci clients?,1,3940,391
+9850666,Transfer data from Oracle table to text file,1,986,391
+9913091,Oracle DB (Intranet) ->(DMZ) Data Replication through a unidirectional Firewall,1,3916,391
+9924559,read POST data from within Oracle Apex application,1,481,391
+10233840,"Forming where clause on Timestamp column in Oracle, The data is in java.util.Date format",1,1429,391
+10535953,Ensure php session gets the same oracle session when using oci_pconnect,2,2765,391
+11152010,Oracle: allow some JOBS to be controlled by every schema,1,2087,391
+11350336,How to implement isValid connection for using with Oracle driver classes12?,1,1291,391
+11365757,How do I query a remote oracle database from an HTML web application?,2,2938,391
+11439543,How to write a java.sql.Array to a java.sql.SQLOutput within SQLData.writeSQL() for Oracle,2,3905,391
+11691958,JMS client applications and the Business Activity Monitor,1,1091,391
+12029331,Synchronize between oracle forms and web browser,1,2290,391
+12096083,How to generate the SQL script for migration from an old DB to a new DB?,2,3903,391
+12127814,Database design to create tables on the fly,2,3952,391
+12203768,Need to make a non blocking / asynchronous method call from my application,1,811,391
+12242414,ORA-03113: end-of-file on communication channel in VB Application upon Database Reboot,2,3579,391
+12657899,How to define a row type that has columns of different tables?,0,528,391
+12893427,Can php or javascript on client link to remote server database?,2,1935,391
+13412848,Oracle Native Dynamic SQL PL/SQL statement without begin and end,1,2351,391
+13626014,Is it possible to audit changes to an oracle schema?,1,898,391
+13846727,Why can't I get a remote data source within an applet?,1,1965,391
+14046636,A way to deploy plsql to Oracle in Java project with Maven build tool,4,3066,391
+14110433,Trigger based on sysdate,2,2118,391
+14313082,Oracle Trigger that will update tables in a different DSN,1,719,391
+14528967,Microsoft Access support for checkbox column against linked Oracle table,1,3503,391
+15473291,How to collect a HashMap using jmx fetchlet,1,1339,391
+16047179,Using cursors and getting result in Oracle PL/SQL with Java/JDBC,4,3931,391
+16153574,PLSQL Developer 10.0.2 lost all table reference key when export then import Oracle 11g tables?,1,852,391
+16602264,CRUD operation for hundreds of entites (tables) in Oracle,2,3649,391
+16824226,How do I clean up LOB values in Hibernate UserTypes?,1,3943,391
+17047629,jdbc with oracle DB - out of memory,1,848,391
+17338574,Getting the timestamp of a file using PL/SQL,2,3064,391
+17473929,How to create a partial database dump based on a specific set of data?,1,1905,391
+17678897,"When do we say ""let's use %ROWTYPE"" and not %TYPE?",1,3945,391
+17791256,Export/Import of user data from an oracle remote database with java,0,3928,391
+17915207,plsql batch blocked by forms screen,2,1886,391
+17968779,Oracle PLSQL CreateSchemaBasedXML using multiple schemas,1,2283,391
+18084244,bulk collect dynamic sql,2,3971,391
+18312117,Using BizTalk 2010 to retrieve data from an OracleDB,1,2157,391
+18458764,Recovering jdbc connection after db link failure,2,3947,391
+18464808,Tool for extracting table and commands performed on them from PL SQL code,1,1164,391
+19079708,PL/SQL - insert record only if record does not exist,1,3943,391
+19170730,How change the driver used by MS Access 2010 x64 to connect to external ORACLE database,1,1178,391
+19272571,Increase buffer size in JBSQL,1,1007,391
+19389619,pl/sql Creating temporary global tables,1,1214,391
+19975915,Many producers and many consumers in Oracle 11g,1,2346,391
+20040391,Take data from global temporary table which has 'on commit delete rows' command,1,1922,391
+20220738,Oracle database - use external Java,1,1681,391
+20414951,Map Oracle timestamp type to java.sql.Timestamp or java.util.Date using Hibernate?,0,1786,391
+20683147,"How can I Convert .doc, .docx, .html to PDF inside database using PLSQL?",1,1388,391
+20950988,SQL cuts data while copy table,1,2151,391
+21351024,Is there a machanism in ODP.NET to postpone sending queries until commit?,1,3922,391
+21396079,"importing data into CSV from a remote oracle server, I need to use a spool like command in Windows",2,1207,391
+21756749,Rapidminer: Memory issues transforming nominal to binominal attributes,2,3806,391
+21911984,Write XLSX file - Oracle forms,1,394,391
+22072301,Enqueuing JMS message directly into a Oracle persisent store,2,1311,391
+22080900,Oracle plsql - Can a query be used in a plsql if statement?,1,1888,391
+22163536,"Is it possible to modify the schema or instance of any database without using create, alter, delete, drop commands?",2,3880,391
+22311899,"Unable to read from Guest OS in VirtualBox. Host: Windows 8, Guest: CentOS 6",1,849,391
+22790981,Dynamically save query results from OracleDataReader,2,3231,391
+23024664,Blob file download from databse to local folder which is having size greater >32767 using UTL oracle package,0,1922,391
+23158278,Oracle - Granting privileges to user for session,1,1632,391
+23216916,JDBC and Oracle 11g connection reset on ubuntu,1,3949,391
+23402877,Java program to dump table as set of insert statements,1,1643,391
+23785673,Upgrade database objects while they are still being used by an application,2,1637,391
+23987005,Migrating Oracle database based on a database mapping document using Talend Data Integration,2,3088,391
+24024150,Oracle database - copying objects to remote database and modifying so they use the remote database only if the local database is offline,1,3575,391
+24104841,Oracle - copying stored procedures to remote database,1,3942,391
+24157190,How to define PLSQL table Type Based on Dynamic Cursor,1,778,391
+24366595,How to get previous data before commit?,2,2240,391
+24805479,Is there a way to invoke unix shell scripts or Java jars with using Oracle,1,691,391
+25051831,How to process large amount data using Hibernate,1,1710,391
+25266540,Generating database tables' CREATE script,1,2110,391
+25310935,APEX Oracle PDF generating on table,1,1224,391
+26055530,How should I pass key-values to a PL/SQL procedure?,1,3674,391
+26155609,is there any way to check if a column is virtual in java?,2,2826,391
+26224688,Generating PL/SQL script to create copy of records from many related tables,1,1718,391
+26268720,Sqoop - Create empty hive partitioned table based on schema of oracle partitioned table,1,1538,391
+26273436,How to automatically change dynamic action's condition on several pages?,1,2421,391
+26277436,How to call this PLSQL procedure in Java?,0,1658,391
+26420080,execute Shell Commands From PL/SQL for copy file from a Network Drive,1,2291,391
+26735688,Scheduled export from SQL Developer,3,995,391
+27062896,How to construct oracle.sql.ANYDATA in Java and pass it in PL/SQL procedure,1,613,391
+27290985,export oracle table in a csv file,4,3966,391
+27419515,Persistent computed Oracle Virtual Column,2,3954,391
+28171404,"Oracle OCI - Determine transaction state, efficiently",0,846,391
+28278681,Oracle: copy row while updating one field for table with many columns,1,2054,391
+28314804,exporting db objects for version control,2,3955,391
+28418357,Can Oracle 12c execute a vbscript?,0,544,391
+28479570,customizing oracle query results into a table with php,1,1891,391
+28561849,Oracle Materialized View from remote table with LONG,0,1795,391
+28658481,Dynamic select from a table and Insert/update based on conditions after reading data from csv,0,1763,391
+28678190,Generate upgrade script to ALTER TABLE based on CREATE TABLE statement in Oracle,2,2476,391
+28737880,How to get the physical location(row id) of a record from DB using JPA+Hibernate,1,982,391
+30047805,export multiple table data into csv file in oracle,1,1843,391
+30305161,Is it possible to perform a select into table of object type?,3,3934,391
+30318888,Java/Oracle : Find all Dependent Rows and Update Them,3,3942,391
+30328817,Verify multiple tables and copy data in ssis/BIML?,1,2802,391
+30344450,Asynchronous call from Oracle DB to JMS,0,1344,391
+30778662,"In Oracle, how to select LOBs from remote database without copying to local tables?",1,2672,391
+30887946,How to update big table from csv file/another table in Oracle,2,1889,391
+31049644,Is it possible to use column values to determine the tablename in a from clause of a subselect?,1,942,391
+31170468,IF ELSE check variable value without needing to define entire resultset,1,3924,391
+31306319,Oracle CDC on Multiple Related Tables,1,2571,391
+31509018,How to export a table from an oracle database to local computer without using any wizard,0,477,391
+31535019,Creating INSERT-Statements to export the data from every exisiting table,1,2664,391
+31613599,How to generate DDL for deltas only between two different versions of a schema?,2,2599,391
+31770477,Can we generate primary keys automatically without JDBC queries or calls?,1,1490,391
+31828624,Limit delete query with hibernate,2,3128,391
+32094968,"How to dynamically delete the rows of a table, or delete a table, with Hibernate?",2,1589,391
+32941315,"GRANT TO ROLE CREATE SESSION, SELECT",0,601,391
+32962661,return column names along with result in oracle select query- to export to excel,1,1344,391
+33100570,How to get specific byte value from raw in PL/SQL?,0,202,391
+33244014,PL/SQL file writing with generic input,1,3957,391
+33436394,Oracle APEX Text Page Item as non-editable hyperlink field from a SQL Query,1,3080,391
+33627687,Client for WebLogic without using Oracle jars,2,1527,391
+33664177,Oracle - build dimension from a file based data source,0,1882,391
+33675501,Insert values from select query into variables,2,3949,391
+33808347,How to partition an oracle table by a date column?,2,2132,391
+33865505,Export Oracle dump to remote disk,1,2050,391
+34517701,Need suggestions on dumping formatted data from table to file given restrictions,1,3915,391
+34854712,How can I update 15 rows every 2 seconds?,1,553,391
+35141967,Oracle database - offline,1,2214,391
+35435205,Extracting Data from Oracle to Hadoop. Is Sqoop a good idea,1,2176,391
+35551502,Synchronize Oracle 11g xe database on azure vm with xe database on localhost,1,1285,391
+35925424,How to increase number of displayed rows in a tabular form using apex 5.0,4,1532,391
+36313751,Is it possible to get particular cell value from Oracle Database Table and populate that value in the particular field on Web Page. If Yes then How?,0,3232,391
+36618768,Ensure that Oracle runs a group of subqueries / CTEs remotely before joining data from a local table,0,1499,391
+36741288,Oracle global temporary table,1,1767,391
+36787471,"Exporting One day data without holding lock , in Oracle",1,2399,391
+37033244,Is it possible to update a nested Oracle table in PL/SQL using SQL?,1,2183,391
+37491046,Oracle dirty read,1,3190,391
+37572473,Hibernate: Calling a PLSQL procedure for each connection,0,736,391
+37718880,"How to generate understanding of PLSQL package, procedure or function?",3,2105,391
+38227747,Data Loader wizard pages in Oracle APEX 5,1,1450,391
+38939618,Oracle Procedure to accept multi row input from front end application,1,1848,391
+39500323,Local modified version of remote immutable database,0,2919,391
+39850136,"Oracle APEX, making a page expire after a set amount of time",1,958,391
+40529624,Copy new records from one database to another,2,3560,391
+40538370,Buffering Data offline when the database server is not available,1,1096,391
+40549893,How to generate SQL Code to update 9k rows with values for one column,1,3926,391
+40990858,Oracle SQL view data from temporary table,1,568,391
+41228908,Is it possible to set the content level for all logical table sources?,1,1147,391
+41243481,illegal use of LONG datatype while copying Mysql table to Oracle,1,3922,391
+41293162,performance issue while running the web project using tomcat,1,3554,391
+41509680,Create Materialized View hangs using remote table - even with 0 rows,0,1445,391
+41829971,Oracle Materialized View on linked server table,1,3948,391
+41834148,Is there a way to create an Object type matching %rowtype of a table?,2,2519,391
+41927084,How to populate a SQL Server table continuosly with the data of another table,0,1822,391
+42482096,"Oracle Forms 10g - Text_IO.Fopen(filename, 'r') - how to force this procedure to read file from the local machine instead of the Server?",0,758,391
+42691644,Insert from select or update from select with commit every 1M records,1,3926,391
+43355133,What are the steps in order to create a wizard in Oracle APEX 5.1,2,2560,391
+43754524,Display php browser content successively,1,1928,391
+43892825,Dynamical number of columns in SQL query in PL/SQL,2,2432,391
+43940607,Serializing query result,2,2488,391
+44241672,"JDBC connection to remote oracle database does not work in jdk 7 and 8, but it works in jdk 6?",1,1955,391
+44248642,Oracle SQL script running from Linux command line with alter session,0,715,391
+44714576,How to update WebLogic server JDK from 1.7 to 1.8 on Windows 7?,2,1482,391
+44933391,"Exporting and importing ""schema"" from/to Oracle 12.1 on AWS RDS",1,1706,391
+45075297,generate oracle database using persistence file hibernate,1,1286,391
+45475006,Is there any way to access pl/sql RECORD TYPE variable through java?,1,1096,391
+45606337,Versioning of code and data in Oracle,1,1200,391
+45672431,How to use Hibernate Session.doWork(...) for savepoints / nested transactions?,2,3447,391
+45732732,Committing every x rows in table insert,1,3057,391
+45863144,How to avoid connection leak when program crashes,1,2680,391
+46075191,restrict length of number column using jpa,1,2308,391
+46328053,'Member of' in Oracle,2,2607,391
+46404351,Oracle SQL Query to Convert Unix Timestamp to date for Java,1,1397,391
+46449840,AWS RDS Database Instances secured and opensource data integrity checker,1,1023,391
+46917061,Handling multiple relational tables in data access,0,2558,391
+47065844,Tomcat session replication：java.io.NotSerializableException: oracle.jdbc.driver.T4CConnection,1,1171,391
+47284894,How to replicate records using PLSQL in two tables,1,1793,391
+47875811,Export data from Oracle to CSV,1,2270,391
+48009125,Remote debug PL/SQL packages,1,3373,391
+48112591,Generate ansi sql INSERT INTO,7,3966,391
+48168121,Select a random row from Oracle DB in a performant way,1,3497,391
+48517231,Handling long (> 5mins) requests from application deployed in WebLogic 12c,1,1480,391
+48591517,PL/SQL define and initialize multi field array or table from text,3,3930,391
+48650587,Weblogic connection pool ignores maximum capacity limits,0,3057,391
+48867475,Appropriate way to pass a dataset to Java from Oracle PL/SQL,1,3281,391
+49404213,how to create a push button in a table type data block in oracle form,1,1216,391
+49774845,Capturing blocking session details in oracle database,0,624,391
+50173411,Reading DBMS_Ouptut after Executing PLSQL from jdbc,1,2027,391
+50184187,Migrating java stored procedures to AWS RDS oracle,2,880,391
+50374730,Oracle APEX - Export a query into CSV using a button,3,3416,391
+51550653,Oracle session timezone: Can Oracle DB session convert java.sql.Date to correct timezone?,1,2715,391
+52058076,Setting JDBC connection/socket timeout via persistence.xml,0,1080,391
+52134066,Oracle 11g Replace Physical Columns with Virtual Columns,1,1830,391
+52342955,Table split on pages (BIP),0,1708,391
+52344984,Limiting table rows (BIP),0,1361,391
+52985763,Recreate materialized view with grant,0,649,391
+53523706,Retrieve large amount of data in Java Web App and download it to client,1,3464,391
+53700425,How to make incremental load in SSIS,1,3959,391
+53748589,Execute PL/SQL block in Oracle 11g and Process the cursor in Java client,1,3923,391
+53950216,Export tables from specific user in connection in sql developer,1,3932,391
+54153019,Can I pass the dynamic values to my select query fields,1,679,391
+54173232,How to create menu of regions in Oracle Aplication Builder,1,1578,391
+54175119,Can I check updated row data form oracle in real time?,1,601,391
+54707699,"How to grant ""select"" permission on public synonym ""SHC.ABC"" of table ""SHC.ABC""",2,1849,391
+54716352,How to pass list of IDs from one Oracle schema to another?,1,1020,391
+54782737,How to save just one column values of a table into an array?,1,2263,391
+54788833,how to export data from around 300 tables in ORACLE DB to csv or txt files,4,3921,391
+55075182,Oracle error code [17004] Invalid column type for java.time.Instant,0,1061,391
+55235151,How to export full schema without any constraint issues for one month date range,1,1606,391
+55296151,ORA-01086: savepoint 'L_SAVEPOINT' never established in this session or is invalid,2,1621,391
+55391978,How to insert CSV Column values into block and Table using Oracle Forms?,1,1510,391
+55416449,"Oracle Apex,is it possible to connect an excel file or csv from a remote server?",1,938,391
+55620607,Oracle stored procedure runs in the end of session in Informatica stored procedure transformation mapping,1,1364,391
+55791149,"The proper way to record DML and DDL changes to specified tables, schemas or entire oracle database",0,3797,391
+56159577,Show only populated columns of a Row,1,3304,391
+56655617,keep dbms_application_info settings across windows,1,2170,391
+56728810,rolling back apex process code from another page,1,1571,391
+56774786,How to get rid of many placeholders (question marks) in java sql statements,0,1310,391
+56936476,Oracle - export results to excel with headers/columns more than 30 characters,2,3129,391
+56954546,How to export data from multiple tables in a dynamic fashion in plsql,1,1621,391
+57005202,Dynamic column mapping for both Source and destination in data flow tasks from Oracle to SQL Server,2,3896,391
+58068990,Select the Data of a Column of an interactive report in Apex,1,1496,391
+58077509,Using Powershell to export big output from Oracle to CSV,2,3939,391
+58532557,Is there a way to get the SCN without querying the database?,1,1115,391
+58724075,Executing Host commands using PLSQL,2,3960,391
+58964619,Get table return value from PL/SQL stored function using JDBC,1,2351,391
+59296867,Best way to read incremental rows from oracle using java,0,1262,391
+59454424,Include rowid in generated jOOQ Record,1,1948,391
+59526575,"In oracle, create table newtable nologging parallel 4 as select * from existing table ; locks the existing table?",0,1364,391
+60503921,Can we link a new RCU with an old weblogic Domain,0,605,391
+60572861,PanelTabbed control preserves tab selection even after the taskflow ends,1,1496,391
+60642017,How to get the ddl of at table in oracle other then get_ddl procedure,2,1177,391
+60674021,Is it Possible to Change Database connection within a stored Procedure- Oracle SQL,0,1051,391
+61255762,How to inspect whole pl/sql stack information from another session which holds locks and causes deadlock,1,887,391
+61967453,How to create Interactive/Classic Report with dynamic SQL?,1,1720,391
+62112373,SELECT no of columns dynamically from DUAL,1,2766,391
+62391993,Using JPA for for the oracle table containing raw type as Primary key,0,1004,391
+62670244,Oracle APEX Commonwealth Bank Online Payments,1,2018,391
+62874109,Is it possible to set property purely in JDBC connection URL?,1,1781,391
+64781939,Can I use output of one query as columns in another select clause,3,3930,391
+64786212,Custom Generated ID/Sequence in Oracle PL/SQL?,1,3949,391
+65026346,How to display a region in all the pages of an application in Oracle Apex?,1,548,391
+65209421,select data from global temporary tables,0,781,391
+66162619,Oracle APEX 5.1 Selecting Specific Tab in a Tab Container,1,796,391
+66253885,change fields in materialized view - oracle,1,2131,391
+66311395,How to allow user to add columns in interactive grid and set limit?,1,1099,391
+66351372,Get resultset from a declare block,0,2576,391
+66440827,Map windows time zones to Oracle time zones,0,1266,391
+67158487,"How to save an excel file in the ""text"" format in Oracle PLSQL?",1,1737,391
+67308253,Oracle APEX - Initializing an Interactive Grid Column Using PL/SQL,0,1416,391
+67367068,Can I import a CSV file to livesql.oracle.com?,1,1934,391
+67483670,How to save all query results in oracle sql to pdf file at once,1,701,391
+67722446,Form a new table from CSV data stored as a BLOB - Oracle DB,1,2797,391
+67812743,How do I map column names which are located in a separate table?,1,2252,391
+67888270,Authenticate with My Oracle Support Website,2,3952,391
+67972657,Statement.setQueryTimeout doesn't work on Oracle 18c jdbc driver,3,3931,391
+68892542,How to refresh a PL/SQL Dynamic Content Region without a page submit,1,1398,391
+69216033,query to get all tables in a materialized view,2,1733,391
+69614788,How to keep uncomitted data in the application/database till it gets comitted,2,3309,391
+69744164,Oracle Apex Regional Header,1,931,391
+70366027,Exporting query results in a csv file with oracle procedures,1,2955,391
+70373931,How can I change the number of items displayed on a page? (Oracle Apex 21.1),1,1957,391
+70978390,PLSQL Proc to run sql script and save output to windows directory in excel or csv format,1,1503,391
+71107034,Start and Stop a Weblogic Server Remotely with WLST,1,2314,391
+71562959,export a chart as excel or pdf in oracle apex,1,994,391
+71654310,Plsql select * from record is it possible?,1,1244,391
+71771506,Show/Hide region when button pressed in another page Oracle APEX,2,3499,391
+71914325,JPA virtual partitioning in Oracle,1,2719,391
+72885194,how can i export data out of oracle to salesforce LOV automatically everyday?,2,1917,391
+73269838,SQL query to show AWS RDS Oracle instance information,0,1373,391
+73452623,Is there any way to handle source flat file with dynamic structure in informatica power center?,1,2139,391
+73815932,Backward compatibility in Oracle - DBMS_LOCK.SLEEP() v.s. DBMS_SESSION.SLEEP(),1,3092,391
+73869109,Generic approach of mirroring data from Oracle to another database,1,2051,391
+74012721,Oracle Privilege - User can create table but cannot write rows,1,2308,391
+75181242,How to set oracle CONNECTION_PROPERTY_NET_KEEPALIVE property in Java,1,3927,391
+76206274,Get values in cursor from remote database using database link,2,1990,391
+77160181,"In Oracle SQL Developer, can I export all table column details as CSV files without clicking on each table and then exporting?",2,2395,391
+77202164,How to generate schema repository for an existing oracle database,0,2077,391
+77310651,"Oracle APEX, PL/SQL pkg or prc to join multiple tables to extract data and download it as a flat file based on page item value",2,3869,391
+77779473,Oracle PL_SQL set execution timeout,1,1636,391
+77833300,Clone schema within same database,1,3962,391
+77889855,Real time replication from on premises Oracle to AWS,2,2437,391
+78151633,AWS DMS VS Oracle Golden Gate for object names (over 30 bytes),1,2522,391
+79030533,timestamps written by java.sql.SQLData are shifted by timezone specific number of hours,0,3908,391
+79051452,plsql procedure to save html in table,0,268,391
+79255626,Grant rights to create tables in a particular Oracle schema,1,3936,391

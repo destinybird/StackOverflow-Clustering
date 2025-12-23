@@ -1,0 +1,302 @@
+question_id,title,answer_count,text_length,cluster_id
+308,Is there a version control system for database structure changes?,21,3930,373
+120900,How to check if a trigger is invalid?,2,871,373
+192655,"What does it mean to ""register system events... with Oracle Internet Directory""?",1,1486,373
+209128,Compare and Contrast Change Data Capture and Database Change Notification,2,2129,373
+251060,An example for using DBMS_AQ.POST and explanation of its utility,1,1662,373
+261068,notification when alter occurs on oracle database,3,1407,373
+265122,How to find out when an Oracle table was updated the last time,11,3933,373
+272779,What is the difference between Oracle Streams and Change Data Capture?,2,2514,373
+337335,Oracle table change monitor,1,2674,373
+551987,How do you read the Oracle transaction log,1,547,373
+790420,OracleDependency not firing event,2,1641,373
+1265663,How to set dependency to an Oracle Datatable,2,2433,373
+1366851,How do I find out if an oracle database is set to autocommit?,3,2843,373
+1831723,Tool for monitoring SQL query results needed,3,3693,373
+2140216,Can I detect the version of a table's DDL in Oracle?,3,2190,373
+2140313,Column-level privileges vs. legacy application,0,798,373
+2146211,Suggestions for an Oracle version control system,3,3947,373
+2155029,Know if a record is updated within Oracle?,3,2454,373
+2210835,How to update a database remotely?,2,1385,373
+2235192,Oracle: when was my table modifed?,0,295,373
+2266917,SQL Server-style Change Tracking (auditing) for Oracle,1,456,373
+2288938,How to instrument Oracle 10g to get table access metrics?,2,2248,373
+2520776,Notification in case of data changes in SQL and Oracle,0,554,373
+2582479,Dequeue notification table in Oracle,0,527,373
+2825007,Oracle : Getting Notification when table gets new data's,2,1100,373
+2880542,Free tool to watch database for changes?,5,3196,373
+3085339,Is there a way to troubleshoot change notifications in Oracle?,1,1367,373
+3858416,Is there a native oracle capability where apps can hook on to receive updates?,2,1572,373
+4453428,Is there a way to use DBMS_Alert to notify a Winform application of a database change,3,3373,373
+4774051,database design for notification settings,1,2526,373
+4852641,Perceiving objects accessed/updated by DML in Oracle,1,1498,373
+4966628,Oracle (Continuous Query Notification) - way to get more data in a CQN notification?,2,1577,373
+5313316,How to send data when using Oracle Change notification from Data Access layer to Application layer,2,1163,373
+5481811,What should be approach?,1,1334,373
+7307443,odp.net db change notification,1,2177,373
+7316865,Multithreading on a database using oracle and mysql,3,2375,373
+7416469,SQL Developer setting for Feedback,1,558,373
+7461573,Oracle Database Change Notification and ROWID's,1,3948,373
+7727523,Perform .NET Action on Database Change,4,3957,373
+8015641,Call Java program from Oracle database trigger,1,1117,373
+8172214,ODP.NET Query based notification in Oracle,2,3953,373
+8473302,Ping a table in the database with Java,1,2181,373
+8567268,Email notification on events - Oracle Queue,4,2654,373
+8600354,How will my java come to know if anything gets updated in database?,1,1270,373
+8875720,check date database and execute,1,1334,373
+9264953,Check if a database is running or not using Java,2,3323,373
+9278469,Oracle 11g RSS feed,0,586,373
+9621095,Continuous Query Notification is automatically unregistered,3,3058,373
+9664542,JDBC event subscribe Oracle,0,270,373
+9806584,Oracle JDBC: Resuming a Database Change Notification Registration,1,1619,373
+10133757,Oracle database: DBMS_ALERT usage with java application,1,2319,373
+10487420,Database Message Queues,1,565,373
+10527801,Oracle database to send notification / Invoke a java method on reaching Time specified in a column,1,1477,373
+10797940,Notification of Oracle table changes in Java,1,1739,373
+10901493,WCF Application Design,1,1985,373
+11062404,How to notify JBoss with Oracle trigger,1,2038,373
+11878262,How to monitor oracle DB updates?,1,868,373
+12096923,Detecting changes using Oracle Database Change Notification,1,1785,373
+12210140,ArcSDE Database Refactoring Tool options,1,3955,373
+12450131,Implementing Oracle DCN with Coherence Cache in a weblogic application Server,1,1482,373
+12470965,Is it possible to use Oracle's Change notification using NHibernate?,1,500,373
+12486832,Eclipse link database change notification,1,700,373
+12606881,Old and new values in Oracle Form,1,1142,373
+12870588,JPA-2.0 keeping all versions in DB / history,1,574,373
+12904800,"Oracle Dependency (notification) , how invasive?",0,721,373
+12924572,No acceptable query for database change notifications,1,3461,373
+12932263,Get Triggers from Version Enabled Table in Oracle,1,925,373
+13150421,Insert or Update Data in Google Spreadsheet from Oracle Database,1,724,373
+13478273,oracle change notification issue,1,3963,373
+13626014,Is it possible to audit changes to an oracle schema?,1,898,373
+13680712,How to get database notification to C++ application,2,3944,373
+13770921,Register a WCF Service with Oracle Advanced Queueing Notification11g,0,599,373
+14695970,oracle change notification,3,3359,373
+15361903,log insertions/updates/deletions in oracle database,2,2574,373
+15837320,Notifying DB change across Java EE apps,1,1329,373
+16080039,Observer pattern in Oracle,5,3969,373
+16586755,Java Desktop application using dbms_alert,1,2595,373
+17336931,Oracle database change notification with ODP.NET doesn't work,2,1649,373
+17513242,Get Oracle trigger result from C program,0,1259,373
+17599155,Sending a JMS Message from Oracle Database on DML Event,1,1646,373
+17674428,Alternative Method to Polling/Trigger a Table in Oracle?,1,1538,373
+17755363,Need a program that continously listens to the Oracle DB and if any DML's are made it calls another program?,3,3887,373
+18320028,Get the names of all Triggers currently in the database via SQL statement (Oracle SQL Developer),0,634,373
+18750194,DBMS_ALERT usage in Java Servlet,1,3963,373
+19224756,How to monitor particular column in database,4,1350,373
+19347603,What is the proper way to add a Trigger to a Oracle11g Database using Jdevelopper 12.1,1,762,373
+19729031,Database monitoring Scripts Automation,1,2078,373
+19823423,Using ora_rowscn to know of each change,1,1489,373
+19857419,Oracle db as a data exchange layer for two application,2,1455,373
+20475515,How do I check if a database is running in read only mode?,1,1802,373
+20751259,Creating event-driven SQL scripts,1,653,373
+20820193,Java - oracle.jdbc.dcn.DatabaseChangeEvent - get changed row,1,2772,373
+21177723,How to call java class from oracle trigger?,2,2011,373
+21413969,DML PL/SQL Procedure That Notifies a Caller of Non-Existing Record,2,1437,373
+21458900,Query notifications,1,1187,373
+21697500,jdbc: oracle database change notification & duplicate events,7,3935,373
+21914613,Do you want to made changes in oracle forms,2,1706,373
+22375702,Is it possible to specify configuration variables or settings in oracle,0,1559,373
+22598172,How to JPA update between database versions?,1,1513,373
+22649272,Call python script from ORacle trigger?,0,791,373
+22954405,Track DB Changes,1,1190,373
+23785673,Upgrade database objects while they are still being used by an application,2,1637,373
+23918718,Use of Oracle Advanced Queuing to receive changes of database table rows,0,977,373
+24699710,Get RowId from QueryChangeDescription,1,2748,373
+24866491,"Java, trigger function when oracle database is updated",0,768,373
+25199325,Change notification Issue with oracle 12c,2,3954,373
+25241317,How to delete Change notification in Oracle,2,1335,373
+25282289,What is Managing Oracle Database Entities?,0,591,373
+25285003,"Is there a way to ""bind"" to an Oracle SQL database and get noticed of every update operation in it?",1,2227,373
+25769765,Collect Data from DBMS_PIPE using Java,0,510,373
+25880930,How to present job_name to DBMS_SCHEDULER.ADD_JOB_EMAIL_NOTIFICATION,1,3927,373
+26003506,DatabaseChangeRegistration in remote server,1,3706,373
+26041089,PLSQL APPLE push notifiactions,0,207,373
+27004545,Java - Oracle Database Change Notification,1,3617,373
+27176803,EclipseLink cache invalidation with stored procedure,1,969,373
+27247748,Oracle query to get latest table or stored procedure schema change?,1,1094,373
+27565792,Icinga (nagios) trend of query result,2,1881,373
+27652015,GUI to oracle Change data capture,1,1955,373
+27744705,Updating tables based on Oracle JDBC Database Change Notification,1,3573,373
+27793608,Instead of update trigger on view is not fired automatically unless manually updated on View,0,1678,373
+27810665,Dynamically display the records of database in window forms,0,762,373
+28894323,Canot get table name with Oracle Database Change Notification,2,3363,373
+28900996,Oracle Data Change Notification,1,577,373
+28973486,How to know if DBMS_DDL.SET_TRIGGER_FIRING_PROPERTY was set to false for a Trigger?,1,856,373
+29505710,Is database change notification better than trigger?,2,2382,373
+29680704,how to identify which tables in oracle got inserted / updated / deleted,0,854,373
+29929205,How to integrate Oracle and Kafka,2,2811,373
+30118400,update List whenever database table change,0,962,373
+30188565,Write a database change to another database via JMS,1,2004,373
+30230065,Oracle trigger updating table in another server,0,1226,373
+30432676,Support of Oracle streams in 12c,1,1111,373
+30529902,Receiving Database Change Notifications in Oracle Using BizTalk Server,2,3732,373
+30847188,"When use Change Notification interface, the ORA-24912: Listener thread failed. Listen failed error occur?",1,1832,373
+30867136,Why use Oracle version control?,2,3964,373
+30956599,How can I change global database name in Oracle Enterprise Manager Database Control?,0,615,373
+32069194,"how to create a trigger in oracle that fires anytime, except when I use a netbeans application to modiify my database",1,2228,373
+32097023,How can I tell my database that some changes are made by hibernate and not by other application?,1,3418,373
+33388155,Alternatives for Continuous Query Notifications in Oracle 12c CDB/PDB setup,2,3184,373
+33422175,Automatic Update to SQL Server CE local database using sync framework,1,882,373
+33700319,Listen for Oracle Database changes in .net,0,627,373
+33825938,Make a J2EE application avoid updating the DB,2,2651,373
+33911341,Spring - Getting notified on DB changes,1,1984,373
+34959223,ODB PL/SQL API for a created View?,1,1332,373
+35020345,Oracle Database Change Notifications only sent every 15 minutes,1,3686,373
+35333516,How to implement push notification using oracle maf,2,3944,373
+35649741,Favorites Shortcut in Oracle-SQLDeveloper?,1,1654,373
+35790937,Oracle Github Integration Automation,1,648,373
+35842925,Implementing Android Notifications with Oracle server,1,1519,373
+35852788,How to use Oracle Timestamp while doing insert/update in Hibernate?,2,1836,373
+36048142,How Can I get table's primary key via Oracle Database Change Notification,1,2820,373
+36078185,Toast message in Oracle MAF,1,488,373
+36116104,check if update is from oracle database user or from external application on database,1,2210,373
+36610463,cx_Oracle CQN Callback usage across a router,1,3951,373
+37136333,Oracle dbms_alert.signal firing once for multiple actions,1,3840,373
+37306573,Is there a listener for triggers in database?,1,1598,373
+37811405,Trigger oracle table changes in C#.net,0,1053,373
+37847251,cx_Oracle Continuous Query Notification,1,2096,373
+38982359,Registering a Change Notification to an empty table oracle,1,1959,373
+39028440,start bpm process when database content changes,1,637,373
+39854089,"Deploy Sql Changes to Customer Databases (altered tables, functions,...)",1,3923,373
+40090371,PLSQL: Change Data Capture to get modified records of a table,1,1285,373
+40134307,ODP.NET notifications are not received in the client side,4,3938,373
+40278658,How to get notified on a database change in Oracle using C#?,0,2023,373
+40343862,Oracle Change Notification Listener in a web application,0,1306,373
+40359820,No Notification from Oracle Change Notification Listener,1,1748,373
+40479818,How to trigger an event upon execution of a raw query in Oracle,1,598,373
+41501198,Oracle EBS Alert Mechanism,1,2018,373
+41679033,"Oracle Change Notification, performance overhead?",1,767,373
+41725877,Oracle Database change notification,1,2748,373
+41764851,Oracle change notification Exception,1,1231,373
+42122087,"SQL Code Push, Tracking and Auditing",1,3959,373
+42167612,Oracle replication data using Apache kafka,4,3953,373
+42236061,Build an in-memory local database based on an existing database and triggers,0,1753,373
+42482275,How to implement Push Notification with Oracle in iOS,2,743,373
+43035884,NodeJS or Asp.Net Web API for server side programming to use with Oracle DB,0,2594,373
+43141978,SSDT Equivalent for Oracle Database,3,2200,373
+43547334,updating() function affected by an INSTEAD OF trigger,1,3942,373
+43764909,Oracle 12c send notification on insert/update/delete,1,1622,373
+43851721,Oracle Monitoring on AWS: EM Express vs Cloud Control,1,3488,373
+44231694,Minimal Oracle DDL to bump DBA_OBJECTS.LAST_DDL_TIME,1,2223,373
+44549570,Oracle push notification using asp.net web forms using c# and oracle,0,1237,373
+44693796,Oracle Database Change Notification and 1800 bytes/100 rows limit,1,1777,373
+44994676,Change OracleDependency timeout to unlimited,1,1855,373
+45338202,How to enable monitoring in Oracle Service Bus 11g?,1,2238,373
+45606337,Versioning of code and data in Oracle,1,1200,373
+45669341,Qlik Sense Setup with Different Database,1,345,373
+45772461,Does MySql have anything like Oracle JDBC's Database Change Notification?,1,940,373
+46793478,Spring boot refresh page on oracle database insert,0,597,373
+46831869,Delete Oracle Change Notifications,2,2082,373
+46937850,notify an app when a new row added in a specific table in oracle,1,1276,373
+47095776,persistent Database Change Notifications,1,3955,373
+47378123,How to update database directly from a TableView or TableWidget?,0,3250,373
+47537159,OracleGGCreateNextBatch table in different location?,1,1721,373
+48104203,Database Change Notification not coming to jdbc driver client after sometime,0,1536,373
+48804804,oracle database change notification the partition table,0,1567,373
+49078569,Q: CQN dbms_cq_notification.cq_notification_queryid,1,1340,373
+49149654,Oracle database change notification not working when inserts qty exceeds 20,1,3920,373
+49275786,How to Update existing data in Oracle through using Hazelcast persistent store,1,2395,373
+49411749,Java listener when insert fired on any one specific Oracle table,0,967,373
+49493470,How to update Oracle APEX DB table,1,1402,373
+49510611,Retain SignalR notifications on page refresh or page change,0,2398,373
+49534930,listening for changes in the table on Oracle PL/SQL,1,1071,373
+49641071,Data Change Notification performance impact,1,1151,373
+49985353,Oracle : Send latest insert/update to JMS,2,3954,373
+50875634,Oracle change notification contains invalid actions,2,3944,373
+50894209,Redis listener for oracle DB changes,1,695,373
+51179975,How to detect if Oracle database supports auto increment?,1,1982,373
+51271209,How can I Monitor an Oracle Database installed in a GCE instance in Stackdriver?,2,1107,373
+51401492,How to remove notifications sent be oracle database?,1,2437,373
+51570082,Oracle SQL - most efficient way to implement is record read?,2,3443,373
+52006922,Impacts of Updating jvm?,1,900,373
+52024776,Pushing messages from an Oracle database to a client,0,678,373
+52079309,Oracle Database Continuous Query Notification in a multiple cluster environment,0,1137,373
+53406303,Send Email from oracle trigger - if any DML happens,1,1498,373
+53591809,Add column on Oracle database which store current date/time whenever table row updated,1,1034,373
+54838982,Oracle dB automatically retrieve new records,1,909,373
+54912359,Oracle Change Notification not firing when table changes,0,3939,373
+54965059,Does Oracle Database have open issue list?,1,585,373
+54967913,Notification after script has finished in SQL Developer,3,3422,373
+54969210,Oracle Notification Dapper,1,3969,373
+55602900,"Cannot register for DBMS Change notification, getting error ""dbms change notification must be declared""",1,2920,373
+56760514,Update Oracle Database table through Email,0,985,373
+56926537,streaming data from oracle with kafka,1,2271,373
+57041835,Custom E-Mail-Notification on data changes,1,2428,373
+57188009,OracleDependency doesn't fire event,0,1752,373
+58104932,Broadcast latest data without polling,0,1466,373
+58504871,AWS RDS Oracle and Data Changes/updates,1,867,373
+58532557,Is there a way to get the SCN without querying the database?,1,1115,373
+58552590,Oracle Change Notification Registration is not cleaning on Oracle 18c,2,2671,373
+58664442,Workflow is still in active status,1,336,373
+58969840,Alert to the user when User moves out the dialog or closes the dialog with out saving in Oracle Apex,1,979,373
+59162776,How can I GET updated activities from Oracle Field Service Cloud (OFSC) and UPDATE Salesforce (SFDC) using Oracle Integration Cloud (OIC)?,2,1433,373
+59296867,Best way to read incremental rows from oracle using java,0,1262,373
+59301686,How to add and update Business rule in Oracle BPM application using java code in JDeveloper tool,0,545,373
+59716915,How to send a mail to a set of people everytime a particular table's data is modified in Oracle?,0,1300,373
+60180622,How can I receive a real time notification from a Oracle table when a value change occurs?,0,699,373
+60261642,Oracle ora_rowscn to get delta,1,1385,373
+60286549,Oracle Database Change Notification JDBC,1,441,373
+60653093,ORACLE APEX - Database feedback,1,1600,373
+60972373,Oracle Expression Filter has been deprecated and it's not longer supported,0,1324,373
+61066599,Monitor Table for duplicate inserts in Oracle 11g,1,3946,373
+61141978,How to put a compliant JMS message type on Oracle AQ with Python and cx_Oracle?,2,3217,373
+61284122,Oracle DBMS_ALERT in Oracle 12c,1,3964,373
+61560551,Using a DBMS_PIPE.PACK_MESSAGE and DBMS_PIPE.SEND_MESSAGE in a trigger,1,3174,373
+61582908,Using Oracle Advanced Queues to monitor when a database table column is updated,2,3228,373
+61813010,best way to monitor for changes on database,1,1350,373
+62220404,Oracle Change Management and Configuration Management Pack,0,394,373
+62527299,Oracle AWS RDS conditional Compilation,1,1036,373
+62752049,Why is the following query unsupported for change notification?,1,3452,373
+62995540,Is it possible to register all tables for Database Change Notification in Oracle,1,1274,373
+63088054,"How to create warn on unsaved changes, when user wants to close tab",1,1322,373
+63337295,How to update application cache when a delete operation is committed in Oracle table?,0,1021,373
+63466059,How to Change Static and Dynamic parameters Oracle 19c,1,1104,373
+63547177,Are Oracle Continuous Query Notifications limited for use with Java clients only?,0,422,373
+63889012,Spring Boot Notified by database for any change in values,2,1981,373
+64184862,Java Oracle Database Change Notification issue with web application,1,3928,373
+64291031,How to update CLOB column from a table to another table using dblink in a trigger?,1,2726,373
+64486527,"How to send email from trigger, when our condition match on table in oracle?",0,681,373
+64783079,Trigger or kind just to show message,1,606,373
+65153430,Database Change Notification using Java ojdbc5 not working,1,1057,373
+65421968,Spring JDBC Oracle Session changed under the thread,1,3944,373
+65955379,Database change notification - how get notified of changes in Oracle tables,1,1536,373
+66354097,Oracle trigger to listen to alter table statements,1,406,373
+66795022,Why do I get this error on Oracle Database 12c?,1,1944,373
+66793693,How much can I trust OracleDB's ROWID in a long run?,1,2393,373
+66870309,Oracle Continuos query notification ORA-29979,1,3950,373
+67369802,Is it possible to send a insert notification from database to Spring application?,1,1163,373
+67443222,Automatically get notified when a database record is updated,0,1503,373
+67479632,"Detecting, when an Oracle server stops being ""PRIMARY""",0,1189,373
+68578989,Schema change notification,1,1842,373
+68590322,"Do we need to make code changes, if we are upgrading node-oracledb from version 5.0.1 to 5.2.0?",1,753,373
+68736530,How to find different data in SQL Server table and equivalent table in Oracle?,1,1427,373
+68925953,Oracle DB 12 Temporarily listen to all changes to database,1,1407,373
+69882557,SET_ROWID_THRESHOLD - ORA-29971,0,1564,373
+70526227,Configuring Email Notification Oracle 12c,0,1200,373
+70661669,How to find where an Alert is initiated in Oracle Forms 6i?,1,1294,373
+70830011,Update Clob over a db link,1,1198,373
+71204202,Custom Notification in Oracle Fusion,1,1225,373
+71412281,Oracle- How to check if streaming functionality is enabled in the database,1,565,373
+71626767,Oracle Database Change Notification Not Working For JDBC,0,3939,373
+71776249,Polling database after every 'n' seconds vs CQN Continuous Query Notification - Oracle,1,3127,373
+72058143,Sprint boot database polling or listen database updates,2,3940,373
+72086207,How to implement a oracle db listener in spring boot application,1,1657,373
+72098238,Database trigger calling a spring boot Class method,0,3567,373
+72300118,How to notify spring boot app when new record is inserted into db table?,0,652,373
+73567446,Oracle DB | Node.js - Insertion Event Tracking,2,2732,373
+74343730,How to identity if when was PGA_AGGREGATE_LIMIT changed,0,405,373
+74393496,Python oracledb continous query notification not sending messages from database,0,2000,373
+74644404,How to inject database SYSDATE to a column,1,1901,373
+75070591,Flexcube - Customer Account's status change from/to 'OVER' / 'NORM',1,3928,373
+76004335,Listen for DB changes with SpringBoot,1,2570,373
+76198529,Database Change Notification Not Working in Java,1,3947,373
+76215445,Apigee X Task trigger call from external application,1,1075,373
+76857352,jdbc monitor oracle table change,1,755,373
+76954129,Oracle Continuous Query Notification encryption,1,359,373
+77905011,SqlTableDependency for Oracle DB?,0,2341,373
+78515370,DatabaseChangeListener not showing event changes,1,3947,373
+78528665,How to capture Oracle WCC reject email text into a DB table,0,572,373
+78851742,Oracle DatabaseChangeNotification in a multiple cluster environment,0,1204,373
+79121771,No entry in user_change_notification_regs table,1,695,373
+79423545,Monitor schema changes in Oracle,0,3597,373

@@ -1,0 +1,165 @@
+question_id,title,answer_count,text_length,cluster_id
+308,Is there a version control system for database structure changes?,21,3930,632
+1444401,Data migration process for an application whose architecture is changing?,1,3290,632
+1462854,READ COMMITTED database isolation level in oracle,0,877,632
+1549301,How can I refer to the row that the update is currently updating?,3,2081,632
+3198229,Oracle Browser Issues,1,1659,632
+4874265,Is there any way of determining of a SQL Server Stored Procedure returns a recordset,2,1557,632
+4971948,SQL: return only those columns with different data,2,3945,632
+5582978,Oracle/SQL - Using query results as paramaters in another query -looping?,3,2292,632
+6581075,Database: Can java.sql.Timestamp be stored in a oracle database?,2,1485,632
+7093845,Oracle SQL*Plus error with blanklines and multiple lines comments,1,3930,632
+7212838,How to match only complete words in Oracle regexes?,0,836,632
+7756777,How can I set an oracle procedure's parameter default to the result of a select?,0,304,632
+7910228,Hex Strings inside of Oracle .dmp file. What's that about?,1,911,632
+8337311,"Functions, Procedure & Triggers - how are they different, and when to use?",2,3921,632
+8346809,counting rows returned from a query,2,2120,632
+8414507,How to do I update existing records using a conditional clause?,2,2679,632
+8840126,Is there a MySQL version of Oracle's %TYPE,2,1594,632
+10819159,Download Adfm.jar for oracle 11,1,629,632
+11165169,Oracle to_dsinterval not working,0,368,632
+11318443,Disabling the edit button in grid view when with the help of date field condition using asp.net,0,510,632
+12505049,The magic of DUAL,1,1534,632
+12864946,Update CLOB Column to NULL,0,870,632
+14742611,one oracle database user or multiple users used in asp.net,2,3576,632
+15093675,"Multiplying column by value returns ""not a single-group group function"" error",1,2205,632
+16054300,Need to Sum the Values and then Minus Credit and Debit Note in Oracle,4,1937,632
+17136188,Oracle: First occurrence of a particular character in a string,0,477,632
+17495868,Zend Php ORA-02391,0,619,632
+18762759,SQL Query for below,3,1788,632
+18811416,Several subqueries to WITH table in Oracle,1,3953,632
+19359309,Install oracle 11g2r2 driver for nodejs 0.10.20,1,655,632
+20186965,Application is getting stuck at hibernate txOracle.commit();,1,3935,632
+20467400,Oracle SQL updating HUGECLOB,4,1439,632
+21751604,Create users with pl/sql procedures,1,1179,632
+22011473,PHP - PDO - Oracle and Phonegap: SESSIONS_PER_USER limit error,1,1596,632
+22079432,How to execute query as specific user in Oracle,4,2996,632
+22382222,Tuple constraint,1,851,632
+22465698,How to both send and receive Oracle collections via jdbc,0,3939,632
+23810609,Reading XML from Oracle DB as column2 for each row,1,1246,632
+23866636,the parameter form in Oracle Reports 11g do not display when run from Oracle Forms 11g,1,1118,632
+24692437,Set oracle user password expiry/grace period,2,2283,632
+24997428,Why do you use Cursor in SQL Server?,3,3626,632
+25335813,Fetching rows at extremely high speed,3,3958,632
+25427954,Oracle Sql Statement for unique timestamp for each row,1,3941,632
+25532124,Using Oracle Data Modeler to generate an ERD and running into an issue,1,1393,632
+25572199,SUM of rows with max date,2,1819,632
+25729225,Oracle from Java. CallableStatement and Null for object parameter?,1,3526,632
+27045605,Debugging PL/SQL using Oracle SQL Developer,0,706,632
+27819434,TO_CHAR only considering dates while comparing two time stamps?,1,1317,632
+27885393,sales tracker return cost from query,0,1620,632
+28302817,Convert string to date in Oracle SQL,4,2133,632
+28831114,Split a row based on a value,2,2545,632
+28837523,java.sql.SQLException: ORA-00933: SQL command not properly ended when using getGeneratedKeys,1,3108,632
+29747882,character to date in oracle sql,1,1078,632
+31985306,Alter Column from a date to accept systimestamp,1,2073,632
+32295474,Link to download Oracle SQL*plus 8.0,1,1180,632
+32471669,How to convert Varchar to Date?,1,1152,632
+33172738,When to re-raise the same exception in Oracle,2,3950,632
+33208704,Turn to multiple records,0,910,632
+33641116,concatena two columns Oracle,0,586,632
+34339380,Effective handling java.sql.SQLException: ORA-04068,1,3944,632
+34528305,InvalidMappingException: Could not parse mapping document,1,3938,632
+35625626,Access is denied when creating file using BIPublisher,1,3942,632
+35848190,How to get DBLink name in ODI KM,1,938,632
+36482503,Use a variable in a basic select in Oracle,1,1507,632
+36680617,Oracle SQL - Subtracting Date types,1,1184,632
+37030724,oracle sql - how to get columns which contain string or null,2,1123,632
+37141415,Excel gets strange characters when importing data from Oracle DB,1,1767,632
+37509766,"Oracle nvl, nvl2 and nullif functions",0,626,632
+37704311,Hibernate Foreign Key Error,2,3968,632
+37950948,Update table with another column in the same table,1,1383,632
+38045433,Data Replication in Oracle,1,2709,632
+38953569,Stored procedure ERROR in Oracle,1,1009,632
+39142036,Ora Error - 06553 - Wrong number of arguments in a call,1,2047,632
+39400145,How can I connect to MS SQL and Oracle databases from Perl when the credentials are stored in a separate file?,0,2149,632
+39752658,Invalid column name exception when calling an Oracle stored procedure with ref_cursor through JPA 2.1,0,3894,632
+39920474,Oracle 10g - Get list of tables from query i'm executing,3,3939,632
+40023815,"""Set"" with ""where exists"" performs better then without",1,2409,632
+40086630,what is the difference between left join and left outer join?,1,791,632
+40103912,SQL: exception handling in a function,1,3399,632
+40418526,Oracle Function - returns the line of code throws error,1,2125,632
+40538052,Extracting Unknown Dates,0,1274,632
+40926073,How to restrict the access of concurrent program(Oracle report) to few users only?,1,495,632
+41260521,Create public synonyms for table and sequence in oracle,0,910,632
+41452865,How to display count of values based on other column values,2,3884,632
+41564309,Enumerating rows in a inner join,3,2173,632
+41575718,Query to return new columns based on the data in a single column,1,1215,632
+43561022,Creating a user in Oracle 11g - No permissions issue,1,1223,632
+44190229,How do I use a parameter within BI Publisher to update the table name I am querying in an Oracle Data set,1,1104,632
+44438745,Insert into Select query returns duplicate rows,0,1641,632
+44763280,Character encoding issues - Oracle SQL,1,3207,632
+44766065,Sum of values extracted using SQL,1,3962,632
+45072612,Oracle sql to generate combinations for each row id,0,1201,632
+45411898,Execute dynamic DDL in PL/SQL procedure through definer role permissions,1,3923,632
+46383003,Is an anti-join more efficient than a left outer join?,0,875,632
+46426636,ERROR java.lang.NoClassDefFoundError: javax/ws/rs/ext/RuntimeDelegate,1,3926,632
+46544746,Executing a query within forall,1,2583,632
+46725805,How to select the latest row from a dataset in ODI,2,2207,632
+46746694,how to chomp the value of an array while in where condition of select query?,2,3279,632
+46899661,Select Max Versions value,3,3970,632
+46960975,Oracle Plsql dynamic select as a parameter,1,1068,632
+48394210,How can I get the required output for the given sample data in Oracle?,1,1345,632
+48425712,package oracle output parameter to a shell variable,0,1259,632
+49009623,Display rows after having (oracle),2,1531,632
+50381813,change to decode or,1,2071,632
+50500704,Using Triggers to insert a value or spit out an error,0,910,632
+50777877,Include results but exclude the data in SQL query,1,1589,632
+51796206,"Simple Oracle query is extremely slow the first time, cannot control the database?",5,3913,632
+52223848,"Called through chef recipe, SQLPLUS unable to identify Oracle_Home environment variable in Windows 12R2",0,1315,632
+52629319,Conversion from SQL Server to Oracle,0,653,632
+53984608,Connecting Oracle via SSIS failed due to error ORA-01019,1,3377,632
+53998985,How to fix trigger or procedure in Oracle express to automate values in a column of a table,1,3904,632
+54473337,"""How to recover a schema dropped after EXPDP without doing the impdp?",1,2463,632
+54628641,"How ""OR"" operator works",2,2959,632
+55243601,How to handle row error in direct path insert,0,1338,632
+55990114,Can not Run Completed Oracle Job again,1,3957,632
+56219720,How to find most frequent value in SQL column and return that value?,0,567,632
+57141375,Oracle Forms Messages are not Shown Except Status Line,1,1110,632
+57322600,Joining two queries together in Oracle SQL,0,2746,632
+57521108,Displaying debug output in Oracle SQL Developer,0,1832,632
+57668656,Take Contents of Oracle PL/SQL Table and insert into a Global Temporary table,0,3262,632
+57890930,Use like '%' and match NULL values with NUMBER columns,5,3941,632
+57919334,Hierarchy data from Oracle from Multiple Tables,1,2587,632
+58405007,Java JPA retrieve blob from oracle database as its original file type,1,2319,632
+58705601,Need to convert any timezone to GMT time zone in oracle,1,756,632
+58710577,Total Sum of amount after Buying and selling Product in Oracle,2,682,632
+58759490,Is it possible to use Oracle ManagedDataAccess in Xamarin Android?,0,1151,632
+58766482,Using variable in SELECT and output result like a normal SELECT,1,1882,632
+59738334,SQLPLUS - ORACLE 12 - Trim extra columns white space,1,1213,632
+60453437,Java function to convert CIDR to regex,1,3957,632
+61780053,oracle sql dynamically select columns using a parameter table,3,3133,632
+62349968,Add System Date to file name during Oracle SQL Run,1,2503,632
+62813182,How to get a large amount of records from the oracle DB using C#,0,801,632
+63063450,How to insert date and time in Oracle databases?,0,521,632
+63144350,Multiple Columns and different Join Conditions for Oracle update,1,3931,632
+63456955,"Hibernate sql query has two same tables and is expected to return colums that have same name but different values , but it returns same value",3,2847,632
+63739806,How to get matching word in sql developer,1,1672,632
+64319000,SQL query - Join Two Sql Tables with different format,1,605,632
+65081927,ORA-00907: missing right parenthesis in Business-Intelligence SQL,0,2242,632
+65095850,Oracle 19c Default Values with Liquibase,1,1365,632
+65203826,can we able to recover the workspace oracle apex,1,1091,632
+65213133,Selecting missing values from a comparison of 3 tables (or more),3,3931,632
+66493790,"Select max(date) does not work if the rows have different values, I only want to fetch the row with the highest date",0,610,632
+66515436,How do I give an alias name to the values printed by dbms output in PL/SQL?,1,1559,632
+67209209,What does the following query mean?,1,1502,632
+67740790,"Oracle Lock , How do they differ?",1,1473,632
+68120534,creating donuts chart in oracle OBIEE,2,2725,632
+68570610,Insert procedure is working fast at first but slows down after n number of records,1,3664,632
+68650324,Use GROUP BY with SELECT CASE WHEN statement,1,1706,632
+68901027,How Can I Query Pivoted Data?,2,1743,632
+68923147,Oracle SQL Update multiple parameter,1,1897,632
+69841587,Group By with fewer fields than the select,1,2642,632
+71963847,GROUP BY WITH TO_CHAR FUNCTION,2,2647,632
+73369255,How to use oracle sequence in Python dataframe - Python (Pandas),1,2050,632
+73810477,Oracle display value before decimal for 0's,1,1406,632
+74635948,How to insert BLOB into Oracle table via SQL,1,2114,632
+75660088,How to connect to oracle object storage using Rest API,1,1260,632
+76516712,Get data between specific set of months in SAS PROC SQL,1,845,632
+76701080,How to Select Into a TABLE OF NUMBER INDEX BY VARCHAR2,0,802,632
+76758219,How to resolve connection error between AWS RDS Oracle & Oracle SQL Developer in macOs,1,3909,632
+76998749,"oracle, how to use outer table column in joined subquery",2,2858,632
+77532177,Insert chinese characters to nclob column in plsql,0,1778,632
+77919577,Hashkey and Distribution key in Oracle,0,827,632
+78412420,"Oracle SQL UPDATE Statement, Needs to Begin with SELECT",1,2839,632
+78702215,ora2pg fails to connect and to convert a files from schema oracle,0,1537,632

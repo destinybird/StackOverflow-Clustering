@@ -1,0 +1,191 @@
+question_id,title,answer_count,text_length,cluster_id
+308,Is there a version control system for database structure changes?,21,3930,609
+112812,Accessing URL parameters in Oracle Forms / OC4J,1,902,609
+122302,"As System in Sqlplus, how do I query another user's table?",3,1553,609
+466963,Is it possible to kill a single query in oracle without killing the session?,3,3804,609
+515532,Porting an application from Oracle 9 to Oracle 11 - gottchas?,4,3474,609
+870528,Scripting out Oracle objects,3,1477,609
+895839,Is there an easy way to convert HTTP_ACCEPT_LANGUAGE to Oracle NLS_LANG settings?,2,3914,609
+1129423,Is it safe/possible to delete code from the table dba_source in Oracle 10g?,1,813,609
+1192265,Local Temporary table in Oracle 10 (for the scope of Stored Procedure),3,3925,609
+1232969,Oracle Broken Sequence,2,1051,609
+1244804,Where can I query an oracle databases' case-sensitivity?,1,442,609
+1246360,ORACLE How to use spool with dynamic spool location,3,3756,609
+1441550,What permissions should Developers have in the Dev database instance,7,3927,609
+1444401,Data migration process for an application whose architecture is changing?,1,3290,609
+2071456,Oracle OCI: Query with Date field,4,3962,609
+2196207,What is the most Oracle compatible open source DBMS?,2,894,609
+2385322,ORA-01001: invalid cursor,0,579,609
+2514404,How to insert a data field into an empty table,1,982,609
+2960512,Why is PHP's OCI8/Oracle oci_bind_array_by_name not working for me?,1,1949,609
+3258457,What datatype should I bind as query parameter to use with NUMBER(15) column in Oracle ODBC?,1,3903,609
+3584542,Oracle connection prioritizer,1,1402,609
+4052195,How well do PHP and Oracle fit together in an enterprise setting?,1,1500,609
+4082310,Oracle Create View issue,1,697,609
+4380374,Oracle as our new ERP solution,0,297,609
+4536883,export PDF from report directly,2,2072,609
+5320475,Oracle database mirroring,1,1378,609
+5428872,Multiple table export in oracle,1,1846,609
+5682189,"error with oci_fetch_array, can retrieve data from oracle by php",1,968,609
+5722295,"Hibernate ""could not get next sequence value"" oracle",2,2213,609
+6680228,Managing Oracle Synonyms,2,3197,609
+6793681,Accessing Data from Stored Procedure using CallableStatement,2,1739,609
+6859248,Binding Data from the Database to a Dropdown List in .NET,3,3433,609
+7349635,Help me create a test stub for ABCS requester,1,2206,609
+8022831,Grails: specifying classpath for hsqldb,0,1476,609
+8054622,Passing user defined TABLE type to stored Oracle function,1,955,609
+9505369,How do you convert from scientific notation in Oracle SQL?,4,3937,609
+10182725,Is it possible to configure Oracle session/connection to automatically uppercase strings?,1,1439,609
+10925178,Oracle Date Literal [DD-MON-RR HH.MI.SSXFF AM],1,2580,609
+12931061,How to get oracle NUMBER with syncdb,1,1260,609
+12950212,"BIN$ tables without ""recycle bin""",2,1835,609
+13323165,Oracle sequence for a primary key field doesn't retrieve the currently inserted value in Hibernate,1,3954,609
+13531576,Oracle: export a table with blobs to an .sql file that can be imported again,5,3919,609
+14876122,oracle scheduler to rename interval partitions,1,3949,609
+15616229,Symfony 2 Doctrine Oracle schema sync,1,1961,609
+15939337,python encoding issue or oracle issue,0,1198,609
+16863879,Oracle database schema using SQLAlchemy,1,2465,609
+16930180,Oracle to Drupal 7 data manipulations,1,752,609
+17175243,Hibernate id returns clasCastException,1,1768,609
+17778759,Oracle 11gR2 MView refresh failing,0,1854,609
+18312168,How to drop package when object locked?,1,1815,609
+18567575,How to get checkbox checked value from Treeview in c#?,2,2960,609
+19996077,Data from oracle in utf-8 with php,3,2316,609
+20041093,Stored procedure in oracle sql,2,3965,609
+21112816,all Values are not inserted in database,3,3956,609
+21236080,Sql developer ORA-29531,1,2308,609
+21386873,I'm trying install rpm package but i not able to install rpm,1,1937,609
+21570751,Difference between CLOB and BLOB from DB2 and Oracle Perspective?,3,2340,609
+21708735,Determine Schema and Table Name During EF DbContext POCO Generation,1,1739,609
+23329428,Best way to export huge data from Oracle DB to Oracle DB,2,3870,609
+23427090,What is the difference between ClassNotFoundException and ClassDefNotFoundException,2,2606,609
+23866636,the parameter form in Oracle Reports 11g do not display when run from Oracle Forms 11g,1,1118,609
+24366091,ORA-1882 when attempting to use daylight savings time,2,2038,609
+24673187,DataTables search box causes 'Invalid JSON response',0,3480,609
+24691867,"After inserting data into a table, it doesn't show the new data. Why?",0,449,609
+24785266,Entity Framework is rounding integer values or masking them,1,2227,609
+24957633,Execute sql statements wrapped in a clob with dbms_sql.parse,1,2138,609
+25247461,How to show errors in sqlplus,1,1720,609
+25406949,Data Access Array Binding -- When Errors Happen In Batch?,0,1576,609
+25408231,PL/SQL Creating Trigger In A Package,3,2790,609
+25444104,The Font Of String Changes After Getting Record From Oracle Database,0,490,609
+26210317,Installation of RODBC/ROracle packages on OS X Mavericks,4,3939,609
+26603682,calling oracle stored procedure using custom data types in perl,1,678,609
+26606943,: ORA-01722: invalid number error in JSTL query,0,1062,609
+26892025,SQLDeveloper : Not enough arguments,1,3960,609
+27065394,Confusion about user Authentication process in an APEX application,2,2236,609
+27525356,Unexpected IncorrectResultSizeDataAccessException when querying Oracle db,1,3265,609
+27577711,NVARCHAR2 constants in package specification,1,2588,609
+28723003,ROracle is not handling Unicode,0,859,609
+28942482,Create and run queries on temporaries SQL tables using Python,0,1087,609
+29299859,How can I send oracle query results by email. I would prefer attaching to email as excel file.,1,2715,609
+29339534,Python to Pull Oracle Data in Unicode (Arabic) format,1,1702,609
+29506176,Oracle APEX don't create triggers when import sql file,0,3941,609
+29680704,how to identify which tables in oracle got inserted / updated / deleted,0,854,609
+30704657,"If I don't call ReleaseStringUTFChars, will it be automatically called at the end of the JNI call?",2,2308,609
+30940002,How to insert date and time to oracle in java?,2,3949,609
+31314287,"In Oracle OCCI/OCI, should buffer for reading LOBs be larger than actual data? Getting ORA-32116",1,2071,609
+31668632,passing table name column name and value of a column in oracle databsase,2,3455,609
+32484849,Creating an error log table in oracle,1,664,609
+33232308,Getting JSON data from ORACLE into Jquery Datatables,1,3113,609
+33886819,how to get the OUT variable value from a stored procedure in oracle from php which is in a package,0,2284,609
+34062232,Expose ready-only data from Oracle DB to another Oracle DB,1,1873,609
+34425807,Trigger to Process ORDImage Before Insert,1,1436,609
+35930600,How to use native sql function with HQL query?,3,3949,609
+36397600,identifier 'UTILS.IDENTITY_VALUE' must be declared,1,2264,609
+37189175,display custom messages within a oracle apex application,1,851,609
+37283540,get dbms output message from oracle in php,2,3953,609
+37327863,I created CSV file using UTL_FILE in Oracle. How do I read it back?,1,3928,609
+37709302,How to keep log INFO into 'logtable' even though exception had occur in Storedprocedures,1,758,609
+38150664,Merge multiple BLOBs in Oracle to download in a .docx file using Java Servlet,1,3918,609
+38223263,Oracle UTL_STMP - no content,1,1039,609
+38506396,How to convert fetched records from database to tiff file in .net?,0,640,609
+38575707,"Unknown ""SP2-0552: Bind variable ""NEW"" not declared"" message on trigger",1,2015,609
+39237949,SQL with @ and spaces,0,929,609
+40581989,How to supress the output of .sql script when placed inside bash script,0,858,609
+41733346,Script to check to Invalid objects in Oracle and build script to compile the invalid objects,1,1282,609
+41856455,Oracle: ORA-00911: invalid character,0,1637,609
+42085794,"01847. 00000 - ""day of month must be between 1 and last day of month""",1,3926,609
+42942820,SOCI bind into a rowset pointer when using Core Interface,0,2021,609
+43041620,Table values diff between installing,1,1946,609
+43670751,Oracle Load from other Database Scenarios,0,1773,609
+44509129,Oracle DBLink issue (ORA-02020),0,3620,609
+45332098,OracleDataReader not returning expected value,0,976,609
+45977960,"Literal difference between table, schema, tablespace and user",1,1685,609
+46201132,Insert sysdate using french format(dd/mm/yyyy) to date field in plsql,1,2555,609
+46447008,Oracle 11G usable space,2,3972,609
+48389510,Oracle and SQL Server query,1,3968,609
+48577958,Error While Comparing Data Table Value With Another Value,0,826,609
+48771374,Database link in oracle,1,846,609
+48858898,Using sqlldr to load csv file with sequence,1,3590,609
+49207005,"Oracle.Row insert collides with uncommitted insert in another window, and it causes my window to wait",1,967,609
+49870714,Prepared statement needs to be re-prepared,1,1322,609
+49943042,"c# ""inject"" SQL code using DBParameters for stored procedure",0,3943,609
+51601128,Unable to extract XML node value in ORACLE stored proceedure,0,694,609
+52829412,Retrieve historical local datetime from UTC datetime after DST rules have changed,2,3914,609
+53500743,Django passing parameter from views hangs server,0,1888,609
+54182348,Losing information When Redirect Item From One Page To Another - Oracle APEX 18,0,1184,609
+54248078,how to increase performance of data migration from oracle to mongodb,1,2139,609
+54435113,Sending notifications to multiples users from Oracle database,0,2768,609
+54452571,How to fix [Error] PLS-00049 (30: 38): PLS-00049: bad bind variable 'OLD.V_COLUMN'” In Trigger Dinamic Get column,0,2516,609
+54747102,What type of characters is this ù/î and how it's possible to convert into Chinese characters?,0,989,609
+55098876,How to export specific table from Oracle db in csv using terminal?,1,823,609
+55754864,Authenticate ApEx application without password,3,3949,609
+56331586,How to run a package from development database on production database,0,963,609
+56661974,"Show tables returns ""Show tables handled.""",2,1362,609
+56796843,Any non-SELECT queries don't run in Oracle,1,2410,609
+56807533,SSIS Oracle Source outputs only 1 character,1,1642,609
+56838198,ORA-00933 when running procedure in ODI 12c,2,3952,609
+56998523,"Entity Framework & Oracle, Linq where clause string comparisons do not return any records if given a function parameter rather than a literal",1,3854,609
+57143099,Oracle Number mapping without precision - EF DB First,0,816,609
+58004579,ORA-01843: not a valid month exception when running as report on maximo,1,3646,609
+58856202,Data replication between Oracle and Postgres,2,3185,609
+59028805,Correct way to handle exception handshake between python and oracle,2,3928,609
+59426786,How to execute sql file in Gitlab-ci,1,1888,609
+59537373,Cannot create unique key from execute immediate in oracle,1,2750,609
+60747900,Oracle sqlldr timestamp format issue,0,575,609
+60955889,Create a table inside a oracle a Job,2,2577,609
+61439648,ORACLE Using SERIALIZABLE to PL/SQL for download consistent data,1,2942,609
+61745783,Troubleshooting insert/delete/select performance on Oracle,1,2381,609
+61975991,"""No data found"" error during execute the procedure in oracle trigger",1,2474,609
+62126390,Creating a Column Link in an Interactive Report -Oracle Apex,2,3429,609
+62756577,SQLPlus DBMS output not the same as in developer,2,3015,609
+63488269,Oracle RAC RMAN Backup not writing to NFS Share,2,2984,609
+63697843,Oracle Partitioned table to Datalake using python,2,2400,609
+63730746,Use Calendar object in java as parameter for SQL Server date column?,0,1235,609
+64386567,Which limitiations exist in using ORACLE CUSTOM DATA TYPES as parameter in PL/SQL Stored Procedures?,1,1958,609
+64763151,Can I take backup of Oracle and Hana databases using ansible?,0,226,609
+65349427,Does oracle attempt to rerun a failed job automatically? Where can I see the setting for the same?,0,1743,609
+65731159,identifier 'SYS.DBMS_SQL' must be declared error,0,1340,609
+66195882,What is the significance of word Global in the Program Global Area in Oracle?,1,1682,609
+66267475,Creating a materialized view in Oracle on another view without going stale/needs compile status,0,3900,609
+67293072,delete log data to regain free hard drive space in oracle,1,1289,609
+67500553,Oracle index with I_JS$ in name,1,539,609
+67605177,Change timestamp format in oracle,1,3962,609
+68163656,JAVA OCA Oracle Certified Associate Java SE 8 Programmer I Exam_1Z0-808,1,1133,609
+68650706,Insert datetime into Oracle using perl DBI parameterized INSERT statement,1,1930,609
+69197613,Oracle trigger failed to access user_tab_columns,0,3042,609
+70143250,How to write and read clob type data in oracle database from python?,1,2485,609
+70251141,Oracle drop table if exists is throwing an error starting at line 1: in command,1,1265,609
+70621611,A new user belonging to a new application role doesnt' see Create Report option in OBIEE,1,1820,609
+71211782,Unable to write result to Oracle Database from Python using cx_oracle library,0,3918,609
+72713187,DROP IDENTITY FROM COLUMN ORACLE 19C,0,324,609
+73210846,How to fix ORA-00933: SQL command not properly ended using sqoop,2,3931,609
+73290142,Query runs fine in SQL Developer but gives Error Msg = ORA-00905: missing keyword in JDBC,1,3906,609
+73323915,Migrating from Oracle 11 to 19c,1,2816,609
+73805025,impdp (19c) taking way too long ! [processing-DATABASE_EXPORT/SCHEMA/TABLE/INDEX/INDEX],1,2437,609
+74003235,Batch update does not works when using JPQL,1,3545,609
+74728515,"Using Ubuntu, encrypt passwords in bash",1,2983,609
+75391549,DBA_OBJECTS view in Oracle,1,1447,609
+75531083,oracle::occi::Date.SetDate() is crashing : (exception) Error=32146 : ORA-32146: Cannot perform operation on a null date,2,1341,609
+75868376,To handle closing of sysrefcursor returned from a Plsql Stored Procedure,1,3056,609
+76254909,Oracle Trace Files on MV Refresh,1,3695,609
+76286156,Call application process from page in oracle apex,1,2422,609
+77281619,"UTL_HTTP making API call to fetch token , bad request",1,3942,609
+77284235,How can AWS SCT & DMS be used to migrate tables with SDO_GEOMETERY types to Aurora Postgres?,1,3903,609
+77441831,"Oracle SQL Package with cursor selects table from same schema as package but ""table or view does not exist"" - SQL standalone runs correctly",0,2990,609
+77566535,Extracting data from very large Oracle database which has blob column in everyrow,0,1991,609
+77569518,cx_Oracle.DatabaseError: ORA-12847: retry parsing due to concurrent DDL operation,0,1945,609
+78777633,Entity Framework 8 Query Slower Than Direct Oracle Command,1,3937,609
+79023649,"plsql script is raising 'ERROR at line 1 DECLARE', I don't see the reason",1,3922,609
+79052843,C# Nhibernate | PL/SQL Oracle - different length of string when it contains diacritical marks,0,1334,609

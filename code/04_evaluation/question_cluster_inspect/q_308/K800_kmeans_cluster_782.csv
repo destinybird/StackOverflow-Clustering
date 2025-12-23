@@ -1,0 +1,275 @@
+question_id,title,answer_count,text_length,cluster_id
+308,Is there a version control system for database structure changes?,21,3930,782
+3589,Backup SQL Schema Only?,6,2127,782
+29744,How do you manage schema upgrades to a production database?,7,3936,782
+41838,Black Box testing software,6,2092,782
+47366,SQL Compare-Like tool for Oracle?,2,1454,782
+269145,Oracle - side-by-side schema update technology...is there any?,3,3243,782
+499171,Migrating an Oracle database with a C# application attached to it: How to manage database migration?,3,3895,782
+540617,Best way to test a Delphi application,3,2780,782
+560273,How to compare Oracle XML Gateway Message Designer maps? (.xgm),1,1968,782
+706026,"How do you work on Oracle packages in a collaborative, version-controlled environment?",7,3909,782
+859039,Oracle compile view sql,0,520,782
+870528,Scripting out Oracle objects,3,1477,782
+936576,SQL Server 2000/2005 - Maintaining Development Version and Production Version,1,1220,782
+971792,Is there an easy way to backup Oracle SQL Developer's User Snippets?,7,2649,782
+995223,Error handling and data integrity when changing table schema,4,3935,782
+1150667,Track changes on a database,1,2340,782
+1161116,Version configuration from SQL,1,3965,782
+1262534,"Oracle DDL/DML script, PL/SQL in Source Control",6,3948,782
+1277085,version control for Oracle 10g Express,2,1166,782
+1296835,Automated Oracle Schema Migration Tool,5,3474,782
+1420139,How do I detect Oracle XE?,2,1198,782
+1696430,Implementing user-defined db parameters/properties in Oracle,4,3733,782
+1717048,Database source control with Oracle,9,3960,782
+2052377,Oracle DB versioning scheme,4,1737,782
+2146211,Suggestions for an Oracle version control system,3,3947,782
+2231448,Errors in database migration scripts,2,3972,782
+2329597,Build automation for Delphi + Oracle,3,3959,782
+2404540,How should I migrate DDL changes from one environment to the next?,4,3929,782
+2469905,Providing multi-version databases for backward compatibility for production applications/databases,0,731,782
+2668094,How to (unit-)test data intensive PL/SQL application,4,3943,782
+3111451,Creating migration scripts from the legacy model to the current one (being under development),2,3885,782
+3130574,Any tools to export the whole Oracle DB as SQL scripts,4,2878,782
+3372546,Oracle updating database with scripts - automation,2,3945,782
+3576475,Is there a good way to verify if a database schema is correct after an upgrade or migration?,3,3535,782
+3833995,Loose coupling among objects within oracle schema,2,3695,782
+3860636,Strategy for updating data in databases (Oracle),1,2344,782
+4034998,Migrating and Backing up Schemas (complex database structures),3,1975,782
+4081328,Building Oracle DB; Good Directory Layout,4,3954,782
+4114476,Testing stored procedures using MSTest (.Net),1,2373,782
+4340214,"Oracle: Adding, renaming, and dropping columns on live database",4,2371,782
+4852641,Perceiving objects accessed/updated by DML in Oracle,1,1498,782
+5142319,Options for generating create scripts for all objects in Oracle schema,2,1862,782
+5178116,Is there a way to override code generator for DataSet?,0,299,782
+5816588,"Is there something like a ""column symlink"" in Oracle?",5,3942,782
+5889260,Using Schema Compare for Oracle to create deployment script,4,3001,782
+6312099,How to achieve test isolation testing Oracle PL/SQL?,4,3943,782
+6529663,How to minimize the coupling/dependency between physical DDL changes and PL/SQL changes?,1,1862,782
+6611969,How to Deploy Database Changes to a Live Server?,2,2358,782
+6750454,Creating re-runnable Oracle DDL SQL Scripts,2,3738,782
+6877460,DBIx::Class - best way to add support for 'FOR UPDATE NOWAIT',1,1242,782
+6928376,deploying multiple versions of the same views in Oracle,1,1186,782
+6986176,Oracle AFTER/BEFORE CREATE ON DATABASE trigger: how to access object sources,1,1105,782
+7244291,C# library for database diff(ing),1,2727,782
+7253819,DBUnit oracle possible to determine tables written to after a given test,1,1710,782
+7291398,Is there a way to mandate table/column comments in Oracle 11g,1,1618,782
+7932860,How to handle versioning with Oracle Apex,3,3848,782
+7971550,How do I create automated tests for an Oracle procedure?,2,2455,782
+8675964,How get copy of objects from oracle database,2,3951,782
+8797960,Deploy the same version file in BPEL SOA,1,1209,782
+8988177,Entity Framework Oracle and Sql Server - how to build a database independent application,2,2951,782
+9081875,Migrating changes from a dev APEX app to production?,0,754,782
+9083487,Converting Oracle or Sql Server DDL to Derby,2,1669,782
+9195170,diff local package with database package,2,2892,782
+9367904,SQL script to update a package,2,2479,782
+10096311,Database build process management,2,2297,782
+11354041,Liquibase DB Independent Insert statements,1,1289,782
+11440619,Liquibase: Add changesets for new database,1,1663,782
+11510875,Liquibase: Custom SQL statement,1,3687,782
+11879973,Flyway - oracle PL/SQL procedures migration,3,2082,782
+11953316,Oracle: put existing db to version control,2,1636,782
+12096083,How to generate the SQL script for migration from an old DB to a new DB?,2,3903,782
+12210140,ArcSDE Database Refactoring Tool options,1,3955,782
+12478519,Solution to do Database migrations on Oracle / SqlServer and SqlLite,0,2168,782
+12525118,How to update RPD file in OBIEE analytics,1,1031,782
+12610575,Is it possible to update a clone database only with changes in the source database?,1,1946,782
+12754779,Store build number and date in oracle database procedure comment header,1,2311,782
+13130893,Oracle column not available in subsequent transactions,0,3062,782
+13748494,export changes in script in oracle (using Toad ?),1,1406,782
+14095846,Liquibase idempotency on Oracle DDLs,1,3959,782
+14355660,Check if oracle script is valid and will run ok on another database,1,941,782
+14362737,Comparing across 2 database instances,1,2619,782
+14717381,Oracle build-automation?,1,3997,782
+15159891,edit existing key flexfield in oracle apps,2,1825,782
+16037641,"Oracle database, large plsql code managment",3,2968,782
+17743497,Database Insert into script preparation for tests (logging data state?),1,2941,782
+17882129,Database objects version control (not schema),1,2790,782
+17932656,How to compare 2 oracle schema script files?,1,2086,782
+18346905,"""Unit"" Testing Database",2,2887,782
+18601488,Is there a version control feature in Oracle BI Answers for a single Analysis?,1,2643,782
+18676265,Oracle SQL and PL/SQL 'make' tool,1,1829,782
+18713971,Good practices - Use of LiquiBase packages,1,3953,782
+18743448,Storing DDL scripts into a clob,1,1303,782
+19249246,"How to use Liquibase to alter views on both Oracle and HSQL DBs, (replaceIfExists not supported on HSQLDB)",1,1852,782
+19729031,Database monitoring Scripts Automation,1,2078,782
+19817306,Oracle Designer Editor 10.1.2.5 version control?,1,995,782
+20148318,"Liquibase, create foreign keys in Oracle, preconditions",2,3940,782
+20416535,"How could db schemas, implemented by Liquibase, be extended?",2,3935,782
+20508704,transactionally swap two tables in oracle 11g,0,1572,782
+20611476,Best system test technique for new front end to legacy system,1,1738,782
+21419432,"H2 in Oracle compatibility mode is validated as H2, not oracle",1,3468,782
+21478276,Oracle designer - generate scripts for multiple table/views at same time,1,1264,782
+21697596,How to merge metadata from several copies of Oracle database into single (reference) database,1,2174,782
+21872886,How to revert old plsql?,1,3385,782
+22021445,Oracle SQLDeveloper Database Diff functionality doesn't consider dependencies,0,3099,782
+22053548,How to avoid manually writing/managing SQL,2,3094,782
+22172239,"How to extend Liquibase to generate change logs with stored procedures, functions and triggers?",1,2891,782
+22523031,Oracle DB comparison,0,1117,782
+22707262,Generate change scripts from SQL,1,3963,782
+22733538,Database dependencies,1,1573,782
+23230573,Oracle Merge to be Scheduled Job,1,3172,782
+23534676,"Oracle database, moving changes between databases",1,2337,782
+23785673,Upgrade database objects while they are still being used by an application,2,1637,782
+24083146,Will an DML process get affected if the application is upgraded or replaced at the same time?,1,2660,782
+24500626,Centralized vs Distributed Version Control on Oracle Right Now,1,1772,782
+24701548,Can liquibase syntactically validate the SQL generated using updateSql command?,2,2945,782
+24734777,DDL + DML in Flyway (recommended approach),1,944,782
+25506192,How to squash/merge migrations in flyway,2,3955,782
+25623999,Start with Database versioning,0,1297,782
+25919550,executing a common sql file using liquibase,3,1357,782
+26490572,Generating ODI Packages,2,3824,782
+27298479,Run PLSQL external script with Liquibase,1,2560,782
+27507236,utPLSQL and existing data?,1,2081,782
+27509427,Documentum multiple repositories in single database,1,1529,782
+27510182,flyway: Previous state of database,0,303,782
+27801466,Compiling Oracle schema with debug info,2,3868,782
+27840323,What is the best way for deploying Oracle EBS developments?,1,1451,782
+28153028,"How to ""check in"" changes on both database and code by just one tag using ODT?",3,3917,782
+28308550,How to deploy sql changes with .NET + Oracle,2,2663,782
+28417036,Liquibase rollback is not intelligent to determine the order of statements to execute. Is that correct?,1,3931,782
+28669538,Liquibase generateChangeLog command - generating changelog with insert statements,3,3024,782
+28678190,Generate upgrade script to ALTER TABLE based on CREATE TABLE statement in Oracle,2,2476,782
+29242231,Export configuration of oracle database?,0,1259,782
+29848246,execute parameterized liquibase changeset multiple times with different parameters,2,1280,782
+29925611,Deploy ddl as declarative xml states,1,3773,782
+30191565,get list of changesets for a specific Team Project from tfs and store them in oracle database,2,887,782
+30303388,Liquibase column data types from generateChangeLog,1,1950,782
+30343434,Can diffChangelog generete difference in DML?,0,1096,782
+30769324,liquibase environment scripts,1,2640,782
+30867136,Why use Oracle version control?,2,3964,782
+31481384,Flyway migrations supporting multiple storage engines,1,1206,782
+31517788,SQL Create or Replace Table in Oracle,0,990,782
+31613599,How to generate DDL for deltas only between two different versions of a schema?,2,2599,782
+31835904,Flyway callbacks with Oracle compile,3,2379,782
+32432501,How to Version control and Configuration Management in Oracle APEX 4.2,1,1233,782
+32620253,Rewrite PK and related FK based on an oracle sequence,2,3121,782
+32887158,How to manage test data fixtures for acceptance testing in large projects?,2,1968,782
+33533735,How to update value of fields in a table found in every schema on an Oracle Server,1,2234,782
+34738433,PL/SQL (Toad) auto format all database objects,1,1454,782
+34897242,liquibase 'generateChangelog' generates wrong schema (bad data),1,2032,782
+34931134,Oracle UCM - How to clone a site with all the CDF and Data files but name it a new site?,1,991,782
+35356563,Rollback is not working in oracle using liquibase,2,3992,782
+35750017,Production Clone for an Oracle Test Database,1,2053,782
+35777799,"How can I find out, why a Liquibase-migration with Preconditions was MARK_RAN instead of EXECUTED?",1,2566,782
+36336191,Run Environment specific changes from liquibase script,1,1940,782
+36727075,Liquibase support for Postgres and Oracle,1,1500,782
+37111743,Using Flyway and TOAD to compile the same Oracle code,0,2587,782
+37465186,Oracle 11g Reports and Forms Properties Mass updates,1,2724,782
+37506085,"Using liquibase versioning table definitions, not change sets",1,1829,782
+37535312,Database schema versioning control (not change script version control),0,1981,782
+37965267,Multiple databases with slightly changing models. How do I allow Entity Framework to remove columns at run-time?,0,2237,782
+38134067,Compare two schemas using toad and Redgate?,2,1186,782
+38553654,Validating SQL Files - SQL Validator,1,2866,782
+39675199,How to do Data independent unit testing using NUnit,1,1975,782
+39853242,ORACLE XE Savepoints vs Snapshots,0,701,782
+39854089,"Deploy Sql Changes to Customer Databases (altered tables, functions,...)",1,3923,782
+40273958,How to handle data migration integrity issues?,1,1619,782
+40523382,Developer sandboxes for Oracle database,1,1955,782
+41425463,Inverse SQL script auto-generation,0,655,782
+41733346,Script to check to Invalid objects in Oracle and build script to compile the invalid objects,1,1282,782
+42063694,How can I go back to a migration with Flyway?,1,763,782
+42122087,"SQL Code Push, Tracking and Auditing",1,3959,782
+42140256,How to DDL results from SQL Developer Database Diff tool,1,712,782
+42353266,Oracle SQL rules design,0,3972,782
+42876708,Customize Liquibase Control tables (DATABASECHANGELOG & DATABAEECHANGELOGLOCK),2,1814,782
+43005711,Apex Export with Sequences,1,1763,782
+43041620,Table values diff between installing,1,1946,782
+43141978,SSDT Equivalent for Oracle Database,3,2200,782
+43389265,Is it safe and possible to recover oracle dump with cycle dependencies?,1,2031,782
+43628300,Data Virtualization and provisioning tools such as Delphix,1,1712,782
+44285850,Oracle database to GitLab,3,2175,782
+44435052,Is there a way to recreate an ODI package using ODI Scenario?,1,1773,782
+45364162,liquibase formatted sql file containing multiline rollback statements to allow Oracle PL/SQL,1,2160,782
+45431809,Liquibase adding comments for already existing tables / columns,1,373,782
+45606337,Versioning of code and data in Oracle,1,1200,782
+46152147,Create and compare snapshots of a schema definition,1,1322,782
+46304680,Automation Execution,1,2237,782
+46340946,How to properly migrate code between repositories in Oracle ODI - Missing references,1,1860,782
+46655177,Completeness of Opatch lsinventory,1,1292,782
+46690129,How to work with packages in Liquibase,0,1735,782
+47000082,Netbeans auto generate entitiy from database every database tables change,0,286,782
+47018419,"PLS-00103: Encountered the symbol ""end-of-file"" in FlyWay",1,3938,782
+48157783,liquibase generateChangeLog command skips tables,0,1397,782
+48224461,Liquibase: How to rollback specific changeset without rolling back all subsequent changesets,0,1061,782
+48556321,Performing checks on Liquibase scripts,2,2189,782
+48746061,Merging two oracle database instances in one instance,0,1968,782
+50069885,Select from a table which might not exist,1,3954,782
+50229092,How to rollback database to the original version using Liquibase?,1,2700,782
+50253913,Implementing simple migration script support for Oracle,1,3466,782
+50560687,Deploying Oracle PL/SQL code to QA,0,805,782
+50648628,Updating Module in Oracle Sql Developer Data Modeler with sql script,1,379,782
+50906212,"I have ran .sql file through liquibase, made some changes to the file and now checksum validation fails",1,1254,782
+50970766,"After database conversion from oracle to mysql, liquibase checksums are wrong",1,1869,782
+51037470,Extract whole schema from oracle database to another (java) (automation),3,2221,782
+52080578,Oracle Developer Tools for Visual Studio 2017 (ODT),1,2048,782
+52288072,Way to dump (copy) all DB objects from Oracle to Intellij,2,797,782
+52515504,Generate commit for oracle SQL file in liquibase,0,926,782
+52597308,Oracle SQL Developer export sources for version control,1,1950,782
+52793282,Getting project root in Liquibase sql changeset,3,3948,782
+53017640,Flyway repeatable migrations - Checksum doesn't change but Flyway still executes scripts,0,3907,782
+53421165,How to get old code from replaced procedure (PL/SQL)?,2,3942,782
+53775375,Cleaning a SQL schema before using SQL Developer Database copy tool,0,2863,782
+54366259,Moving triggers and sequences from one schema to another,2,2379,782
+54525336,What are the advantages of handling oracle packages/stored procedures with liquibase?,1,1129,782
+54569438,Oracle repository,1,1456,782
+55068901,Liquibase - Generate changelog from oracle schema to migrate to postgres,2,1898,782
+55536808,I started out on PL/SQL Development on SQL Developer. How will my work in the DEV environment be pushed to QA and then eventually PROD?,2,3204,782
+56117456,How to test all environment configurations for DB scripts in lower environments,0,3551,782
+56331586,How to run a package from development database on production database,0,963,782
+56602874,Oracle Data Modeler - How to Commit DDL changes back to Database?,1,1756,782
+57169599,Oracle Dependency Between Schemas,0,1821,782
+57339714,Create DB script of all the DB changes took place in defined period,0,2548,782
+57413360,How to do rollback afer executing an sQL changelog which create table,1,2215,782
+57416251,How to tag several changeset in sqlfile mode,0,974,782
+57432376,How to put one or several package files into a changelog in sql format,2,1177,782
+57714302,Is it OK to update APEX metadata tables from SQL Developer? Or make changes to Application Export file?,3,2426,782
+57768006,How to change source and target table connection details in oracle ODI without disturbing the existing interface?,1,2083,782
+58919709,"Liquibase with Postgres, changelog parameters are not replaced",1,3933,782
+58958913,Specify edition from oracle with flyway,1,744,782
+59517432,Synchronize oracle ddl changes,0,1128,782
+60261670,How to modify the default execution order of sql script in liquibase?,1,2135,782
+60504686,Liquibase integration in python project,2,917,782
+60682144,How to use runAlways SQL changeSet,1,2185,782
+60772511,Liquibase diff functionality,0,3967,782
+60922379,how to programatically simulate a oracle server shutdown,1,1349,782
+61056307,Running a custom drop-first script with Liquibase,0,1970,782
+61359376,Automation of Cart functionality in SQLDeveloper,0,3836,782
+61360388,Liquibase ChangeLog and LogLock table creation on Later stage without failing already executed scripts,2,3893,782
+61920938,How to version control the sql files in github repository,0,549,782
+62250875,How to import export an existing application in oracle apex,2,1598,782
+62392593,Replicate Oracle db into h2 for unit test (spring-boot application),1,3701,782
+62832954,Oracle Soda - VERSION field use case,1,2615,782
+63125755,Update an existing trigger into Liquibase,2,2752,782
+63869223,Liquibase - execute multiple pl/sql packages,3,3059,782
+64382754,Is there a way to compare the data or transactions between 2 oracle database tables?,2,1724,782
+65089635,Unit Testing Oracle views,0,2008,782
+66867284,Segregation Of DDL & DML Script - Flyway,1,495,782
+67032306,Changeset requirement to identify unique change to execute by liquibase,0,820,782
+67296861,Oracle PL/SQL package version control,1,2462,782
+67964148,Is it possible to change database connections between changesets in Liquibase?,3,3917,782
+68084544,Oracle APEX Development Process/Flow,2,3575,782
+68229253,Configuring GIT in Oracle SQL developer 18.x,1,600,782
+68457702,sqlcl can't perform liquibase update for a simple changelog,0,3936,782
+68485885,Make liquibase output be spooled to the current spool file when running using sqlcl,1,2482,782
+68578989,Schema change notification,1,1842,782
+68759242,Is it possible to create new RCU schemas for an existing Domain?,1,884,782
+69096690,SQL Developer Read Only Test Mode,1,791,782
+69399606,EF Migration / How to change DB First approach to the Code First Approach for the existing project,1,1012,782
+69828716,Flyway migration with multiple instances pointing at the same schema,3,2831,782
+70484521,How to keep two database environment tables in sync by creating scripts using procedure,0,3072,782
+71017331,How to add/reflect query changes to the existing data in spark,0,662,782
+71643266,how to install patches in parallel in liquibase?,1,1933,782
+72167675,Execute only SQL delta (change) files in Jenkins CI/CD and get deployed on production server,0,1576,782
+72816125,Stop Liquibase from removing Oracle hints,1,572,782
+72870709,How to automate sql file execution?,1,3960,782
+73452623,Is there any way to handle source flat file with dynamic structure in informatica power center?,1,2139,782
+75300560,Liquibase doesn't generate sql rollback sql to tag,0,1642,782
+75375078,How to rollback data.sql script in integration tests?,1,3446,782
+76122801,Methodical usage of many SQL-files in oracle-sqldeveloper,2,3938,782
+77133866,Oracle DB - Database backup without any data,1,1506,782
+77202164,How to generate schema repository for an existing oracle database,0,2077,782
+77468443,Pass a parameter to Liquibase changeset when running using SQLcl,1,1452,782
+77908023,PL/SQL script to search for a particular string in data from the entire database,2,3915,782
+79067355,Oracle OBIEE - Trying to automate deletion of initialization blocks,1,1622,782
+79546047,Oracle automatic precheck of stored object replacement,0,1418,782

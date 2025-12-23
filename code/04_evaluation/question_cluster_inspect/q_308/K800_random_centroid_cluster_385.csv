@@ -1,0 +1,423 @@
+question_id,title,answer_count,text_length,cluster_id
+308,Is there a version control system for database structure changes?,21,3930,385
+41838,Black Box testing software,6,2092,385
+33903,Formatting Stored Procedures,2,2125,385
+47225,How would you migrate hundreds of MS Access databases to a central service?,5,3920,385
+47366,SQL Compare-Like tool for Oracle?,2,1454,385
+106323,SQLPlus settings to generate tab-separated data file,4,2374,385
+152441,Unit testing for PL/SQL,7,2095,385
+196171,Oracle 10gr2: prevent any dates that fall on a Sunday?,0,178,385
+200056,Connecting to an Oracle database on the command-line without using the Oracle client software?,4,1572,385
+208236,Does oracle allow the uncommitted read option?,4,3949,385
+230248,How to read the PL/SQL code in an Oracle Forms .FMT file?,4,3938,385
+288755,Print from a windows App - data from an Oracle DB on Linux,1,1242,385
+304716,IDE for Pl/SQL development,8,3969,385
+404581,Free SQL Query generator tool for oracle database?,1,381,385
+515532,Porting an application from Oracle 9 to Oracle 11 - gottchas?,4,3474,385
+556325,PostgreSQL management and monitoring,4,2722,385
+718239,"How can I practice my SQL Server, Sybase, and Oracle skills on a linux box?",1,855,385
+721556,Oracle 10g - optimize WHERE IS NOT NULL,6,3836,385
+756208,oracle jdbc driver version madness,1,2378,385
+825072,Informix to Oracle: Dealing with Fetching Null Values,3,3942,385
+885187,Data Logging with Oracle (or any RDBMS),1,1649,385
+922923,when will oracle discontinue the 9i database?,2,1072,385
+1006186,How to install Java class on Oracle on Solaris,2,2642,385
+1028956,MODIFY COLUMN in oracle - How to check if a column is nullable before setting to nullable?,2,3033,385
+1038991,What's a quality development environment for writing Oracle SQL?,11,3931,385
+1101390,Oracle SQL Developer: sharing configuration via Dropbox,3,3110,385
+1142889,planning for oracle takeover of sun - farewell mysql?,5,3888,385
+1190293,How to distribute a .NET Windows Forms application that talks to Oracle?,0,891,385
+1277085,version control for Oracle 10g Express,2,1166,385
+1369686,Recommendations on a sql comparison (schema & data) tool that supports both Oracle and SQL Server?,1,1293,385
+1392569,Oracle10g database/table Tuning,3,3580,385
+1474535,Best way/technology to implement a generic archive process,5,3937,385
+1482596,build oracle sql query dynamically from java application,2,3939,385
+1496680,What is the perfect toolbox for PL/SQL development?,5,3944,385
+1648825,Freeware tool for PL/SQL development,2,1671,385
+1717048,Database source control with Oracle,9,3960,385
+1758409,"SQL ""Join"" on null values",11,3970,385
+1794563,SQL Date Format,4,1635,385
+1824572,How to shrink temp tablespace in oracle?,5,3955,385
+2043098,View in Oracle to display rows from last weekday,2,1382,385
+2157595,Format Describe In SQL*Plus,2,1449,385
+2233856,Oracle Forms 6i crashes with 0xC0000005 at start after installing patch 19,2,3921,385
+2329597,Build automation for Delphi + Oracle,3,3959,385
+2343339,Java Date Hibernate cut off time,9,3920,385
+2461682,Oracle table fragmentation,1,1350,385
+2626798,Alternatives to connect to ORACLE database server without install the Oracle client,3,3174,385
+2684090,Greatest not null column,1,884,385
+2896265,Oracle thin driver vs. OCI driver. Pros and Cons?,2,1627,385
+2958131,Where can I download Oracle 9i Personal Edition for Linux (or Windows 7),2,677,385
+2963092,How to modernize an enormous legacy database?,10,3950,385
+3086083,PL/SQL base conversion without functions,4,3367,385
+3131784,Oracle select query performance,2,2152,385
+3133908,select * math operations,2,983,385
+3222531,Good Oracle database development and management tool on Windows,4,2026,385
+3468301,comparing current day of Date type with Varchar day column in Oracle,2,1376,385
+3496948,Is there a free GUI management tool for Oracle Database Express?,8,2698,385
+3507008,Advanced tutorial on analytic functions in Oracle/SQLServer,2,2336,385
+3633238,How to use Oracle 11g client?,1,639,385
+3673698,Oracle with Clients: I must install oracle for client?,3,1548,385
+3836413,Retrieving Weekend Data Rows Only in Oracle,3,1064,385
+4054449,Worth the overhead to use a temporary table for copying a row?,6,3933,385
+4110943,How do I calulate week of year in Oracle using a non-standard first day of the week?,1,1672,385
+4142790,Oracle PL/SQL performance tuning crash course,4,3950,385
+4161214,Version of Oracle thin driver to use with Java 6,2,1210,385
+4340214,"Oracle: Adding, renaming, and dropping columns on live database",4,2371,385
+4451735,How to Get non nullable Columns of a Table using java?,2,863,385
+4537660,Mail Merge over the Internet,2,1686,385
+4621352,Web interface programming environment to replace old Delphi based system,4,3923,385
+4621068,Which 3rd party Oracle Database JDBC driver?,1,2745,385
+4624219,Difference between COMPILE and COMPILE WITH DEBUG within Oracle Sql Dev?,0,471,385
+4625931,Java oci db connection failover with Oracle 9,0,1481,385
+4649994,"Distributed app, password hash",2,1860,385
+4654710,Oracle : receiving ORA-06550 and PLS-00905,2,2506,385
+4690529,"Best Gui editors used in linux for the handeling database(oracle,mysql)?",2,690,385
+4967808,Number of fridays between two dates,7,3599,385
+5211164,Workflow Foundation 4 Instance Store for Oracle,4,1305,385
+5225953,Performance Implications of Using Oracle DBMS_WM.EnableVersioning,1,2493,385
+5347846,Can any DBMS send/receive huge matrices?,3,3173,385
+5413457,Create table statement for a very large table in oracle,1,3115,385
+5515514,How to get first and last day of week in Oracle?,15,3947,385
+5555704,How to Integrate Oracle9i with JAVA or JSP?,1,1455,385
+5557155,"With ojdbc6 getMetaData() on resultset spikes in number of sql's executed, dont see this with ojdbc5",1,1765,385
+5825497,What JUnit-style frameworks are available for unit testing PL/SQL in Oracle?,2,1980,385
+5979261,Oracle equivalent to SQL Server DATEPART,5,1223,385
+6279011,How do I compile Oracle SQL scripts?,1,1536,385
+6282784,Oracle debugging technique for row difference,1,752,385
+6383762,Which Oracle SQL query optimization tool to use?,2,1498,385
+6687454,Was daylight savings time handling broken in Oracle JDBC driver version 11.2.0.2.0?,2,2595,385
+6734144,How to set the column width of the desc result in sqlplus?,2,908,385
+6810923,Oracle SQL - How do i output data from a table based on the day of the week from a hiredate column?,2,2522,385
+6812885,What is the Best Oracle Driver (THIN) for Oracle 11G,1,854,385
+6829567,pl sql how to get the day of the week for oracle db date,1,768,385
+6965389,Oracle form builder linux,1,1477,385
+7203029,How to prevent (or limit) Oracle Reports Builder 10g crashing,1,2192,385
+7225743,C++ Access Oracle in Linux,1,649,385
+7601114,Oracle to_char bug,1,2057,385
+7674455,Simplified/automated datafile free disk space reclaim,0,1063,385
+7751843,Formatting output of queries in SQLPlus,2,1170,385
+7977569,Which database is the most space efficient,2,2152,385
+8004645,How to get the week day name from a date?,2,1327,385
+8010125,"Oracle function to_char(date, ""IW"") in .net",0,387,385
+8315977,Setup/tear down Oracle schema for CI build without fragmenting catalog,2,2867,385
+8371893,Oracle PL/SQL stored procedure compiler vs PostgreSQL PGSQL stored procedure compiler,3,3910,385
+8800576,SQLJ in Netbeans,1,1281,385
+8892683,Calculating working days including holidays between dates without a calendar table in oracle SQL,2,3899,385
+9068141,How to get week-wise data in Oracle,2,1691,385
+9071131,Recommended ODBC-JDBC bridge driver for Oracle,2,1316,385
+9109947,Basics of Oracle JDE Development,1,1880,385
+9354346,Decode function in oracle database,2,1750,385
+9444521,PostgreSQL materialized views,2,1354,385
+9467106,Collapsible region for PL/SQL Developer,2,1243,385
+9477052,Migrating Pro*COBOL and Pro*C to Java: Is JDBC the way to go?,1,805,385
+9507068,Alternatives to Oracle partitioning,2,2458,385
+9526670,how to check for not null column constraint in oracle sql?,1,982,385
+9568787,SQL: Get records created in time range for specific dates,3,2828,385
+9670547,how can i improve the performance of this oracle sql delete query?,3,1830,385
+9786934,Validating a given date if it falls on a weekend,1,1570,385
+9830931,Oracle PL/SQL: choosing the update/merge column dynamically,2,2689,385
+9918714,How to Generate PostgreSql queries from Oracle DB Backup File,1,198,385
+10010380,OpenSource Tool for Schema compare and upgrade Scripts,1,1079,385
+10541844,Free or trial Oracle database environment,0,434,385
+10566779,IPC between Linux and Windows processes,1,2395,385
+10592309,Sparse Columns in Oracle,1,1387,385
+10654436,Does SQL Developer have enough features to support daily DBA jobs?,2,1928,385
+11004577,Oracle to SQL Server: Date Conversion & Format,1,3026,385
+11053956,Converting a select statement to a delete,1,1186,385
+11215542,How do I handle nulls in NOT IN and NOT LIKE statements in Oracle?,1,1108,385
+11261859,Create Oracle partitioning table without PK,2,2360,385
+11440921,Use latest rate if no date is available,1,1629,385
+11741467,Oracle - select * where column>5,2,1537,385
+12373796,How do I check index building status on Oracle 11?,1,2645,385
+12436626,How to Store Oracle database and convert it to msaccess/excel,2,3934,385
+12691505,integrate data between oracle and sql server,3,1455,385
+12751752,Toad for Oracle 10.6 versus 11.5: Performance Problems while editing large Packages,2,1748,385
+12840011,How to get the rows that is in the same week?,1,806,385
+13463793,Oracle db client,1,2768,385
+13662451,Sort by day of the week from Monday to Sunday,16,3950,385
+13706558,Get First Day Of Week From Week Number,5,2598,385
+14108022,to_date function with sysdate,1,1189,385
+14517761,"Using Oracle SQL, how does one output day number of week and day of week?",6,3922,385
+14528967,Microsoft Access support for checkbox column against linked Oracle table,1,3503,385
+15769476,how to create oracle DSN?,1,2413,385
+15886491,SQL: Output default string for NULL column,1,1043,385
+16096631,Make a Name Sequence,1,1514,385
+16217728,How can I reduce the width of column in Oracle (SQL Plus) with TIMESTAMP datatype?,3,3913,385
+16289302,"In oracle SQL, how would you obtain the timestamp representing the start of the week?",4,1465,385
+16441957,"Oracle View based on ""Offsets"" of a Table Column",1,3144,385
+16773295,Oracle create index not in temp tablespace,1,2033,385
+16818691,Oracle get day name returns wrong name,3,3194,385
+17738878,"Date of Monday of a given week, independent of NLS",1,473,385
+17978782,Deletes Slow on a Oracle BIG Table,1,3961,385
+18019234,Changes needed in Java Application to support Oracle RAC Fail-Over: FCF/TAF,0,982,385
+18233744,SSIS new line delimited columns with set number of fields,2,1560,385
+18629671,Experience with Oracle Workspace Manager,0,726,385
+18661262,How to extract week number as week format in Oracle?,0,675,385
+18801510,Weeks in month adjustment in oracle sql,1,1047,385
+18922223,How to get backup from from a very populated table using SQLDEVELOPER,1,2234,385
+19027946,How could i get the date by the day of week in oracle 11g PL/SQL,3,2818,385
+19100682,Is it possible to compile Oracle Pro*C without a database (skip semantic check)?,0,2297,385
+19437160,"How can I get early access to Oracle Java updates, so I can test my RIA and avoid fire-drills when these updates are made public?",4,3866,385
+19579559,node_oracle on windows server,1,2054,385
+19977527,inefficient SQL plan on the partitioned Table,1,3950,385
+19993903,using SQL and PL/SQL i'm trying to find the sixth day from today,3,1172,385
+20060856,Using Oracle Developer Tools with Source Control for Visual Studio,3,2649,385
+20502642,WHERE 5 business days,1,1750,385
+20531958,VB.NET OLEDBDataReader - Null value in resultset (DATETIME),0,2164,385
+20579236,How to change the day that Oracle TRUNC uses to start the week,4,3933,385
+20635611,Redirect the Oracle query output to a file without using spool,1,906,385
+20773423,Cross-platform Extract of Large Volume of data from databases to file,1,2665,385
+21048327,Oracle instant client status,2,3743,385
+21400970,How to avoid ODAC licensing for compilation of code in c#.net Projects,1,1955,385
+21765530,weekly calender table in oracle to update alternative week flag & date,2,2269,385
+21829539,Select Top (Max) Amount From Two Of Four Fields (Columns),2,2368,385
+21987465,Function to truncate table on weekdays,2,2671,385
+22501646,How to convert number of day to timestamp in informix,1,819,385
+22527479,What is the equivalent of hive query for the below sql,1,943,385
+22836650,Safely converting a function into a procedure in SQL Server,2,3936,385
+22919176,Oracle Grid Installation - Missing Packages compat-libcap1-1.10 and others,0,713,385
+23422037,Dirty read in Oracle - how to read uncommitted record,0,1246,385
+23645355,Hung queries on Oracle 9i over JDBC,1,2119,385
+23834494,Show number of weeks in a given month,3,3569,385
+23992492,Oracle SQL Developer's result grid loading on demand,2,3943,385
+24486453,Skipping sunday in oracle days difference,1,858,385
+24628819,GUI tools in any framework and on any platform that enable quick creation of front-ends to manage Oracle DB table data,2,1729,385
+24903483,how to create dynamic table in oracle with dynamic column name and dynamic data type with out any views or any other table type,1,3868,385
+25040344,I'm looking for a data extraction tool for db2,1,2258,385
+25223638,Oracle 12c to 11g,0,3978,385
+25258245,Delphi ADO - how to set default dataset column type without designer,1,3927,385
+25289158,OJDBC driver uses client locale settings - bug/feature?,1,3032,385
+26076124,Is it possible to install Java compiler in a database?,1,1279,385
+26276478,How to get begin date if I know year and week number via Oracle SQL?,1,1772,385
+26657219,Oracle - Group calls closed by week per analyst SQL,0,3249,385
+27269836,Simplest way to connect to Oracle,2,1324,385
+27420423,Oracle generates lots of .dbf files,2,3960,385
+27489869,How to exclude weekend days - Oracle count SQL,1,1075,385
+28039135,oracle function to calculate week of date by considering Sunday to Saturday as a week,1,1549,385
+28153028,"How to ""check in"" changes on both database and code by just one tag using ODT?",3,3917,385
+28373716,Calculate the week ending date in oracle using Saturday as the week end date,0,396,385
+28618414,Is there a free Oracle database emulator?,2,1645,385
+28699481,Update Query Efficiency,1,3124,385
+28807970,Is it possible to give aliases to columns with a Select *?,1,2570,385
+29147160,Simple delete query. What is the best index?,1,3951,385
+29655477,hash function to generate hash value with only 5 digits in java,3,3058,385
+29920257,Sync oracle database to a kind of local database,1,2262,385
+30173068,What are the uses of JDK inside the oracle database client installed location?,1,1430,385
+30261026,Oracle snapshot too old and DBLINK,1,1116,385
+30700607,Run a query based on weekends in oracle,2,2034,385
+30725883,How to compare multiple columns under same row in a table?,2,1801,385
+30731647,windows form application to work with Oracle without installing Oracle client,3,1700,385
+30977456,Best way to generate a .xlsm file from Oracle?,1,2067,385
+31007422,ORA-12996: cannot drop system-generated virtual column,2,635,385
+31269399,Automate mail merge without VB?,1,1870,385
+31334947,"Java, use array instead of SQL SELECT",2,3958,385
+31961433,Oracle pro*c way to query DB for difference of array values and DB column values,1,1260,385
+32338546,Better Memory (Heap) management on Solaris 10,2,3951,385
+32432501,How to Version control and Configuration Management in Oracle APEX 4.2,1,1233,385
+32584375,Oracle SQL query - get data from last week (Monday-Saturday),1,1009,385
+33151720,SQL Total of addresses with null values in selected fields,1,885,385
+33339633,How to write a loop statement in Oracle SQL,2,3952,385
+33363871,Why is Tuesday sometimes Sunday?,3,3963,385
+33398726,Performance monitoring on a Oracle DB,1,1136,385
+33494856,Eclipse Mars.1 hangs when creating a new Oracle ADF application,1,964,385
+33647563,SQL get the specific row and column with NULL value,2,1054,385
+33685431,Oracle .DBF Files. How to Open and Run Select Statements?,1,3938,385
+33868770,How to format date column to get the day name in Oracle SQL?,2,1607,385
+34021737,How to get all not null columns in a table,1,706,385
+34546025,What are the differences between ODBC and ADO.NET,2,3946,385
+35048729,DB2 to Oracle Conversion For Basic Date Time Column Between Clause,3,3321,385
+35095228,Is Oracle Database Standard Edition Free?,1,2742,385
+35270916,how to convert long raw data type to readable format(oracle version :11.2.0.3.0) in oracle?,2,993,385
+35310265,EF6 Oracle TimeStamp & Date,1,1905,385
+35507701,Integrating a subselect in a select in Oracle,2,3950,385
+35719053,How can i check if the table in oracle has garbage value in its some column/row?,0,690,385
+35774180,Oracle APEX editable calendar,1,2249,385
+35790937,Oracle Github Integration Automation,1,648,385
+36247417,Oracle : can i specify * or any other option in WHERE clause to select whatever value it has?,1,1743,385
+36355990,Oracle Sql finding duplicates and selecting column value to pivot on this row,0,969,385
+36745700,SQL | Select (...) where 2 columns combined equal (xy),4,3941,385
+37166581,What is the equivalent of a heap dump in Oracle,2,3061,385
+37322939,Oracle Week Number from a Date,1,2594,385
+37332984,Using DECODE to compare multiple columns and return single value,1,3931,385
+37619509,How to configure DSN with oracle 10g in MS Windows 8.1 64-bit,1,707,385
+37747208,Temp tablespace runs out of space and prompts ORA-01652 when a select is executed,1,3394,385
+37795975,java.time.LocalDate.getDayOfWeek() to java.util.Calendar.get(DAY_OF_WEEK),1,858,385
+37967507,Oracle sql populate null values from same table,1,1749,385
+38200448,jdbc type1 program error,0,1628,385
+38556379,How to construct a date knowing the Day of the week in Oracle,0,410,385
+39380684,Oracle temp tables: breaking a large query into steps,1,3195,385
+39537803,Oracle: calculate day fraction of DATE type column,1,807,385
+39910021,Oracle alter index to allow index on null values,1,2863,385
+40037121,UN wrapping the the wrapped stored procedure oracle,0,1398,385
+40078940,How to get last 90 days monday to sunday date?,1,974,385
+40194013,"Numerical Optimization of PL/SQL, or alternatives",2,3946,385
+40230512,sqlplus out of process memory when trying to allocate X amount of memory,2,3026,385
+40759485,Oracle database manual table partitioning,1,1891,385
+41078459,Oracle SQL - multiple column constrainst on single constrainst statement,2,2056,385
+41198807,query optimization for max function in oracle,1,882,385
+41583742,JDBC thin driver,1,888,385
+41719365,Rounding to first digit +1 in oracle,3,1997,385
+41862306,Does anyone know of an agnostic .NET SQL json parser driver?,1,3120,385
+42216043,How to non-specifically filter columns for NULL values?,1,1387,385
+42861514,Oracle SQL - Data from previous week (Sunday to Saturday) regardless of when it's run,2,3910,385
+43411529,what is tool like mycli or pgcli on oracle database?,2,1118,385
+43628300,Data Virtualization and provisioning tools such as Delphix,1,1712,385
+43777674,SQL delete rows not in another table,3,3959,385
+43870329,What is the MySQL alternative to Oracle's NEXT_DAY function?,5,3935,385
+43942191,Comparison between day of week in oracle,2,3440,385
+43994212,Solaris 11 development environment on Cloud or hosting,1,3851,385
+44035424,how to get full time-stamp value from oracle,1,821,385
+44203389,Oracle: Days between two date and Exclude weekdays how to handle negative numbers,2,2497,385
+44205900,Compiling OCCI under Windows,0,1099,385
+44393117,Adhoc record comparison oracle,1,801,385
+44455476,How to avoid to_char() cast in concatenation oracle?,2,1348,385
+44799505,Is there a way to handle DB response in JPA repository level,1,1975,385
+44948905,VBA to SQL Date Comparison,0,1173,385
+45235604,Oracle Forms and Reports 6i on Linux,0,2144,385
+45478150,What are the best ways to implement a dynamic matrix report using APEX?,3,3924,385
+45559265,Oracle PL SQL command-line utility,1,1063,385
+45965695,UPDATE TABLE T1 SET COLUMN= SELECT 0 FROM TABLE T1,1,3945,385
+45977169,Run a select based on an if condition,2,1164,385
+46341228,Any Polyfills / Shim for Oracle functions to be used in postgresql,1,2128,385
+46441291,How to convert week number to date range in Oracle?,5,3944,385
+47175980,Not able to create DSN for oracle 12c in windows 10,0,1424,385
+47941856,How to declare null column in SQL oracle in Select statement,1,783,385
+48092940,Need Luhn Modulus 16 coding example to generate a check digit in PL/SQL,2,3924,385
+48795965,Proper Oracle ODBC Driver Installation on 32 bit Windows 7,2,3850,385
+49025844,How does oracle sql's to_date and iw work internally,0,915,385
+49534043,How to set all column from null to not null in table in oracle,3,2579,385
+49668224,Concatenating Strings whilst catering for nulls,1,1527,385
+49707713,Oracle reports generator,1,774,385
+49870107,Retrieve Selected Column from the oracle query,1,3803,385
+50164312,SQLLDR format single digit month and date,1,969,385
+50223444,Oracle query using like clause with current day of the week for a record,3,2985,385
+50364629,Oracle sql Get users with value in MONDAY field IF TODAY is MONDAY,4,3929,385
+50717661,Oracle ODBC Driver For Windows,2,2261,385
+50863053,Filtering by day of the week,2,2839,385
+51150364,Oracle OleDB and LONG Datatype,0,1724,385
+51317722,How to find number of Sundays in a given year (ex: input_year = 1996) and also the dates of those Sundays,1,2300,385
+51369358,How to change date fields to first day of the week - oracle,2,2053,385
+51533030,Merge with dual not working in 12c,1,735,385
+52122698,"Can one SELECT retrieve an arbitrary number of columns, then union a single-column followed by nulls",1,3533,385
+52134066,Oracle 11g Replace Physical Columns with Virtual Columns,1,1830,385
+52242292,Truncate partitions older than 2 months,1,3956,385
+52391488,How to improve performance of SQL in Oracle that loads only Items modified during last 5 days?,0,1267,385
+52424678,SQL - get only colums from a table where not all values are nulls,2,3521,385
+52614506,How to effectively know the amount of free space remaining in an relational (SQL) server?,0,2855,385
+52615070,Oracle SQL convenient way to use Git version control,0,1538,385
+52624767,Oracle SQL Developer is crashing immediately after start,3,2468,385
+53164524,Oracle DBMS_LOB.WRITEAPPEND to Postgres Conversion,1,1786,385
+53559755,How to use Oracle SQL to create a calendar,2,3953,385
+53901273,Sqoop import of wide table,1,721,385
+54397002,SMO alternative for Oracle,0,240,385
+54455255,Is there an Oracle function to return boolean if either one of the two value is not null?,2,1186,385
+55093915,Identifying the Weekday for an Order Date in PL/SQL as stored function,1,3925,385
+55157427,Oracle : Query to get the Last Friday of the week if I give any date,4,1393,385
+55183682,decode the day and compare with a column,1,3955,385
+55333099,"How could I get the date of the week, month or year starting from the first day up to the current day of the current week, month or year?",1,1351,385
+56175689,How to eliminate duplicates in the result of a select with Inner-Join?,1,3524,385
+56217319,Retrieve the day name from the day of the week number in oracle,2,1401,385
+56342997,"Oracle - How to get date from YEAR, WEEKNUM and WEEKDAY?",3,3939,385
+56401369,Oracle.ManagedDataAccess nuget package performance,0,867,385
+56452567,How emulate PDO::getColumnData() using Oracle?,1,1456,385
+56671621,"Apex Upgrade 5.1 - 19.1, what is likely to break?",1,1788,385
+56689780,Resetting a date value if it falls on weekend,1,3950,385
+57027812,Hashed password conversion in postgres,1,689,385
+57413909,How to compile Pro*C with PostgreSQL?,0,202,385
+57499124,How to identify Weekdays in Oracle?,1,2130,385
+57789704,Python Oracle DB Connect without Oracle Client,3,3789,385
+57868513,How to set V$SESSION.PROGRAM via OCI?,1,1091,385
+57873955,Creating a table from two given lists,1,3348,385
+57995972,"I want to extract the week based on sysdate in Oracle SQL, what function do i use",1,1044,385
+58019105,opensource tool for Oracle Change data capture - Alternative to GoldenGate,1,1321,385
+58072006,Creating database snapshots in Oracle 12,0,1744,385
+58736218,How do I transfer huge amount of data(nearly 10TB) from Oracle DB to Snowflake in hours,3,2698,385
+58748054,May I install Grid and Oracle DB on one (local) machine (Windows 10)?,1,1807,385
+58808616,How to get the date of the first and last day of a week,1,408,385
+58941492,Oracle Apex free workspace,3,3819,385
+59146017,Creating multiple tables with identical columns in Oracle,1,1229,385
+59530047,Performance issue on 19c,2,2119,385
+59610031,Exempting sunday from oracle sql script,3,1457,385
+59640006,Oracle Apex maximum record in a table,2,3441,385
+59659852,SQL query for output,1,807,385
+59721968,How to generate a single MD5 hash out of a complete given table,0,1623,385
+59874644,Is it possible to construct a date out of the calendar week plus year in oracle?,1,1264,385
+60044403,How to work with Windows Task Scheduler to get last run date using Java,0,1323,385
+60229135,Oracle 19c compatibility with jdk7,2,3961,385
+60274990,Calculate manual week number of year in Oracle SQL,1,1389,385
+60922379,how to programatically simulate a oracle server shutdown,1,1349,385
+60956843,How to get the selected rows(and their values) from a Tabular Form with javascript in Oracle Apex 5,0,2897,385
+61060395,Trying to install oracle database on docker image. Pc freezes,0,288,385
+61492601,Oracle -Assign Monday to Sunday week for the week number for calendar date,0,1182,385
+61502454,First Monday of last month,2,1340,385
+62043860,How to print all Mondays in a month of may-2020,3,2603,385
+62066026,Oracle SQL - How to merge multiple columns into new one,3,3982,385
+62277580,sql Date function for the first Monday,2,1033,385
+62540248,Oracle SQL Developer dynamic date table name,0,389,385
+62567145,Oracle ODBC 19c driver issues (works in 11g/12c),2,2393,385
+62594708,DBA practice on cloud,0,1354,385
+63300830,Oracle Application Express - Build SQL command workshop,1,3940,385
+63381505,Oracle 19c connecting to ColdFusion 2018,2,3955,385
+63791076,Convert week of the year to date in oracle sql,2,2137,385
+63795284,GC Overhead limit exceeded because of a huge hibernate persist,0,1465,385
+63961100,Oracle conversion from SQL Server - WeekRange Based on Date,1,749,385
+64027813,Oracle next_day function equivalent in JAVA,3,3952,385
+64257869,JPA/SQL to get one week data,0,753,385
+64259272,Support for CHECKSUM in Oracle 11g,0,1358,385
+64343180,Create Custom Week Of Field SQL -- Oracle 12c,0,1071,385
+65148761,Calculate MySQL's WEEK Function with mode argument In Oracle,1,715,385
+65287549,.NET Framework compatibilty with Oracle version,0,326,385
+65430207,How to create a local copy of Oracle data to avoid query over a slow link,1,2560,385
+65587440,Oracle SQL Fast Retrieval of a Negative condition,1,1332,385
+65915895,Get day name in oracle query,3,2285,385
+66111377,How can I get data of the current week in Oracle,0,274,385
+66254806,If Sunday then show Week rest else present in oracle reports,1,955,385
+66484774,How do you compile the occi demo on ubuntu?,3,3030,385
+66819752,How to optimize too slow SQL query,1,3961,385
+66947519,Oracle SQL: exclude weekend while comparing results from previous day,2,2374,385
+66999802,"How to convert how to convert "" Tuesday April 27, 2021"" date in format like '2021-04-27T00:00:00' in apex?",0,292,385
+67128591,Oracle - View source of builtin package,1,1174,385
+67341902,"Merge Query in oracle throws ""ORA-01652: unable to extend temp segment by 64 in tablespace TEMP""",1,2297,385
+67415052,Optimize Merge query inside n^2 loop,1,1385,385
+67657532,Not able to install oracle 19c on windows 10 machine,0,556,385
+68067302,Restrict creation of table on sunday in oracle,2,2714,385
+68213014,Oracle SQL get First Business Day date of given date,2,2955,385
+68635180,Get NULL value percentage for multiple columns,1,1677,385
+68820421,I am using Oracle SQL Developer and want to extract the days of the week from timestamps. Am I on the right track with the syntax?,0,647,385
+68844919,Oracle Managed driver and OracleAQQueue .NET,1,665,385
+69028846,How to select date from timestamp column in Oracle SQL Developer?,0,827,385
+69176467,"Is there any way to perform md5 hashing in oracle sql developer on every field of an column, and store the result hash in corresponding column(md5)",0,694,385
+69871746,Display of SQL*Plus query results is a bit wierd,0,924,385
+70043550,"Will java return null value if my java object is storing output as SELECT NVL(COLUMN,0) from",0,579,385
+70771084,Oracle APEX - Interactive Grid - Sorting Select List column on return value,2,2291,385
+71419870,Oracle EXAData 19c - Shared pool memory utilization is not going down even no process are running,1,1967,385
+71476870,Find Good Friday via Oracle stored procedure function,2,3448,385
+71519964,How to extract an Avro file from Oracle database?,0,870,385
+71778523,How to find the day name?,1,1572,385
+71807489,Get Current Week/Month Dates,1,2504,385
+71880560,ORACLE SQL Get Daily Data look like calendar,0,2291,385
+71914325,JPA virtual partitioning in Oracle,1,2719,385
+72171619,dump oracle table (non-partitioned VS partitioned) in flat file performance question,1,3911,385
+72298418,Is In-Memory a extra-cost option? (Oracle),1,3493,385
+73025513,RETURN 1-7 iso day NUMBER of week in a function,1,2874,385
+73579109,Oracle SQL Spool Result file add spaces in columns,1,1963,385
+73702916,PL/SQL get the real number of weeks in a year in next 6 months,2,3933,385
+74389753,Export big data from ORACLE DB to bcp file,0,1586,385
+74742520,Week start from Sunday while calculating weekday,4,3138,385
+74877896,Extract a single line from Multi line text data from a column in Oracle,1,977,385
+75614154,how check the given date day in oracle,1,2521,385
+76178284,Oracle Extract the Day Name of the Week,2,2730,385
+76393631,Oracle index performance options,1,1832,385
+76964184,Oracle JDBC 10 Driver + UCP for JDK 17 and Oracle 19c Possible for Project?,1,1672,385
+77042553,Oracle: partition a table with more than 1B records,0,2617,385
+77257039,Go alternative to JDBC batch inserts on Oracle,1,2477,385
+77562319,What is the recommended oracle 19.16 ojdbc version,0,192,385
+77611299,"While running SQL commands through shell script, Column headers are getting trimmed",1,1706,385
+77756916,oracle 19c failed to SQLAllocEnv and segment fault,0,3626,385
+78016801,Installing apex 19.1,0,1273,385
+78070320,Find the previous Monday's date in Oracle,2,1860,385
+78309770,How to modify query converting DATEDIFF to Oracle accepted syntax?,1,2697,385
+78332874,How do I delete a columns from a large Oracle database?,3,3940,385
+78508038,Compress selective rows in Oracle (19c),1,3956,385
+79294751,Oracle Apex: Datepicker returning week number,1,2536,385

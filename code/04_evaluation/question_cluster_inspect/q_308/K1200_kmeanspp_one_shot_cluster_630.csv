@@ -1,0 +1,172 @@
+question_id,title,answer_count,text_length,cluster_id
+308,Is there a version control system for database structure changes?,21,3930,630
+3798,Full complete MySQL database replication? Ideas? What do people do?,2,2112,630
+166836,Separating Demo data in Live system,2,2108,630
+729616,Oracle DataGuard,2,1476,630
+758442,Setting up a diverse database testing environment,4,3946,630
+947835,iPhone: Connecting to database over Internet?,2,2961,630
+1244455,Where\How to store distributed configuration data,2,3946,630
+1414250,How to synchronize remote database with local database in JAVA,5,3644,630
+1420688,How do I synchronize two Oracle Databases?,3,3469,630
+1465879,What is the difference between Cassandra vs Oracle Coherence?,3,2363,630
+1635849,replicating data between sites in a j2ee app,1,3193,630
+1733273,Supporting both Oracle and MySQL: how similar is their SQL syntax?,5,3929,630
+1752700,Sybase sql anywhere sync a Database view(pull from consolidated to remote)?,1,2494,630
+2210835,How to update a database remotely?,2,1385,630
+2360913,An Application interfaced with mobile,2,1853,630
+2506671,How can I replicate an Oracle 11g database(data+structure) on my local machine for development?,3,2374,630
+2654774,Oracle Replication/Synchronization Across 3 Instances,1,1440,630
+2677502,How do you execute Data Synchronizations between EPMA applications programmatically?,0,648,630
+2683710,Oracle XE as local recovery database and Oracle Standard as main db,3,3928,630
+2826246,Oracle Data Guard - What are the changes to make on standby database which is a mirror copy of the primary database,1,1115,630
+2887585,How to sync developer database with central database?,2,506,630
+3038426,"If don't own proprietary database engine, what is best way to convert database to mysql?",3,3055,630
+3078321,Database responsibility,2,3972,630
+3150156,Distributed db's or not?,4,3971,630
+3283691,Can anyone clear up some concerns about replication differences between Oracle and MS SQL Server?,1,1619,630
+3473900,The best database for a C++ and java applications,4,3273,630
+3565993,Disadvantages of consolidating databases?,3,3544,630
+3644094,Oracle data synchronization in live environment,1,1917,630
+4000176,How to share data across an organization,3,3955,630
+4055864,Pick another RDBMS,1,2161,630
+4537660,Mail Merge over the Internet,2,1686,630
+4621101,What are the tools available for data replication on oracle and/or db2?,2,290,630
+4628796,Implement the Business Services in PL/SQL or Java? Favor/Cons?,2,3196,630
+4958429,One User database servicing multiple application databases,3,2785,630
+5310344,Move data from Oracle to Cassandra and/or MongoDB,2,2011,630
+5320475,Oracle database mirroring,1,1378,630
+5928703,Oracle 10g and RSS feeds,1,1433,630
+6162946,Distributed database synchronization,1,1024,630
+6305413,Alternative to Microsoft Sync Framework 4.0,1,1011,630
+6517975,Data Synchronization from Relational Database to Couch DB,1,3990,630
+6611969,How to Deploy Database Changes to a Live Server?,2,2358,630
+6937802,Settings in Oracle client and Server,1,2197,630
+7938539,State of the art selfhealing and selfprotection in DBMS,1,474,630
+7977752,Licensing with 2 SQL Server databases,1,1394,630
+8521998,Legacy Oracle RDB needs a Web Application Front End for CRUD,1,1179,630
+8658617,Sync Framework: Oracle/SQLServer,3,1507,630
+9083487,Converting Oracle or Sql Server DDL to Derby,2,1669,630
+9913091,Oracle DB (Intranet) ->(DMZ) Data Replication through a unidirectional Firewall,1,3916,630
+9972889,To CouchDB or not to?,2,3974,630
+10511442,Oracle database mobile server vs Couchdb,1,1455,630
+12319251,How can I sync two equivalent tables in different DBs using Hibernate ?,1,1118,630
+13003613,NewSQL a drop a replacement?,1,2134,630
+14046636,A way to deploy plsql to Oracle in Java project with Maven build tool,4,3066,630
+14948824,"Couchdb/Mongodb Application/Logic layer, like Oracle DB",1,3940,630
+15391571,Oracle: Should I use replication?,0,2043,630
+16448192,Running new rails app *and* legacy app on top of the same database,1,3329,630
+17963078,Synchronize multiple weblogic database access,1,1796,630
+18578949,How to export the whole application in one workspace and import it to other in APEX?,1,879,630
+18894233,Oracle Advanced Replication - Remote Packages Under Permanent Access,0,422,630
+18898240,Java applications on Oracle Exadata,4,3960,630
+19805152,Oracle to mysql database mirroring,1,797,630
+20314768,Data synchronization between oracle data servers,1,874,630
+20466401,Use case for MongoDB profit,1,3968,630
+21416242,ODI to feed RavenDB Database,1,508,630
+21789161,android database to oracle database,1,1266,630
+21839047,Preventing duplicate jobs in Oracle,1,3508,630
+22802474,2 way replication on tables with trigger in oracle database,2,1197,630
+23143680,Master-master replication and Master-snapshot replication,0,327,630
+23422215,"Is it possible to make, Google Spread Sheet as a database, replacement to oracle/mySql/Sql?",1,1087,630
+24024150,Oracle database - copying objects to remote database and modifying so they use the remote database only if the local database is offline,1,3575,630
+25132921,Oracle PL/SQL : Replicating Database objects,1,2223,630
+25819202,data synchronization among multiple devices,1,1276,630
+26376013,Sybase ASE to Oracle Database replication,0,2007,630
+26472031,Oracle DMS sample using Android & SQLite?,1,1470,630
+26528193,How to save data of a small prog?,0,589,630
+26644870,Synchronize two Oracle databases,1,905,630
+27036438,How to ensure transaction management when updating two database,0,606,630
+27509427,Documentum multiple repositories in single database,1,1529,630
+27772955,Oracle database real-time backup + auto switchover,1,3721,630
+28151103,Oracle database syncing hardware solution?,1,699,630
+28334471,Oracle to Neo4j Sync,0,181,630
+28398090,Keeping many databases in sync all the time,1,3952,630
+29099936,Centrale and local Data base management,1,3149,630
+29374510,Oracle database as a single synchronization point for two separate web applications,1,1792,630
+30188565,Write a database change to another database via JMS,1,2004,630
+31002631,Get all LCR for table,0,423,630
+31053786,Web Application using hybrid between MySQL and Oracle,1,2103,630
+32274793,Issue with Database Synchrozation,1,1980,630
+32778214,How to convert Rich web application to Mobile ( Oracle Jdeveloper)?,2,1688,630
+32887158,How to manage test data fixtures for acceptance testing in large projects?,2,1968,630
+33162815,"Golden Gate replication from primary to secondary database, WARNING OGG-01154 Oracle GoldenGate Delivery for Oracle, rgg1ab.prm: SQL error 1403",2,1857,630
+33470565,How to sync ongoing data from MariaDB 10+ to Oracle 12c?,1,824,630
+33635028,How to improve diagnostic table,1,1941,630
+34796590,Using linux mirror to host 3rd party RPMs,1,1431,630
+35141967,Oracle database - offline,1,2214,630
+35786775,"ACFS replication file type support | SAS, .sas,.csv files",2,514,630
+36595827,How to implement synchronization b/w two database tables?,1,1096,630
+36645044,How to get rid of database dependency of an already developed application having Oracle native queries?,1,2404,630
+36798533,Transparent Database Cache,0,1164,630
+37042743,Oracle GoldenGate vs VMWare Continuent Tungsten,2,1797,630
+37281392,Asynchronous Inserts & UpdatesAsynchronous Inserts & Updates : NoSql and SQL,1,870,630
+37705399,logging debugs in cloud servers/ Integrating Java Logging with any cloud server,1,629,630
+37775153,"Difference between (Mysql,Sql server,Oracle etc..) and Hadoop Big Data Analytics?",1,928,630
+37819192,"Flashback, backup, checkpoint, redo logs",1,1291,630
+38632270,Replication advice Oracle 11g,1,1528,630
+38676910,Developer copy of Oracle DB,1,2533,630
+38691636,Store data from local db to Oracle MCS,1,3957,630
+40298146,Procedure to safely Stop and Restart Oracle Golden Gate Replication during Linux DR database server reboot,1,1952,630
+40529624,Copy new records from one database to another,2,3560,630
+41684563,Can I use Data Guard to sync only data (not DB structure) between a primary and a staging schema,1,2660,630
+41887779,GoldenGate version 12 installation/upgradation on zOS,2,2513,630
+42156361,Oracle -> Postgresql Log-Based replication,2,2193,630
+42310416,How to get Oracle Coherence Clusters synchronized?,1,859,630
+42895113,Syncrhonizing data between 2 systems through SQL query - bad or good practice?,1,1628,630
+43142625,How to do real-time synchronization,0,468,630
+43918111,Discuss the main issues governing concurrency control in a large distributed database environment,0,406,630
+44717358,OBIEE 12.2.1.2 - Restore RPD from an earlier saved copy of the RPD,1,1055,630
+44847341,Should I abstract technical details from Kafka ETL?,1,2565,630
+45181502,How to download and save server database to client (iOS app) for further operation?,0,1727,630
+45401955,Data Reconciliation after migration from oracle to MongoDB,0,1622,630
+45972305,Oracle Application Express - Backups,4,3147,630
+46335209,SAP Replication Server (from ASE to ASE to Oracle),1,1815,630
+46465626,xdb replication from Oracle to EDB - table structural change,1,1041,630
+46489282,How to switch from Oracle DB to Mongodb?,0,1581,630
+46814577,Tarantool's replication from Oracle,1,559,630
+47075201,configured oracle goldengate DML replication both are oracle database,1,1150,630
+47537159,OracleGGCreateNextBatch table in different location?,1,1721,630
+47642063,What's the term for linking two or more databases to one big database?,1,1533,630
+48263564,How to Synchronize two tables both way between two different database servers?,1,2284,630
+48379993,Multiple Oracle 12C Database Installation - Same Server,1,1303,630
+48581168,How to enable Reactive Repositories for Oracle database using Spring?,0,1009,630
+48663740,Designing monitoring of jobs on Oracle database,1,3948,630
+49044575,replicating different data model,1,1415,630
+49611208,Two database connection vs replication on one database,1,1934,630
+49700533,Ecommerce/Shopping Cart (and checkout process) : use Relational or NoSQL,2,3978,630
+49871986,PL/SQL sync two databases every few hours,0,1730,630
+51179631,Eventual consistency in RDBMS (Oracle),2,3850,630
+51249653,Sync service for local SQL Server CE and Oracle DB,0,1342,630
+51628447,Oracle Golden Gate or SQL Server Replication,1,3599,630
+52024776,Pushing messages from an Oracle database to a client,0,678,630
+52051047,Realtime sync between Oracle db(source) and Mongodb(destination),1,811,630
+52089192,How to sync data from SQL Server to Oracle using Grails,1,2022,630
+52204757,Stream Processing Framework Vs Database,2,2832,630
+52408356,Oracle live table replication,1,682,630
+55682972,Using H2 database while Development with Spring Boot is recomended?,2,880,630
+55867733,Synchronize data between front end and database,1,1855,630
+56350513,How to create a asynchronous replication of Oracle Database,0,2632,630
+56642903,How to synchronize multi-databases to one central database in remote servers?,1,3918,630
+58120498,Which is the fastest way to create a test database(with all data) from a production database which is quite big in size (400 GB)?,2,1713,630
+59453808,System design : how to make sure two DB receive the same data (synchronous)?,0,1857,630
+60749917,How to mirror Oracle's Solaris repo on Linux?,0,913,630
+60909704,How to synchronize work on a database project over multiple programmers?,1,816,630
+60969584,Embedded Java Database with Restore Point and Flashback system,1,870,630
+61636269,Oracle database (online) replication,1,3959,630
+62200623,Caching oracle table data into Elastic search DB effectively,1,1573,630
+62392593,Replicate Oracle db into h2 for unit test (spring-boot application),1,3701,630
+63084869,Difference between Striim and CR8,2,1289,630
+63093972,Copying data of one database to another in Oracle,2,2307,630
+63295739,Need I install oracle database for standby or only oracle software?,1,1359,630
+65582409,Doctrine: Persisting data into multiple databases (mysql/oracle) at same time?,1,2123,630
+66069999,Synchronise Oracle database with Google Cloud,0,887,630
+68002946,Creating a user in Oracle Active Data Guard,2,1203,630
+69909261,"In springboot, can I connect with two database so that if one database is giving exception then I can connect to the other database dynamically",1,3852,630
+70099416,What are the options to replicate Autonomous Database manual or automatic backups to other Availability Domains (AD) or Regions?,0,253,630
+72302688,AWS RDS Oracle: Synch Specific Schema to Test Environment,0,495,630
+73718584,SymmetricDS - Oracle - Specify Schema and disable Push,1,3941,630
+75649230,Oracle - part of db replication - good practices,1,1638,630
+77654127,How to keep On Prem and cloud databases in sync?,1,1046,630
+78201629,Data migration from a live oracle database to Mongo db,1,1317,630
+78437838,Java application RAC- aware,1,2635,630
+78447753,Oracle Database Service: Cloning/Copying an existing database service configuration to create a new service,0,1390,630

@@ -1,0 +1,167 @@
+question_id,title,answer_count,text_length,cluster_id
+308,Is there a version control system for database structure changes?,21,3930,797
+29744,How do you manage schema upgrades to a production database?,7,3936,797
+41838,Black Box testing software,6,2092,797
+47366,SQL Compare-Like tool for Oracle?,2,1454,797
+140153,How to access Subversion from Oracle PL/SQL?,4,3418,797
+269145,Oracle - side-by-side schema update technology...is there any?,3,3243,797
+287409,Oracle packages in version control?,5,2731,797
+499171,Migrating an Oracle database with a C# application attached to it: How to manage database migration?,3,3895,797
+540617,Best way to test a Delphi application,3,2780,797
+560273,How to compare Oracle XML Gateway Message Designer maps? (.xgm),1,1968,797
+706026,"How do you work on Oracle packages in a collaborative, version-controlled environment?",7,3909,797
+859039,Oracle compile view sql,0,520,797
+870528,Scripting out Oracle objects,3,1477,797
+915702,What are some good Oracle Db maintenance Tools,4,2593,797
+936576,SQL Server 2000/2005 - Maintaining Development Version and Production Version,1,1220,797
+971792,Is there an easy way to backup Oracle SQL Developer's User Snippets?,7,2649,797
+1026378,how will you take only stored procedure backup in oracle 10g?,3,2524,797
+1101390,Oracle SQL Developer: sharing configuration via Dropbox,3,3110,797
+1150667,Track changes on a database,1,2340,797
+1161116,Version configuration from SQL,1,3965,797
+1262534,"Oracle DDL/DML script, PL/SQL in Source Control",6,3948,797
+1277085,version control for Oracle 10g Express,2,1166,797
+1292914,Deploying Oracle PL/SQL Packages using a .Net deployment project,2,2588,797
+1552096,Readonly access to stored procedures,1,717,797
+1717048,Database source control with Oracle,9,3960,797
+1889734,Strategy for managing Oracle packages without breaking code,2,3936,797
+2052377,Oracle DB versioning scheme,4,1737,797
+2146211,Suggestions for an Oracle version control system,3,3947,797
+2187520,Oracle build order and PL/SQL package dependencies,6,3945,797
+2231448,Errors in database migration scripts,2,3972,797
+2329597,Build automation for Delphi + Oracle,3,3959,797
+2404540,How should I migrate DDL changes from one environment to the next?,4,3929,797
+2499291,How to export Oracle statistics,1,2037,797
+2668094,How to (unit-)test data intensive PL/SQL application,4,3943,797
+3014223,PL/SQL pre-compile and Code Quality checks in an automated build environment?,3,3918,797
+3130574,Any tools to export the whole Oracle DB as SQL scripts,4,2878,797
+3372546,Oracle updating database with scripts - automation,2,3945,797
+4114476,Testing stored procedures using MSTest (.Net),1,2373,797
+5142319,Options for generating create scripts for all objects in Oracle schema,2,1862,797
+5811079,Is it possible to create Oracle Packages dynamically from a win app,2,1132,797
+5889260,Using Schema Compare for Oracle to create deployment script,4,3001,797
+6312099,How to achieve test isolation testing Oracle PL/SQL?,4,3943,797
+7253819,DBUnit oracle possible to determine tables written to after a given test,1,1710,797
+7311868,What is a good way to deploy ASP.NET MVC applications to IIS?,3,1534,797
+7582090,Anyone had any luck integrating SQL unit tests to run with CI build tool?,2,1844,797
+7932860,How to handle versioning with Oracle Apex,3,3848,797
+7971550,How do I create automated tests for an Oracle procedure?,2,2455,797
+8797960,Deploy the same version file in BPEL SOA,1,1209,797
+9081875,Migrating changes from a dev APEX app to production?,0,754,797
+9195170,diff local package with database package,2,2892,797
+9367904,SQL script to update a package,2,2479,797
+10096311,Database build process management,2,2297,797
+10534722,How can I deploy new version PL/SQL package in Oracle DB server under high load?,2,1991,797
+10837612,Create Database in Visual Studio as a new database project and then use it as a test database,0,569,797
+11953316,Oracle: put existing db to version control,2,1636,797
+12096083,How to generate the SQL script for migration from an old DB to a new DB?,2,3903,797
+12210140,ArcSDE Database Refactoring Tool options,1,3955,797
+12478519,Solution to do Database migrations on Oracle / SqlServer and SqlLite,0,2168,797
+12754779,Store build number and date in oracle database procedure comment header,1,2311,797
+12905648,Oracle Data Tools (ODT) - schema compare,3,2786,797
+14355660,Check if oracle script is valid and will run ok on another database,1,941,797
+14717381,Oracle build-automation?,1,3997,797
+16037641,"Oracle database, large plsql code managment",3,2968,797
+17743497,Database Insert into script preparation for tests (logging data state?),1,2941,797
+17882129,Database objects version control (not schema),1,2790,797
+18601488,Is there a version control feature in Oracle BI Answers for a single Analysis?,1,2643,797
+18676265,Oracle SQL and PL/SQL 'make' tool,1,1829,797
+18732583,Using Source Code Control in Oracle SQL Developer,1,2860,797
+18743448,Storing DDL scripts into a clob,1,1303,797
+19100682,Is it possible to compile Oracle Pro*C without a database (skip semantic check)?,0,2297,797
+19729031,Database monitoring Scripts Automation,1,2078,797
+19817306,Oracle Designer Editor 10.1.2.5 version control?,1,995,797
+20060856,Using Oracle Developer Tools with Source Control for Visual Studio,3,2649,797
+20611476,Best system test technique for new front end to legacy system,1,1738,797
+20745759,update the package body in Oracle Database (Sql developer),1,1434,797
+21697596,How to merge metadata from several copies of Oracle database into single (reference) database,1,2174,797
+21916923,Creating local Oracle test database,2,3457,797
+22021445,Oracle SQLDeveloper Database Diff functionality doesn't consider dependencies,0,3099,797
+22598172,How to JPA update between database versions?,1,1513,797
+22707262,Generate change scripts from SQL,1,3963,797
+23425865,Can we create a project for oracle database deployment similar to visual studio SSDT project,1,955,797
+23492612,SQL Developer source control option,2,3960,797
+23534676,"Oracle database, moving changes between databases",1,2337,797
+23785673,Upgrade database objects while they are still being used by an application,2,1637,797
+24265750,How to cleanup the utplsql testpackages?,1,1396,797
+24500626,Centralized vs Distributed Version Control on Oracle Right Now,1,1772,797
+24522960,how to save stored procedures in oracle toad to script files,2,1969,797
+24823790,how to Secure Oracle APEX application export from updating/copying,2,1221,797
+25244546,Jenkins to oracle,2,1365,797
+25623999,Start with Database versioning,0,1297,797
+27507236,utPLSQL and existing data?,1,2081,797
+27801466,Compiling Oracle schema with debug info,2,3868,797
+27840323,What is the best way for deploying Oracle EBS developments?,1,1451,797
+28153028,"How to ""check in"" changes on both database and code by just one tag using ODT?",3,3917,797
+28308550,How to deploy sql changes with .NET + Oracle,2,2663,797
+28566062,Jenkins Integration/Unit Testing,2,2444,797
+29242231,Export configuration of oracle database?,0,1259,797
+30191565,get list of changesets for a specific Team Project from tfs and store them in oracle database,2,887,797
+30867136,Why use Oracle version control?,2,3964,797
+31518315,Create an oracle pl/sql package using a package on a different remote database,1,1613,797
+31613599,How to generate DDL for deltas only between two different versions of a schema?,2,2599,797
+31701775,Unit testing - Integration/Code gen tools,1,840,797
+32147804,Oracle: Prevent a stored procedure from running outside of production environment,1,2217,797
+32432501,How to Version control and Configuration Management in Oracle APEX 4.2,1,1233,797
+32887158,How to manage test data fixtures for acceptance testing in large projects?,2,1968,797
+33647104,How to give multiple build options in Oracle apex,1,3129,797
+34738433,PL/SQL (Toad) auto format all database objects,1,1454,797
+35750017,Production Clone for an Oracle Test Database,1,2053,797
+35790937,Oracle Github Integration Automation,1,648,797
+37535312,Database schema versioning control (not change script version control),0,1981,797
+38134067,Compare two schemas using toad and Redgate?,2,1186,797
+38553654,Validating SQL Files - SQL Validator,1,2866,797
+39675199,How to do Data independent unit testing using NUnit,1,1975,797
+39853242,ORACLE XE Savepoints vs Snapshots,0,701,797
+39854089,"Deploy Sql Changes to Customer Databases (altered tables, functions,...)",1,3923,797
+39903570,Oracle SQL Developer how to copy multiple procedures from one server to another,2,1629,797
+40105988,BAMBOO for Oracle and Oracle Forms build,1,1741,797
+40257270,What is the best way to automate ORACLE scripts with Nolio?,2,1315,797
+40523382,Developer sandboxes for Oracle database,1,1955,797
+41733346,Script to check to Invalid objects in Oracle and build script to compile the invalid objects,1,1282,797
+43141978,SSDT Equivalent for Oracle Database,3,2200,797
+43628300,Data Virtualization and provisioning tools such as Delphix,1,1712,797
+44285850,Oracle database to GitLab,3,2175,797
+45606337,Versioning of code and data in Oracle,1,1200,797
+46304680,Automation Execution,1,2237,797
+48041995,"I have some tests that work separately, but that get broken when excuting them together (Oracle SQL)",0,2345,797
+48262854,Oracle SQL Developer package and package body copy and compile from one schema to another,1,1345,797
+48537749,Developing a comprehensive set of SQL statements/queries based on Sakila or other standard database,0,2897,797
+48556321,Performing checks on Liquibase scripts,2,2189,797
+50064436,PL/SQL - conditional compilation specific to one database,1,804,797
+50560687,Deploying Oracle PL/SQL code to QA,0,805,797
+50927119,Oracle - Disable masive updates,1,2169,797
+50930233,"Importing and Replacing APEX application with build status ""Run Application Only""",1,2557,797
+51037470,Extract whole schema from oracle database to another (java) (automation),3,2221,797
+51739619,Code Comparison in Oracle DB and SVN,1,1160,797
+52080578,Oracle Developer Tools for Visual Studio 2017 (ODT),1,2048,797
+52162208,Redgate Extension for Visual Studio,1,2431,797
+52288072,Way to dump (copy) all DB objects from Oracle to Intellij,2,797,797
+52597308,Oracle SQL Developer export sources for version control,1,1950,797
+53150247,Export specific oracle packages (specification and body) from sql prompt,1,1570,797
+53421165,How to get old code from replaced procedure (PL/SQL)?,2,3942,797
+54525336,What are the advantages of handling oracle packages/stored procedures with liquibase?,1,1129,797
+54569438,Oracle repository,1,1456,797
+55536808,I started out on PL/SQL Development on SQL Developer. How will my work in the DEV environment be pushed to QA and then eventually PROD?,2,3204,797
+56117456,How to test all environment configurations for DB scripts in lower environments,0,3551,797
+56331586,How to run a package from development database on production database,0,963,797
+57339714,Create DB script of all the DB changes took place in defined period,0,2548,797
+60410078,Oracle and GitLab,1,3760,797
+60922379,how to programatically simulate a oracle server shutdown,1,1349,797
+61359376,Automation of Cart functionality in SQLDeveloper,0,3836,797
+61401960,Quickest way to setup a local Oracle Database in local development,0,1683,797
+61920938,How to version control the sql files in github repository,0,549,797
+62392593,Replicate Oracle db into h2 for unit test (spring-boot application),1,3701,797
+65089057,Oracle Apex: Is it possible to change the default schema at runtime?,2,2307,797
+65089635,Unit Testing Oracle views,0,2008,797
+66463293,Is there an editor out there that allows me to test PL/SQL scripts without a connection?,1,2662,797
+67296861,Oracle PL/SQL package version control,1,2462,797
+68084544,Oracle APEX Development Process/Flow,2,3575,797
+68229253,Configuring GIT in Oracle SQL developer 18.x,1,600,797
+68578989,Schema change notification,1,1842,797
+69096690,SQL Developer Read Only Test Mode,1,791,797
+72167675,Execute only SQL delta (change) files in Jenkins CI/CD and get deployed on production server,0,1576,797
+76122801,Methodical usage of many SQL-files in oracle-sqldeveloper,2,3938,797
+77202164,How to generate schema repository for an existing oracle database,0,2077,797
+79067355,Oracle OBIEE - Trying to automate deletion of initialization blocks,1,1622,797
+79546047,Oracle automatic precheck of stored object replacement,0,1418,797
