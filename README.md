@@ -4,11 +4,11 @@
 
 本项目旨在对 **152,758 条**关于 `oracle-database` 的 Stack Overflow 问答数据进行高精度**语义聚类 (Semantic Clustering)**，以实现主题级别的**去重和知识聚合**。
 
-我们采用 **SBERT** 向量化技术结合 **PCA 降维**，并最终选定 **MiniBatchKMeans (**$K=1180$) 模型进行划分。项目的核心亮点在于建立了**六类对照基线 (Baselines)** 和**九大评估指标 (Metrics)** 体系，严格验证了聚类结果的真实语义结构和有效性。
+我们采用 **SBERT** 向量化技术结合 **PCA 降维**，并最终选定 **MiniBatchKMeans (**$K=1200$) 模型进行划分。项目的核心亮点在于建立了**六类对照基线 (Baselines)** 和**九大评估指标 (Metrics)** 体系，严格验证了聚类结果的真实语义结构和有效性。
 
 ### 核心成果
 
-- **最终模型：** MiniBatchKMeans ($K=1180$)
+- **最终模型：** MiniBatchKMeans ($K=1200$)
 
 - **输入数据：** PCA 降维至 256 维的 SBERT 语义向量。
 
@@ -38,7 +38,7 @@ StackOverflow-Clustering/
 │   │   ├── run_dim_reduction.py    # 运行 PCA 降维，生成 pca_256.npy
 │   │   └── run_comparison_viz.py   # 生成 UMAP/t-SNE 可视化图
 │   ├── 03_clustering/            # 聚类模型实现
-│   │   └── clustering_main.py      # 包含 DBSCAN 尝试和 K-Means 优化 (K=1180)
+│   │   └── clustering_main.py      # 包含 DBSCAN 尝试和 K-Means 优化
 │   └── 04_evaluation/            # 评估与定性分析模块
 │       ├── baseline_generate.py    # 生成六类对照基线数据
 |       ├── export_question_clusters.py # 生成对应 question id 的各 baseline 与 ours 的数据
@@ -48,7 +48,6 @@ StackOverflow-Clustering/
 ├── data/                         # 数据文件 (大型文件需通过链接下载)
 │   ├── input/                      # 原始数据链接
 │   └── final_outputs/              # 最终产出数据
-│       └── 1180_final_cluster_labels.csv # ★ 核心聚类标签文件
 ├── docs/                         # 文档与报告
 │   ├── 总结报告.md           # 完整的项目技术总结报告
 │   └── 评估与定性分析/
@@ -80,7 +79,7 @@ StackOverflow-Clustering/
 
 2.  **降维 (02_dim_reduction):** 运行 `run_dim_reduction.py` 生成 `pca_256.npy`。
 
-3.  **聚类 (03_clustering):** 运行 `clustering_main.py` 得到 `1180_final_cluster_labels.csv`。
+3.  **聚类 (03_clustering):** 运行 `clustering_main.py` 得到结果
 
 4.  **评估 (04_evaluation):**
     - 运行 `baseline_generate.py` 生成对照基线。
